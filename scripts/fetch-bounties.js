@@ -1,7 +1,7 @@
 // scripts/fetch-bounties.js
-require('dotenv').config();
-const { Octokit } = require('@octokit/rest');
-const fs = require('fs');
+import 'dotenv/config';
+import { Octokit } from '@octokit/rest';
+import fs from 'fs';
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
@@ -9,8 +9,7 @@ async function fetchBounties() {
   console.log('🌰 Hunting for bounties...');
   
   // Search for issues with "bounty" or "job" label in AI/Agent repos
-  // Query: label:bounty OR label:job state:open topic:ai topic:agent sort:updated
-  const query = 'label:bounty,job state:open topic:ai,agents sort:updated-desc';
+  const query = 'bounty OR job in:title,body topic:ai,agents state:open sort:updated-desc';
   
   try {
     const { data } = await octokit.search.issuesAndPullRequests({

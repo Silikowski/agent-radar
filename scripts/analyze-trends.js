@@ -1,7 +1,7 @@
 // scripts/analyze-trends.js
-require('dotenv').config();
-const { OpenAI } = require('openai'); // We use OpenAI SDK, but it can point to GitHub Models endpoint
-const fs = require('fs');
+import 'dotenv/config';
+import { OpenAI } from 'openai';
+import fs from 'fs';
 
 // Use GitHub Models (or any OpenAI compatible endpoint)
 const client = new OpenAI({
@@ -44,7 +44,7 @@ async function analyzeTrends() {
   try {
     const response = await client.chat.completions.create({
       messages: [{ role: 'user', content: prompt }],
-      model: 'gpt-4o', // Or 'DeepSeek-R1' if available via GitHub Models
+      model: 'gpt-4o',
       temperature: 0.7,
       response_format: { type: "json_object" }
     });
@@ -63,7 +63,20 @@ async function analyzeTrends() {
 
   } catch (error) {
     console.error('Error analyzing trends:', error);
-    process.exit(1);
+    // Fallback if API fails (so site isn't broken)
+    const fallbackReport = {
+      generated_at: new Date().toISOString(),
+      analysis: {
+        market_sentiment: "Data Stream Interrupted",
+        top_skills: ["Resilience", "Debugging", "Patience"],
+        emerging_trends: ["API Outages"],
+        average_bounty: 0,
+        agent_pulse_score: 0,
+        commentary: "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
+      },
+      bounties: bounties.slice(0, 10)
+    };
+    fs.writeFileSync('./data/agent_pulse.json', JSON.stringify(fallbackReport, null, 2));
   }
 }
 
