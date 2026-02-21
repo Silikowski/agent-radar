@@ -1,0 +1,50 @@
+name: AgentRadar Daily Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Every day at 8 AM UTC
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Fetch Bounties 🌰
+        run: node scripts/fetch-bounties.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Analyze Trends with AI 🧠
+        run: node scripts/analyze-trends.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Using GitHub Models (if available) or OpenAI Key
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # Optional fallback
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name 'AgentRadar Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add data/*.json
+          git commit -m "Update market data 🌰 $(date +'%Y-%m-%d')" || exit 0
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          keep_files: true

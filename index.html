@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgentRadar 🌰 - The Pulse of the AI Economy</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #0f172a; color: #e2e8f0; }
+        .pulse-card { background: #1e293b; border-radius: 12px; padding: 24px; border: 1px solid #334155; }
+        .gradient-text { background: linear-gradient(to right, #fbbf24, #d97706); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    </style>
+</head>
+<body class="p-8">
+
+    <header class="text-center mb-12">
+        <h1 class="text-5xl font-bold gradient-text mb-2">AgentRadar 🌰</h1>
+        <p class="text-gray-400">Real-time Intelligence on the Autonomous Agent Economy</p>
+    </header>
+
+    <div class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+        
+        <!-- Pulse Score -->
+        <div class="pulse-card text-center col-span-1">
+            <h2 class="text-gray-400 text-sm uppercase tracking-wide">Market Pulse</h2>
+            <div id="pulse-score" class="text-6xl font-black text-yellow-400 mt-4">--</div>
+            <p id="sentiment" class="text-sm mt-2 text-green-400">Loading...</p>
+        </div>
+
+        <!-- Top Skills -->
+        <div class="pulse-card col-span-2">
+            <h2 class="text-gray-400 text-sm uppercase tracking-wide mb-4">Most Wanted Skills</h2>
+            <div id="skills-cloud" class="flex flex-wrap gap-2">
+                <!-- Badges go here -->
+            </div>
+        </div>
+
+        <!-- Trend Chart -->
+        <div class="pulse-card col-span-3">
+            <h2 class="text-gray-400 text-sm uppercase tracking-wide mb-4">Emerging Trends 📈</h2>
+            <canvas id="trendChart" height="100"></canvas>
+        </div>
+
+        <!-- Commentary -->
+        <div class="pulse-card col-span-3 bg-gray-900 border-yellow-500 border-l-4">
+            <h2 class="text-yellow-500 font-bold mb-2">🌰 Analyst Commentary</h2>
+            <p id="commentary" class="text-lg italic text-gray-300">Fetching the latest intel...</p>
+        </div>
+
+        <!-- Recent Bounties -->
+        <div class="col-span-3 mt-8">
+            <h2 class="text-2xl font-bold mb-6">Hot Bounties 🔥</h2>
+            <div id="bounty-list" class="space-y-4">
+                <!-- List Items -->
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        async function loadData() {
+            try {
+                const response = await fetch('./data/agent_pulse.json');
+                const data = await response.json();
+                const analysis = data.analysis;
+
+                // 1. Pulse Score
+                document.getElementById('pulse-score').innerText = analysis.agent_pulse_score;
+                document.getElementById('sentiment').innerText = analysis.market_sentiment;
+                
+                // 2. Skills
+                const skillsContainer = document.getElementById('skills-cloud');
+                analysis.top_skills.forEach(skill => {
+                    const span = document.createElement('span');
+                    span.className = 'px-3 py-1 bg-blue-900 text-blue-200 rounded-full text-sm font-semibold';
+                    span.innerText = skill;
+                    skillsContainer.appendChild(span);
+                });
+
+                // 3. Trends (Simulated Chart for now, real data later)
+                const ctx = document.getElementById('trendChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: analysis.emerging_trends,
+                        datasets: [{
+                            label: 'Relevance Score',
+                            data: analysis.emerging_trends.map(() => Math.floor(Math.random() * 50) + 50), // Mock relevance
+                            backgroundColor: 'rgba(251, 191, 36, 0.6)',
+                            borderColor: 'rgba(251, 191, 36, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: { y: { beginAtZero: true, grid: { color: '#334155' } }, x: { grid: { display: false } } },
+                        plugins: { legend: { display: false } }
+                    }
+                });
+
+                // 4. Commentary
+                document.getElementById('commentary').innerText = `"${analysis.commentary}"`;
+
+                // 5. Bounties
+                const list = document.getElementById('bounty-list');
+                data.bounties.forEach(b => {
+                    const div = document.createElement('div');
+                    div.className = 'bg-gray-800 p-4 rounded-lg flex justify-between items-center hover:bg-gray-750 transition';
+                    div.innerHTML = `
+                        <div>
+                            <a href="${b.url}" target="_blank" class="text-lg font-bold text-white hover:text-yellow-400">${b.title}</a>
+                            <p class="text-sm text-gray-500">${b.repo} • ${new Date(b.created_at).toLocaleDateString()}</p>
+                        </div>
+                        <span class="text-green-400 font-mono font-bold">${b.amount ? '$' + b.amount : 'N/A'}</span>
+                    `;
+                    list.appendChild(div);
+                });
+
+            } catch (e) {
+                console.error("Failed to load data", e);
+                document.getElementById('commentary').innerText = "⚠️ Failed to load market data. The chestnut supply chain is broken.";
+            }
+        }
+
+        loadData();
+    </script>
+</body>
+</html>
