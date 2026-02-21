@@ -24,12 +24,12 @@ jobs:
         run: npm install
 
       - name: Fetch Bounties 🌰
-        run: node scripts/fetch-bounties.js
+        run: node scripts/fetch-bounties.cjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Analyze Trends with AI 🧠
-        run: node scripts/analyze-trends.js
+        run: node scripts/analyze-trends.cjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Using GitHub Models (if available) or OpenAI Key
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # Optional fallback
