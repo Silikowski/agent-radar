@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-02-21T14:23:15.614Z",
+  "analysis": {
+    "market_sentiment": "Data Stream Interrupted",
+    "top_skills": [
+      "Resilience",
+      "Debugging",
+      "Patience"
+    ],
+    "emerging_trends": [
+      "API Outages"
+    ],
+    "average_bounty": 0,
+    "agent_pulse_score": 0,
+    "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
+  },
+  "bounties": [
+    {
+      "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
+      "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
+      "repo": "DevExpGbb/vscode-ghcp-starter-kit",
+      "labels": [
+        "research",
+        "weekly-report",
+        "ai-development",
+        "github-copilot",
+        "mcp",
+        "agentic-workflows"
+      ],
+      "body": "# Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot\n\n**Research Date:** October 7, 2025  \n**Repository:** DevExpGbb/vscode-ghcp-starter-kit\n\n---\n\n## Executive Summary\n\nThe vscode-ghcp-starter-kit repository sits at the intersection of three converging trends: the maturation of GitHub Copilot into an autonomous agent, the explosive growth of the Model Context Protocol (MCP) ecosystem, and the industry-wide shift towar...",
+      "created_at": "2025-10-07T14:52:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    }
+  ]
+}
