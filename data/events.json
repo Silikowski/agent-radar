@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2026-02-14T13:03:44.000Z",
+    "entities": "Figure Technologies",
+    "topic": "cyberattack",
+    "eventSummary": "Fintech firm Figure Technologies suffered a data breach involving the exposure of personal customer details. The incident was attributed to a social-engineering phishing attack targeting an employee, and the data was reportedly leaked by ShinyHunters hackers after the company refused to pay a ransom.\nSources:\n- https://twitter.com/128484298/status/2022772656131473572\n- https://cointelegraph.com/news/figure-technology-data-breach-customer-details-exposed"
+  }
+]
