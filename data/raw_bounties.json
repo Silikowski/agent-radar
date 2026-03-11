@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-03-11",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/3",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-03-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-11 01:47 UTC\n\n---\n\n好的，用户给了我一个任务，需要我作为技术分析师来处理2026年3月11日的GitHub AI相关热门数据，然后生成一份结构清晰的《AI开源趋势日报》。让我先仔细看看用户的要求。\n\n用户提供了两方面的数据：一个是Trending榜单，有13个仓库；另一个是AI主题搜索结果，有79个仓库，但已经去重了。用户还明确说明了数据来源和可信度，Trending榜单的今日stars数最可信，主题搜索是7天内活跃的AI相关项目。\n\n用户要求的第一步是过滤。要从这些数据中筛选出与AI/ML明确相关的项目，排除与AI无关的通用工具、前端框架、游戏等。特别是Trending榜单中的非AI项目要直接略去。嗯，我得仔细看看这些项目。\n\n看看Trending榜单，第一个是msitarzewski/agency-agents，描述是\"A complete AI agency at your fingertips\"...",
+    "created_at": "2026-03-11T02:07:36Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
     "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
     "repo": "DevExpGbb/vscode-ghcp-starter-kit",
