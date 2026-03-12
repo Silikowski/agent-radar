@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-03-12",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/25",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-03-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-12 00:52 UTC\n\n---\n\n# AI 开源趋势日报（2026-03-12）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“智能体爆发、工具链成熟、RAG 深化”三大特征。多个 Agent 框架单日获星超千，反映开发者对可组合、可部署的智能体架构需求激增；同时，AI 测试工具（如 promptfoo）和 GUI 控制代理（如 page-agent）进入主流视野，标志 Agent 工程正从实验走向生产。此外，向量数据库与 RAG 基础设施持续活跃，支撑企业级知识增强应用落地。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** ⭐0 (+718 today)  \n  支持多模型对比、红队测试与 CI/CD 集成的 AI 提示词与 A...",
+    "created_at": "2026-03-12T00:56:28Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-03-11",
     "url": "https://github.com/DenisZheng/agents-radar/issues/3",
     "repo": "DenisZheng/agents-radar",
