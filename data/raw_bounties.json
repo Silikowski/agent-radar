@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-03-24",
+    "url": "https://github.com/rollysys/agents-radar/issues/133",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-03-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-24 02:26 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-03-24 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# 📅 AI 开源趋势日报 (2026-03-24)\n\n## 1. 今日速览\n今日 AI 开源领域最显著的趋势是 **“智能体工程化的全面落地”**。字节跳动推出的 `deer-flow` 以超 3500 的日增 Star 领跑，标志着 SuperAgent（超级智能体）框架正在从实验走向工业级应用。同时，`browser-use` 和 `TradingAgents` 的火爆表明 AI Agent 在 **网页自动化** 和 **金融交易** 等垂直领域的执行力大幅提升。此外，针对 Claude Code 等 coding agent 的 **技能增强与记忆系统**（如 `everything-claude-code`）成为开发者...",
+    "created_at": "2026-03-24T02:34:40Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 Bản tin xu hướng AI mã nguồn mở 2026-03-19",
     "url": "https://github.com/compasify/agents-radar/issues/53",
     "repo": "compasify/agents-radar",
