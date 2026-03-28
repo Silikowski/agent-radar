@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T08:57:19.132Z",
+  "generated_at": "2026-03-28T08:42:52.467Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-03-28",
+      "url": "https://github.com/rollysys/agents-radar/issues/152",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-03-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-28 02:29 UTC\n\n---\n\n你好！作为技术分析师，我已对 2026-03-28 的 GitHub AI 热门数据进行了深度清洗和分析。\n\n以下是今日的《AI 开源趋势日报》。\n\n---\n\n# 📅 AI 开源趋势日报 (2026-03-28)\n\n## 1. 今日速览\n今日 AI 开源社区呈现出**“Agentic Workflow（智能体工作流）”与“深度信息合成”**的双重爆发趋势。**SakanaAI** 推出的 AI-Scientist-v2 展示了 AI 在自动化科学研究上的惊人进展，而多款 **Deep Research** 类工具（如 `last30days-skill`, `Agent-Reach`）集中爆发，标志着 Agent 正在从“执行指令”向“主动综合复杂信息”进化。同时，Claude Code 生态持续火热，不仅出现了 `oh-my-claudecode` 这样的团队协作编排工具，更有 ...",
+      "created_at": "2026-03-28T02:35:08Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-03-28",
+      "url": "https://github.com/duanyytop/agents-radar/issues/305",
+      "repo": "duanyytop/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-03-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-28 00:09 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-03-28\n\n---\n\n## 第一步：AI 相关性筛选\n\n**Trending 榜单筛选结果**：12 个项目中，明确 AI/ML 相关 **10 个**，排除 2 个（FreeCAD 为 3D 建模工具、twenty 为 CRM 通用 SaaS）。\n\n---\n\n## 第二步：项目分类\n\n| 项目 | 主要分类 | 次要分类 |\n|:---|:---|:---|\n| mvanhorn/last30days-skill | 🤖 AI 智能体/工作流 | 📦 AI 应用 |\n| hacksider/Deep-Live-Cam | 📦 AI 应用 | 🧠 大模型/训练 |\n| SakanaAI/AI-Scientist-v2 | 🤖 AI 智能体/工作流 | 🧠 大模型/训练 |\n| microsoft/VibeVoice | 📦 AI ...",
+      "created_at": "2026-03-28T00:15:03Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-03-24",
       "url": "https://github.com/rollysys/agents-radar/issues/133",
