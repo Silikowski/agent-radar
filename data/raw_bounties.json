@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-03-30",
+    "url": "https://github.com/rollysys/agents-radar/issues/160",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-03-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-30 02:46 UTC\n\n---\n\n# AI 开源趋势日报 (2026-03-30)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的趋势是 **\"AI 代理的自我进化与工具化\"**。随着 Claude Code 等产品的流行，社区正疯狂构建围绕 AI 编程代理的**记忆系统**（如 `claude-mem`）和**技能框架**（如 `superpowers`），试图让 AI 具备长期记忆和更复杂的软件工程能力。同时，**语音交互**（`VibeVoice`）和**实时视频深度伪造**（`Deep-Live-Cam`）等模态突破项目依然保持着极高的热度，显示出多模态 AI 应用正在从实验室走向大众娱乐和生产工具。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具 (框架与基础设施)\n*涵盖 SDK、CLI 工具、推理引擎及开发环境*\n\n- **[microsoft/VibeVoice...",
+    "created_at": "2026-03-30T02:52:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-03-28",
     "url": "https://github.com/rollysys/agents-radar/issues/152",
     "repo": "rollysys/agents-radar",
