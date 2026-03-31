@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T09:15:55.970Z",
+  "generated_at": "2026-03-31T09:03:53.848Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-03-31",
+      "url": "https://github.com/rollysys/agents-radar/issues/165",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-03-31\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-31 02:39 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-03-31 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n以下是经过筛选、分类和深度分析的报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-03-31)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的趋势是 **\"AI 编程智能体化\"与\"多模态落地\"**。以 `VibeVoice` 为代表的开源项目正在打破语音生成的边界，而围绕 `Claude Code` 的生态工具链（如 `claude-howto`、`hermes-agent`）呈现爆发式增长，显示开发者正从单纯使用 LLM 转向构建具备深度记忆和自主执行能力的 Coding Agent。此外，`Deep-Live-Cam` 的持续高热表明实时视频深度伪造技术在社区仍具极高关注度，而 `OpenBB` 的上榜则印证了...",
+      "created_at": "2026-03-31T02:46:02Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-03-31",
+      "url": "https://github.com/DenisZheng/agents-radar/issues/223",
+      "repo": "DenisZheng/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-03-31\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-31 00:21 UTC\n\n---\n\n**AI 开源趋势日报（2026-03-31）**\n\n---\n\n### 今日速览\n\n微软发布 **VibeVoice**，作为开源前沿语音 AI 模型引发关注；Claude Code 相关教程与最佳实践项目热度飙升，反映开发者对 AI 编码代理的实际落地兴趣激增。同时，RAG、向量数据库及 AI Agent 工具链持续活跃，显示社区正加速构建端到端的智能应用基础设施。\n\n---\n\n### 各维度热门项目\n\n#### 🔧 AI 基础工具\n- **[microsoft/VibeVoice](https://github​.com/microsoft/VibeVoice)** ⭐0 (+2492 today)  \n  微软推出的开源前沿语音 AI 模型，支持高保真语音生成，今日上线即获爆发式关注。\n- **[ollama/ollama](https://github​.com/ollam...",
+      "created_at": "2026-03-31T00:23:13Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-03-30",
       "url": "https://github.com/rollysys/agents-radar/issues/160",
@@ -108,23 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-03-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-11 01:47 UTC\n\n---\n\n好的，用户给了我一个任务，需要我作为技术分析师来处理2026年3月11日的GitHub AI相关热门数据，然后生成一份结构清晰的《AI开源趋势日报》。让我先仔细看看用户的要求。\n\n用户提供了两方面的数据：一个是Trending榜单，有13个仓库；另一个是AI主题搜索结果，有79个仓库，但已经去重了。用户还明确说明了数据来源和可信度，Trending榜单的今日stars数最可信，主题搜索是7天内活跃的AI相关项目。\n\n用户要求的第一步是过滤。要从这些数据中筛选出与AI/ML明确相关的项目，排除与AI无关的通用工具、前端框架、游戏等。特别是Trending榜单中的非AI项目要直接略去。嗯，我得仔细看看这些项目。\n\n看看Trending榜单，第一个是msitarzewski/agency-agents，描述是\"A complete AI agency at your fingertips\"...",
       "created_at": "2026-03-11T02:07:36Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
-      "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
-      "repo": "DevExpGbb/vscode-ghcp-starter-kit",
-      "labels": [
-        "research",
-        "weekly-report",
-        "ai-development",
-        "github-copilot",
-        "mcp",
-        "agentic-workflows"
-      ],
-      "body": "# Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot\n\n**Research Date:** October 7, 2025  \n**Repository:** DevExpGbb/vscode-ghcp-starter-kit\n\n---\n\n## Executive Summary\n\nThe vscode-ghcp-starter-kit repository sits at the intersection of three converging trends: the maturation of GitHub Copilot into an autonomous agent, the explosive growth of the Model Context Protocol (MCP) ecosystem, and the industry-wide shift towar...",
-      "created_at": "2025-10-07T14:52:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
