@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-02",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/242",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-02 00:20 UTC\n\n---\n\n**AI 开源趋势日报（2026-04-02）**\n\n---\n\n### **今日速览**  \n今日 GitHub AI 热榜呈现两大核心动向：一是终端级 AI 开发工具爆发式增长，Claude Code 及其生态插件单日新增超万星，标志“本地智能体”成为新焦点；二是前沿模型与推理架构持续突破，Google TimesFM 时间序列大模型发布、微软 VibeVoice 开源语音 AI 上线，显示多模态与专用场景模型加速落地。整体趋势指向轻量化、垂直化及终端部署能力成为开源社区创新主战场。\n\n---\n\n### **各维度热门项目**\n\n#### **🔧 AI 基础工具**\n- **[anthropics/claude-code](https://github​.com/anthropics/claude-code)** ⭐0 (+10,749 today)  \n  终端原生 AI 编程...",
+    "created_at": "2026-04-02T00:21:53Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-03-31",
     "url": "https://github.com/rollysys/agents-radar/issues/165",
     "repo": "rollysys/agents-radar",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T09:08:58.010Z",
+  "generated_at": "2026-04-02T09:01:10.448Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-04-02",
+      "url": "https://github.com/DenisZheng/agents-radar/issues/242",
+      "repo": "DenisZheng/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-04-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-02 00:20 UTC\n\n---\n\n**AI 开源趋势日报（2026-04-02）**\n\n---\n\n### **今日速览**  \n今日 GitHub AI 热榜呈现两大核心动向：一是终端级 AI 开发工具爆发式增长，Claude Code 及其生态插件单日新增超万星，标志“本地智能体”成为新焦点；二是前沿模型与推理架构持续突破，Google TimesFM 时间序列大模型发布、微软 VibeVoice 开源语音 AI 上线，显示多模态与专用场景模型加速落地。整体趋势指向轻量化、垂直化及终端部署能力成为开源社区创新主战场。\n\n---\n\n### **各维度热门项目**\n\n#### **🔧 AI 基础工具**\n- **[anthropics/claude-code](https://github​.com/anthropics/claude-code)** ⭐0 (+10,749 today)  \n  终端原生 AI 编程...",
+      "created_at": "2026-04-02T00:21:53Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-03-31",
       "url": "https://github.com/rollysys/agents-radar/issues/165",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-03-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-12 00:52 UTC\n\n---\n\n# AI 开源趋势日报（2026-03-12）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“智能体爆发、工具链成熟、RAG 深化”三大特征。多个 Agent 框架单日获星超千，反映开发者对可组合、可部署的智能体架构需求激增；同时，AI 测试工具（如 promptfoo）和 GUI 控制代理（如 page-agent）进入主流视野，标志 Agent 工程正从实验走向生产。此外，向量数据库与 RAG 基础设施持续活跃，支撑企业级知识增强应用落地。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** ⭐0 (+718 today)  \n  支持多模型对比、红队测试与 CI/CD 集成的 AI 提示词与 A...",
       "created_at": "2026-03-12T00:56:28Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-03-11",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/3",
-      "repo": "DenisZheng/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-03-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-11 01:47 UTC\n\n---\n\n好的，用户给了我一个任务，需要我作为技术分析师来处理2026年3月11日的GitHub AI相关热门数据，然后生成一份结构清晰的《AI开源趋势日报》。让我先仔细看看用户的要求。\n\n用户提供了两方面的数据：一个是Trending榜单，有13个仓库；另一个是AI主题搜索结果，有79个仓库，但已经去重了。用户还明确说明了数据来源和可信度，Trending榜单的今日stars数最可信，主题搜索是7天内活跃的AI相关项目。\n\n用户要求的第一步是过滤。要从这些数据中筛选出与AI/ML明确相关的项目，排除与AI无关的通用工具、前端框架、游戏等。特别是Trending榜单中的非AI项目要直接略去。嗯，我得仔细看看这些项目。\n\n看看Trending榜单，第一个是msitarzewski/agency-agents，描述是\"A complete AI agency at your fingertips\"...",
-      "created_at": "2026-03-11T02:07:36Z",
       "author": "github-actions[bot]",
       "amount": null
     }
