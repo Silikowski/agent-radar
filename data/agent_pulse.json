@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:58:42.151Z",
+  "generated_at": "2026-04-04T08:44:59.904Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-04-04",
+      "url": "https://github.com/gsscsd/big_model_radar/issues/133",
+      "repo": "gsscsd/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-04-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-04 01:02 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-04）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。Oh My Codex 和 Onyx 两款 AI 编程与聊天平台单日获星超 3000，反映开发者对可插拔、多模型兼容的智能体工作台需求激增。Google 发布的 TimesFM 时间序列基础模型登榜，标志大模型正向垂直领域深化。同时，向量数据库与 RAG 工程组件持续高热，社区正从“模型调用”迈向“完整 AI 应用构建”。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** ⭐0 (+1852 today)  \n  开源 AI 平台，支持任意 LLM 的高级聊天功能，今日热...",
+      "created_at": "2026-04-04T01:05:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-04-02",
       "url": "https://github.com/DenisZheng/agents-radar/issues/242",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-03-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-14 00:57 UTC\n\n---\n\n# AI 开源趋势日报（2026-03-14）\n\n## 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“**智能体基建爆发**”与“**边缘推理加速**”双主线趋势。微软推出 1-bit LLM 推理框架 BitNet，推动超低比特模型落地；Langflow 生态扩展 OpenRAG 平台，集成 Docling 与 Opensearch 实现端到端 RAG 解决方案；Google 发布 LiteRT（TensorFlow Lite 继任者），强化端侧 GenAI 部署能力。同时，AI Agent 开发工具链持续升温，从代码生成到桌面自动化均有新项目涌现。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[microsoft/BitNet](https://github.com/microsoft/BitNet)** ⭐0 (+2227)  \n...",
       "created_at": "2026-03-14T01:00:41Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-03-12",
-      "url": "https://github.com/gsscsd/big_model_radar/issues/25",
-      "repo": "gsscsd/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-03-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-12 00:52 UTC\n\n---\n\n# AI 开源趋势日报（2026-03-12）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“智能体爆发、工具链成熟、RAG 深化”三大特征。多个 Agent 框架单日获星超千，反映开发者对可组合、可部署的智能体架构需求激增；同时，AI 测试工具（如 promptfoo）和 GUI 控制代理（如 page-agent）进入主流视野，标志 Agent 工程正从实验走向生产。此外，向量数据库与 RAG 基础设施持续活跃，支撑企业级知识增强应用落地。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** ⭐0 (+718 today)  \n  支持多模型对比、红队测试与 CI/CD 集成的 AI 提示词与 A...",
-      "created_at": "2026-03-12T00:56:28Z",
       "author": "github-actions[bot]",
       "amount": null
     }
