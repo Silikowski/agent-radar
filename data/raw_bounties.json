@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-09",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/160",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-09 01:00 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-09）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“工具链下沉、应用层爆发”的鲜明特征：Google AI Edge 系列项目强势登榜，推动端侧 AI 推理与本地模型体验普及；RAG 与 Agent 框架持续领跑社区热度，多个生产级平台获大规模 star 增长；同时，轻量化模型训练与知识图谱增强检索成为技术突破焦点，反映开发者对高效、私有化 AI 落地的强烈需求。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** ⭐0 (+853 today)  \n  Google 官方推出的端侧 AI 用例展示平台，支持本地运行 ML/GenAI 模型，推动轻量化部署生态。...",
+    "created_at": "2026-04-09T01:04:39Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-04-09",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/306",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-04-09\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-09 00:19 UTC\n\n---\n\n**AI Open Source Trends Report – April 9, 2026**\n\n---\n\n### 1. **Today's Highlights**\n\nThe most notable trend today is the explosive growth of **agentic frameworks and on-device AI**, with Google’s LiteRT-LM (C++) and NVIDIA’s PersonaPlex gaining significant traction. Meanwhile, GitNexus emerges as a breakthrough client-side code intelligence engine powered by Graph RAG—runni...",
+    "created_at": "2026-04-09T00:22:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-04-06",
     "url": "https://github.com/DenisZheng/agents-radar/issues/278",
     "repo": "DenisZheng/agents-radar",
