@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-16",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/196",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-16 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-16）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施深化”双主线趋势。Claude Code 生态持续升温，多个围绕其构建的 Agent 插件与记忆系统登上热榜；同时，轻量化、本地化的 RAG 与向量数据库方案获得显著关注。大模型训练与推理框架保持稳定热度，而 AI 应用层开始向金融、开发辅助等垂直场景渗透。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[google/magika](https://github.com/google/magika)** ⭐0 (+768 today)  \n  Google 推出的 AI 驱动文件类型检测工具，利用轻量模型实现高精度内容识别，适用于安全、数据处理等场景。\n- **[vllm-project/vllm](h...",
+    "created_at": "2026-04-16T01:21:29Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-14",
     "url": "https://github.com/DenisZheng/agents-radar/issues/353",
     "repo": "DenisZheng/agents-radar",
