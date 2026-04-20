@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:57:37.308Z",
+  "generated_at": "2026-04-20T10:00:51.528Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-04-20",
+      "url": "https://github.com/gsscsd/big_model_radar/issues/217",
+      "repo": "gsscsd/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-04-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-20 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-20）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。OpenAI 官方发布轻量级多智能体框架 `openai-agents-python`，引发社区对标准化 Agent 开发范式的关注；同时，基于 WiFi 信号的人体姿态估计项目 `RuView` 登榜，标志着非视觉感知 AI 进入开源视野。Claude Code 生态持续扩张，多个 Agent 增强工具（如 `Claude-Code-Game-Studios`、`thedotmack/claude-mem`）展现开发者对“可编程 AI 助手”的深度定制需求。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://gi...",
+      "created_at": "2026-04-20T01:20:44Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-04-16",
       "url": "https://github.com/gsscsd/big_model_radar/issues/196",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-04-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-02 00:20 UTC\n\n---\n\n**AI 开源趋势日报（2026-04-02）**\n\n---\n\n### **今日速览**  \n今日 GitHub AI 热榜呈现两大核心动向：一是终端级 AI 开发工具爆发式增长，Claude Code 及其生态插件单日新增超万星，标志“本地智能体”成为新焦点；二是前沿模型与推理架构持续突破，Google TimesFM 时间序列大模型发布、微软 VibeVoice 开源语音 AI 上线，显示多模态与专用场景模型加速落地。整体趋势指向轻量化、垂直化及终端部署能力成为开源社区创新主战场。\n\n---\n\n### **各维度热门项目**\n\n#### **🔧 AI 基础工具**\n- **[anthropics/claude-code](https://github​.com/anthropics/claude-code)** ⭐0 (+10,749 today)  \n  终端原生 AI 编程...",
       "created_at": "2026-04-02T00:21:53Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-03-31",
-      "url": "https://github.com/rollysys/agents-radar/issues/165",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-03-31\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-31 02:39 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-03-31 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n以下是经过筛选、分类和深度分析的报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-03-31)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的趋势是 **\"AI 编程智能体化\"与\"多模态落地\"**。以 `VibeVoice` 为代表的开源项目正在打破语音生成的边界，而围绕 `Claude Code` 的生态工具链（如 `claude-howto`、`hermes-agent`）呈现爆发式增长，显示开发者正从单纯使用 LLM 转向构建具备深度记忆和自主执行能力的 Coding Agent。此外，`Deep-Live-Cam` 的持续高热表明实时视频深度伪造技术在社区仍具极高关注度，而 `OpenBB` 的上榜则印证了...",
-      "created_at": "2026-03-31T02:46:02Z",
       "author": "github-actions[bot]",
       "amount": null
     }

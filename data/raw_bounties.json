@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-20",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/217",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-20 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-20）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。OpenAI 官方发布轻量级多智能体框架 `openai-agents-python`，引发社区对标准化 Agent 开发范式的关注；同时，基于 WiFi 信号的人体姿态估计项目 `RuView` 登榜，标志着非视觉感知 AI 进入开源视野。Claude Code 生态持续扩张，多个 Agent 增强工具（如 `Claude-Code-Game-Studios`、`thedotmack/claude-mem`）展现开发者对“可编程 AI 助手”的深度定制需求。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://gi...",
+    "created_at": "2026-04-20T01:20:44Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-16",
     "url": "https://github.com/gsscsd/big_model_radar/issues/196",
     "repo": "gsscsd/big_model_radar",
