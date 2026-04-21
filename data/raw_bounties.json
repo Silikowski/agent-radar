@@ -1,5 +1,27 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-21",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/223",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-21 01:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-21）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体爆发、向量数据库持续升温、底层优化受关注”三大趋势。OpenAI 发布轻量级多智能体框架 `openai-agents-python`，单日获星超 900，标志主流厂商正式入局 Agent 工程化；DeepSeek 推出高效 FP8 GEMM 内核 `DeepGEMM`，反映大模型推理向极致性能优化演进；WiFi 信号人体姿态估计项目 `RuView` 登榜，体现边缘 AI 与多模态感知的跨界创新。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ⭐0 (+905 today)  ...",
+    "created_at": "2026-04-21T01:19:11Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "Discover rising AI repos via topic search + star velocity (replace curated list)",
+    "url": "https://github.com/bspark2318/william/issues/15",
+    "repo": "bspark2318/william",
+    "labels": [],
+    "body": "## Problem\n\n`backend/app/services/github_source.py` pulls releases only from the 15 repos hardcoded in `backend/devs_config.yaml` (`github_curated_repos`). Any repo outside that list is invisible to the feed, so we can't surface *new* projects gaining traction in the AI space — which is the whole point of a discovery feed.\n\nThe trending pass is also narrow: it filters only by `language` (Python/TS/Rust/Go) with no AI/ML signal.\n\n## Proposal\n\nReplace the curated list with an **open, topic-driven ...",
+    "created_at": "2026-04-21T00:58:15Z",
+    "author": "bspark2318",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-20",
     "url": "https://github.com/gsscsd/big_model_radar/issues/217",
     "repo": "gsscsd/big_model_radar",
