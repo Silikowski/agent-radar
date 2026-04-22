@@ -12,16 +12,6 @@
     "amount": null
   },
   {
-    "title": "Discover rising AI repos via topic search + star velocity (replace curated list)",
-    "url": "https://github.com/bspark2318/william/issues/15",
-    "repo": "bspark2318/william",
-    "labels": [],
-    "body": "## Problem\n\n`backend/app/services/github_source.py` pulls releases only from the 15 repos hardcoded in `backend/devs_config.yaml` (`github_curated_repos`). Any repo outside that list is invisible to the feed, so we can't surface *new* projects gaining traction in the AI space — which is the whole point of a discovery feed.\n\nThe trending pass is also narrow: it filters only by `language` (Python/TS/Rust/Go) with no AI/ML signal.\n\n## Proposal\n\nReplace the curated list with an **open, topic-driven ...",
-    "created_at": "2026-04-21T00:58:15Z",
-    "author": "bspark2318",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-04-20",
     "url": "https://github.com/gsscsd/big_model_radar/issues/217",
     "repo": "gsscsd/big_model_radar",
