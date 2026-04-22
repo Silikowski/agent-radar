@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T09:42:34.918Z",
+  "generated_at": "2026-04-22T09:23:50.207Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -25,16 +25,6 @@
       "body": "# AI 开源趋势日报 2026-04-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-21 01:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-21）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体爆发、向量数据库持续升温、底层优化受关注”三大趋势。OpenAI 发布轻量级多智能体框架 `openai-agents-python`，单日获星超 900，标志主流厂商正式入局 Agent 工程化；DeepSeek 推出高效 FP8 GEMM 内核 `DeepGEMM`，反映大模型推理向极致性能优化演进；WiFi 信号人体姿态估计项目 `RuView` 登榜，体现边缘 AI 与多模态感知的跨界创新。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ⭐0 (+905 today)  ...",
       "created_at": "2026-04-21T01:19:11Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "Discover rising AI repos via topic search + star velocity (replace curated list)",
-      "url": "https://github.com/bspark2318/william/issues/15",
-      "repo": "bspark2318/william",
-      "labels": [],
-      "body": "## Problem\n\n`backend/app/services/github_source.py` pulls releases only from the 15 repos hardcoded in `backend/devs_config.yaml` (`github_curated_repos`). Any repo outside that list is invisible to the feed, so we can't surface *new* projects gaining traction in the AI space — which is the whole point of a discovery feed.\n\nThe trending pass is also narrow: it filters only by `language` (Python/TS/Rust/Go) with no AI/ML signal.\n\n## Proposal\n\nReplace the curated list with an **open, topic-driven ...",
-      "created_at": "2026-04-21T00:58:15Z",
-      "author": "bspark2318",
       "amount": null
     },
     {
@@ -130,6 +120,18 @@
       ],
       "body": "# AI Open Source Trends 2026-04-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-06 00:22 UTC\n\n---\n\n**AI Open Source Trends Report – April 6, 2026**\n\n---\n\n### **1. Today’s Highlights**  \nToday’s trending list reveals a surge in **on-device AI agent tooling**, particularly for local deployment and Mac-native inference. Google’s *LiteRT-LM* (C++) and *MLX-VLM* from Blaizzy signal strong momentum toward edge-optimized vision-language models using Apple’s MLX framework. Simult...",
       "created_at": "2026-04-06T00:23:49Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-04-04",
+      "url": "https://github.com/gsscsd/big_model_radar/issues/133",
+      "repo": "gsscsd/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-04-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-04 01:02 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-04）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。Oh My Codex 和 Onyx 两款 AI 编程与聊天平台单日获星超 3000，反映开发者对可插拔、多模型兼容的智能体工作台需求激增。Google 发布的 TimesFM 时间序列基础模型登榜，标志大模型正向垂直领域深化。同时，向量数据库与 RAG 工程组件持续高热，社区正从“模型调用”迈向“完整 AI 应用构建”。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** ⭐0 (+1852 today)  \n  开源 AI 平台，支持任意 LLM 的高级聊天功能，今日热...",
+      "created_at": "2026-04-04T01:05:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
