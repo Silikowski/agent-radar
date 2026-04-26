@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T08:56:57.313Z",
+  "generated_at": "2026-04-26T09:04:32.969Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-04-26",
+      "url": "https://github.com/rollysys/agents-radar/issues/287",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-04-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-26 03:19 UTC\n\n---\n\n# AI 开源趋势日报 (2026-04-26)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是 **\"Claude Code\" 生态的爆发**。榜单前列被多个围绕 Claude Code 的开源工具占据，从免费终端使用方案、技能配置到性能优化系统，显示出开发者对 Anthropic 智能体编程模式的高度热情。DeepSeek 发布的 `DeepEP` 通信库则标志着 MoE（混合专家）模型底层训练架构的进一步开放。此外，Hugging Face 推出的 `ml-intern` 项目展示了 AI Agent 在自动化机器学习工程领域的最新进展，即 \"用 AI 训练 AI\" 的闭环正在形成。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n- **[Alishahryar1/free-claude-code](h...",
+      "created_at": "2026-04-26T03:32:44Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-04-21",
       "url": "https://github.com/gsscsd/big_model_radar/issues/223",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-04-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-06 00:22 UTC\n\n---\n\n**AI Open Source Trends Report – April 6, 2026**\n\n---\n\n### **1. Today’s Highlights**  \nToday’s trending list reveals a surge in **on-device AI agent tooling**, particularly for local deployment and Mac-native inference. Google’s *LiteRT-LM* (C++) and *MLX-VLM* from Blaizzy signal strong momentum toward edge-optimized vision-language models using Apple’s MLX framework. Simult...",
       "created_at": "2026-04-06T00:23:49Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-04-04",
-      "url": "https://github.com/gsscsd/big_model_radar/issues/133",
-      "repo": "gsscsd/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-04-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-04 01:02 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-04）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。Oh My Codex 和 Onyx 两款 AI 编程与聊天平台单日获星超 3000，反映开发者对可插拔、多模型兼容的智能体工作台需求激增。Google 发布的 TimesFM 时间序列基础模型登榜，标志大模型正向垂直领域深化。同时，向量数据库与 RAG 工程组件持续高热，社区正从“模型调用”迈向“完整 AI 应用构建”。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** ⭐0 (+1852 today)  \n  开源 AI 平台，支持任意 LLM 的高级聊天功能，今日热...",
-      "created_at": "2026-04-04T01:05:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
