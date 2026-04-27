@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-27",
+    "url": "https://github.com/rollysys/agents-radar/issues/292",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-27 03:24 UTC\n\n---\n\n# AI 开源趋势日报 (2026-04-27)\n\n## 1. 今日速览\n今日 AI 开源生态呈现明显的**“Agent 实战化”**与**“Claude 生态爆发”**趋势。GitHub Trending 榜单被 Claude Code 相关工具与 Skills 定义项目主导，显示出开发者正从通用的 LLM 对话转向构建具备实际工程能力的 AI 智能体。其中，`mattpoclock/skills` 与 `openclaw/openclaw` 的高增长标志着“个人 AI 助理”与“Agent 技能标准化”成为新焦点。同时，Computer-Use Agents（CUA）基础设施开始崭露头角，预示着 AI 操作系统级自动化的时代正在到来。\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n- **[mattpoclock/skills](http...",
+    "created_at": "2026-04-27T03:35:08Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-26",
     "url": "https://github.com/rollysys/agents-radar/issues/287",
     "repo": "rollysys/agents-radar",
