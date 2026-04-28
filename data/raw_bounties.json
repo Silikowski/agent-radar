@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-04-28",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/554",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-04-28\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-28 00:30 UTC\n\n---\n\n**AI Open Source Trends Report – April 28, 2026**\n\n---\n\n### **1. Today's Highlights**\n\nToday’s trending activity reveals a strong surge in developer tooling for AI agents, especially those tightly integrated with major coding assistants like Claude Code and Codex. Notably, client-side code intelligence engines—such as GitNexus and Beads—are gaining traction by enabling zero-...",
+    "created_at": "2026-04-28T00:33:19Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-27",
     "url": "https://github.com/rollysys/agents-radar/issues/292",
     "repo": "rollysys/agents-radar",
