@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T10:16:56.736Z",
+  "generated_at": "2026-04-29T10:08:11.078Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-04-29",
+      "url": "https://github.com/borq168/big_model_radar/issues/76",
+      "repo": "borq168/big_model_radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
+      "created_at": "2026-04-29T02:15:36Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-04-28",
       "url": "https://github.com/DenisZheng/agents-radar/issues/554",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-04-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-11 00:21 UTC\n\n---\n\n好的，作为 AI 开源生态的技术分析师，我将基于您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## 2026-04-11 AI 开源趋势日报\n\n### **第一步：过滤**\n\n从 Trending 榜单中，`jqlang/jq` (C语言编写的通用JSON处理器) 与 AI/ML 无直接关联，予以略去。其余11个仓库均与 AI 相关。\n\n从 AI 主题搜索结果中，所有80个项目均与 AI 相关，无需进一步过滤。\n\n### **第二步：分类**\n\n根据项目的主要功能和社区关注度，对筛选后的项目进行分类。\n\n#### **🔧 AI 基础工具**\n*   框架、SDK、推理引擎、开发工具、CLI\n\n*   **[microsoft/markitdown](https://github​.com/microsoft/markitdown)** (Python) ⭐0 ...",
       "created_at": "2026-04-11T00:23:33Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-04-09",
-      "url": "https://github.com/gsscsd/big_model_radar/issues/160",
-      "repo": "gsscsd/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-04-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-09 01:00 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-09）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“工具链下沉、应用层爆发”的鲜明特征：Google AI Edge 系列项目强势登榜，推动端侧 AI 推理与本地模型体验普及；RAG 与 Agent 框架持续领跑社区热度，多个生产级平台获大规模 star 增长；同时，轻量化模型训练与知识图谱增强检索成为技术突破焦点，反映开发者对高效、私有化 AI 落地的强烈需求。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** ⭐0 (+853 today)  \n  Google 官方推出的端侧 AI 用例展示平台，支持本地运行 ML/GenAI 模型，推动轻量化部署生态。...",
-      "created_at": "2026-04-09T01:04:39Z",
       "author": "github-actions[bot]",
       "amount": null
     }
