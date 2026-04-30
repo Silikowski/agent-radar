@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-04-30",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/272",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-04-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-30 01:29 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-30）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体开发工具爆发”与“轻量化模型训练平民化”双主线趋势。Warp 终端集成 AI 能力单日狂揽超 1.2 万 stars，标志开发者工具全面智能化；微软发布 VibeVoice 开源语音模型，补全多模态 frontier 能力；同时，“小参数模型训练”（如 minimind）持续升温，推动 LLM 技术下沉至个人开发者。RAG 与向量数据库生态稳步扩张，工业级 AI 应用（如影视生成平台 waoowaoo）开始涌现。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[warpdotdev/warp](https://github.com/warpdotdev/warp)** ⭐0 (+12,822)  \n  集成 AI 代理的下一代终端开发环...",
+    "created_at": "2026-04-30T01:32:45Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-04-29",
     "url": "https://github.com/borq168/big_model_radar/issues/76",
     "repo": "borq168/big_model_radar",
