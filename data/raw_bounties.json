@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-05-01",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/601",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-05-01\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-01 00:33 UTC\n\n---\n\n**AI Open Source Trends Report – May 1, 2026**\n\n---\n\n### **1. Today’s Highlights**\n\nThe AI open-source ecosystem continues to accelerate around agentic frameworks and developer tooling for autonomous coding agents. Notably, *Warp* (a Rust-based agentic terminal) and *skills* (a Shell-powered skill framework from Matt Pocock) are surging due to strong integration with Claude ...",
+    "created_at": "2026-05-01T00:35:55Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-04-30",
     "url": "https://github.com/gsscsd/big_model_radar/issues/272",
     "repo": "gsscsd/big_model_radar",
