@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T09:48:28.544Z",
+  "generated_at": "2026-05-02T09:09:44.033Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-02",
+      "url": "https://github.com/rollysys/agents-radar/issues/319",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-02 02:55 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-02)\n\n## 1. 今日速览\n今日 AI 开源领域最显著的趋势是**“智能体技能化与工程化”**的全面爆发。GitHub Trending 榜单被各类 Agent Skills（技能）、Coding Harness（编排框架）和 Agentic IDE（智能体开发环境）占据，显示出社区正迅速从“构建单一 Agent”转向“定义 Agent 标准技能与开发范式”。Warp 终端的重塑和 mattpocock/skills 的超高热度，标志着传统开发工具正在被 AI 原生的智能体工作流深度重构。同时，RAG 技术栈正在向更深层的知识图谱和记忆管理演进，以支持更复杂的长期任务处理。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n今日最热板块，聚焦于 Agent 的技能定义、编排框架及垂直领域应用。\n\n- **[ma...",
+      "created_at": "2026-05-02T03:07:14Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-05-01",
       "url": "https://github.com/DenisZheng/agents-radar/issues/601",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-04-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-16 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-16）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施深化”双主线趋势。Claude Code 生态持续升温，多个围绕其构建的 Agent 插件与记忆系统登上热榜；同时，轻量化、本地化的 RAG 与向量数据库方案获得显著关注。大模型训练与推理框架保持稳定热度，而 AI 应用层开始向金融、开发辅助等垂直场景渗透。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[google/magika](https://github.com/google/magika)** ⭐0 (+768 today)  \n  Google 推出的 AI 驱动文件类型检测工具，利用轻量模型实现高精度内容识别，适用于安全、数据处理等场景。\n- **[vllm-project/vllm](h...",
       "created_at": "2026-04-16T01:21:29Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-04-14",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/353",
-      "repo": "DenisZheng/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-04-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-14 00:27 UTC\n\n---\n\n好的，作为一位专注于 AI 开源生态的技术分析师，我将为您生成这份《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-04-14)\n\n**第一步：过滤与分类**\n\n我已从提供的数据中筛选出所有与 AI/ML 明确相关的项目。对于 Trending 榜单，我排除了 `ChinaTextbook`（非 AI 内容）等项目，并仅保留与 AI 强相关的项目。所有项目已按指定维度进行分类。\n\n---\n\n### 1. 今日速览\n\n今日 GitHub AI 开源生态呈现三大核心动向：\n1.  **AI 智能体开发工具链迎来爆发式增长**，多个围绕 Claude Code 的插件、框架和最佳实践指南涌现，表明开发者社区正在积极构建和优化自主智能体的生产环境。\n2.  **RAG (检索增强生成) 与知识库技术持续深化**，不仅限于传统向量数据库，还出现了如 Kronos（金融...",
-      "created_at": "2026-04-14T00:30:01Z",
       "author": "github-actions[bot]",
       "amount": null
     }
