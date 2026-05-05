@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T10:15:57.549Z",
+  "generated_at": "2026-05-05T10:05:02.515Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-05",
+      "url": "https://github.com/gsscsd/big_model_radar/issues/298",
+      "repo": "gsscsd/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-05 01:25 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-05）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工程化”与“Claude 生态爆发”双主线：以 **ruflo** 和 **TradingAgents** 为代表的多智能体编排平台单日获星超 2000+，显示开发者对生产级 Agent 架构的强烈需求；同时，围绕 **Claude Code / MCP 协议** 的工具链（如 `claude-mem`、`n8n-mcp`、`zilliztech/claude-context`）密集涌现，标志 Claude 正成为企业 AI 自动化的核心入口；此外，轻量化本地 Agent（如 `nanobot`、`DeepSeek-TUI`）和垂直场景应用（金融、音乐生成）持续升温。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- [ruvnet/...",
+      "created_at": "2026-05-05T01:28:01Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-05",
+      "url": "https://github.com/DenisZheng/agents-radar/issues/659",
+      "repo": "DenisZheng/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-05 00:31 UTC\n\n---\n\n好的，收到您的请求。作为专注于 AI 开源生态的技术分析师，我将根据您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-05)\n\n### 第一步（过滤）\n\n我已从 Trending 榜单中筛选出与 AI/ML 明确相关的项目，略去了 qBittorrent、Jellyfin 等与 AI 无关的通用工具。\n\n### 第二步（分类）\n\n筛选后项目已按以下维度分类：\n- **🔧 AI 基础工具**\n- **🤖 AI 智能体/工作流**\n- **📦 AI 应用**\n- **🧠 大模型/训练**\n- **🔍 RAG/知识库**\n\n### 第三步（输出报告）\n\n#### 1. 今日速览\n\n今日 GitHub AI 领域热度持续高涨，核心趋势聚焦于**多智能体协同**和**垂直场景应用**。一方面，以 `ruvnet/ruflo...",
+      "created_at": "2026-05-05T00:33:28Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-05-02",
       "url": "https://github.com/rollysys/agents-radar/issues/319",
@@ -108,30 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-04-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-21 01:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-21）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体爆发、向量数据库持续升温、底层优化受关注”三大趋势。OpenAI 发布轻量级多智能体框架 `openai-agents-python`，单日获星超 900，标志主流厂商正式入局 Agent 工程化；DeepSeek 推出高效 FP8 GEMM 内核 `DeepGEMM`，反映大模型推理向极致性能优化演进；WiFi 信号人体姿态估计项目 `RuView` 登榜，体现边缘 AI 与多模态感知的跨界创新。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ⭐0 (+905 today)  ...",
       "created_at": "2026-04-21T01:19:11Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-04-20",
-      "url": "https://github.com/gsscsd/big_model_radar/issues/217",
-      "repo": "gsscsd/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-04-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-20 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-20）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。OpenAI 官方发布轻量级多智能体框架 `openai-agents-python`，引发社区对标准化 Agent 开发范式的关注；同时，基于 WiFi 信号的人体姿态估计项目 `RuView` 登榜，标志着非视觉感知 AI 进入开源视野。Claude Code 生态持续扩张，多个 Agent 增强工具（如 `Claude-Code-Game-Studios`、`thedotmack/claude-mem`）展现开发者对“可编程 AI 助手”的深度定制需求。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[openai/openai-agents-python](https://gi...",
-      "created_at": "2026-04-20T01:20:44Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-04-16",
-      "url": "https://github.com/gsscsd/big_model_radar/issues/196",
-      "repo": "gsscsd/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-04-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-16 01:17 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-16）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施深化”双主线趋势。Claude Code 生态持续升温，多个围绕其构建的 Agent 插件与记忆系统登上热榜；同时，轻量化、本地化的 RAG 与向量数据库方案获得显著关注。大模型训练与推理框架保持稳定热度，而 AI 应用层开始向金融、开发辅助等垂直场景渗透。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[google/magika](https://github.com/google/magika)** ⭐0 (+768 today)  \n  Google 推出的 AI 驱动文件类型检测工具，利用轻量模型实现高精度内容识别，适用于安全、数据处理等场景。\n- **[vllm-project/vllm](h...",
-      "created_at": "2026-04-16T01:21:29Z",
       "author": "github-actions[bot]",
       "amount": null
     }

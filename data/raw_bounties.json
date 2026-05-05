@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-05",
+    "url": "https://github.com/gsscsd/big_model_radar/issues/298",
+    "repo": "gsscsd/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-05 01:25 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-05）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工程化”与“Claude 生态爆发”双主线：以 **ruflo** 和 **TradingAgents** 为代表的多智能体编排平台单日获星超 2000+，显示开发者对生产级 Agent 架构的强烈需求；同时，围绕 **Claude Code / MCP 协议** 的工具链（如 `claude-mem`、`n8n-mcp`、`zilliztech/claude-context`）密集涌现，标志 Claude 正成为企业 AI 自动化的核心入口；此外，轻量化本地 Agent（如 `nanobot`、`DeepSeek-TUI`）和垂直场景应用（金融、音乐生成）持续升温。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- [ruvnet/...",
+    "created_at": "2026-05-05T01:28:01Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-05",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/659",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-05 00:31 UTC\n\n---\n\n好的，收到您的请求。作为专注于 AI 开源生态的技术分析师，我将根据您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-05)\n\n### 第一步（过滤）\n\n我已从 Trending 榜单中筛选出与 AI/ML 明确相关的项目，略去了 qBittorrent、Jellyfin 等与 AI 无关的通用工具。\n\n### 第二步（分类）\n\n筛选后项目已按以下维度分类：\n- **🔧 AI 基础工具**\n- **🤖 AI 智能体/工作流**\n- **📦 AI 应用**\n- **🧠 大模型/训练**\n- **🔍 RAG/知识库**\n\n### 第三步（输出报告）\n\n#### 1. 今日速览\n\n今日 GitHub AI 领域热度持续高涨，核心趋势聚焦于**多智能体协同**和**垂直场景应用**。一方面，以 `ruvnet/ruflo...",
+    "created_at": "2026-05-05T00:33:28Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-02",
     "url": "https://github.com/rollysys/agents-radar/issues/319",
     "repo": "rollysys/agents-radar",
