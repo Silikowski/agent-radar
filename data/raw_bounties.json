@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-08",
+    "url": "https://github.com/wangsehn/agents-radar/issues/45",
+    "repo": "wangsehn/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-08\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-08 03:53 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已根据您提供的2026-05-08日数据，完成筛选、分类和趋势分析。以下是生成的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 | 2026-05-08\n\n#### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“Agent 工程化”与“终端部署”** 两大爆发点。首先，**AI Coding Agent** 的生态工具链（如 TUI、代理、知识管理）密集爆发，`DeepSeek-TUI` 和 `agent-skills` 以数千 stars 的日增量领跑，标志着开发者正从“用 Agent”转向“为 Agent 构建生产级环境”。其次，**本地化推理**与**模型蒸馏压缩**技术（如 `local-deep-research` 和 `DFlash`）热度不减，表明在追求性能的同时，对数据隐私和低成本部署的需求同样迫...",
+    "created_at": "2026-05-08T04:00:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-05-08",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/704",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-05-08\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-08 00:32 UTC\n\n---\n\n**AI Open Source Trends Report – May 8, 2026**\n\n---\n\n### **1. Today's Highlights**\n\nThe AI open-source ecosystem continues to accelerate around agentic workflows and terminal-native tooling. Today’s most explosive growth is seen in **terminal-based AI coding agents**, with *DeepSeek-TUI* surging nearly 6K stars due to its Rust-powered integration with DeepSeek models. Simult...",
+    "created_at": "2026-05-08T00:54:41Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-06",
     "url": "https://github.com/rollysys/agents-radar/issues/338",
     "repo": "rollysys/agents-radar",
@@ -56,18 +80,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-02 02:55 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-02)\n\n## 1. 今日速览\n今日 AI 开源领域最显著的趋势是**“智能体技能化与工程化”**的全面爆发。GitHub Trending 榜单被各类 Agent Skills（技能）、Coding Harness（编排框架）和 Agentic IDE（智能体开发环境）占据，显示出社区正迅速从“构建单一 Agent”转向“定义 Agent 标准技能与开发范式”。Warp 终端的重塑和 mattpocock/skills 的超高热度，标志着传统开发工具正在被 AI 原生的智能体工作流深度重构。同时，RAG 技术栈正在向更深层的知识图谱和记忆管理演进，以支持更复杂的长期任务处理。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n今日最热板块，聚焦于 Agent 的技能定义、编排框架及垂直领域应用。\n\n- **[ma...",
     "created_at": "2026-05-02T03:07:14Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-05-01",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/601",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-05-01\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-01 00:33 UTC\n\n---\n\n**AI Open Source Trends Report – May 1, 2026**\n\n---\n\n### **1. Today’s Highlights**\n\nThe AI open-source ecosystem continues to accelerate around agentic frameworks and developer tooling for autonomous coding agents. Notably, *Warp* (a Rust-based agentic terminal) and *skills* (a Shell-powered skill framework from Matt Pocock) are surging due to strong integration with Claude ...",
-    "created_at": "2026-05-01T00:35:55Z",
     "author": "github-actions[bot]",
     "amount": null
   },
