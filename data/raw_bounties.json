@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-05-10",
+    "url": "https://github.com/lib182071-prog/agents-radar/issues/93",
+    "repo": "lib182071-prog/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-05-10\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-10 07:48 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-05-10\n\n## Today’s Highlights\n\nThree major themes dominate today’s GitHub AI landscape: **agent memory**, **agent skill systems**, and **free AI coding infrastructure**. The runaway star gainer is `rohitg00/agentmemory` (+533 today) and `addyosmani/agent-skills` (+3,009 today), signaling that the community is obsessed with making coding a...",
+    "created_at": "2026-05-10T07:58:17Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-10",
+    "url": "https://github.com/wangsehn/agents-radar/issues/76",
+    "repo": "wangsehn/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-10 02:38 UTC\n\n---\n\n《AI 开源趋势日报》  \n**2026年5月10日 · 基于 GitHub 实时数据的 AI 生态洞察**\n\n---\n\n### ✅ 第一步：AI 相关性筛选结果  \n从 Trending 榜单 13 个项目中，剔除明显非 AI 项目：  \n- `MasterDnsVPN`（DNS隧道VPN）、`supersplat`（3D高斯溅射编辑器）、`easy-vibe`（编程入门课，无AI技术内核）、`oracle-ai-developer-hub`（虽含AI但属企业资源门户，无开源代码/工具产出）——**排除**。  \n其余 9 项均明确聚焦 AI 智能体、开发工具链或模型集成，全部保留。  \nAI 主题搜索列表中，已按 `topic` 标签严格限定为 `llm`/`ai-agent`/`vector-db`/`rag`/`llm-model`/`ml`（仅保留与生成式AI强相关子集，如...",
+    "created_at": "2026-05-10T02:50:29Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-09",
     "url": "https://github.com/DenisZheng/agents-radar/issues/720",
     "repo": "DenisZheng/agents-radar",
