@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-11",
+    "url": "https://github.com/wangsehn/agents-radar/issues/87",
+    "repo": "wangsehn/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:48 UTC\n\n---\n\n《AI 开源趋势日报》  \n**2026年5月11日 · 基于 GitHub 实时数据的 AI 生态洞察**\n\n---\n\n### ✅ 第一步：AI 相关性筛选结果  \n从 Trending 榜单 12 个项目中，剔除以下 **非 AI/ML 明确相关项**：  \n- `CloakHQ/CloakBrowser`（反检测浏览器，属隐私/自动化基建，但无 AI 推理、Agent 或模型集成逻辑）  \n- `datawhalechina/easy-vibe`（编程入门教程，主题为“vibe coding”，非 AI 技术项目）  \n- `playcanvas/supersplat`（3D 高斯溅射编辑器，属图形学工具，未标注 AI 主题且无 RAG/Agent/LLM 集成证据）  \n\n✅ **保留 9 个高相关 AI 项目**，全部进入后续分类。  \n（注：`anthropics/fin...",
+    "created_at": "2026-05-11T03:00:27Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-11",
+    "url": "https://github.com/ivanweng2077/big_model_radar/issues/28",
+    "repo": "ivanweng2077/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:37 UTC\n\n---\n\n# 🤖 AI 开源趋势日报 | 2026-05-11\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 12 仓库筛选结果（10 个 AI 相关）：**\n\n| # | 仓库 | AI 相关性判定 | 排除理由 |\n|---|------|--------------|---------|\n| playcanvas/supersplat | 3D Gaussian Splat 编辑器 | ❌ | 图形学/3D 可视化工具，非 AI 核心项目 |\n\n其余 11 个仓库均与 AI/ML 有直接或强关联，予以保留。\n\n---\n\n## 第二步：分类整理\n\n| 类别 | Trending 入围 | Topic 搜索代表 |\n|------|-------------|--------------|\n| 🔧 AI 基础工具 | omlx, 9router | ollama, ...",
+    "created_at": "2026-05-11T02:48:26Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-11",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/746",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 00:33 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将根据您提供的数据进行筛选、分类和趋势分析。\n\n---\n\n## **AI 开源趋势日报 (2026-05-11)**\n\n### **第一步：过滤与第二步：分类**\n\n首先，我将从提供的数据中筛选出与 AI/ML 明确相关的项目。对于 Trending 榜单，我会排除那些明显与 AI 无关的项目（如游戏、通用前端框架等）。然后，我会根据项目的主要功能，将其归入以下五大类别：\n\n*   **🔧 AI 基础工具** (框架、SDK、推理引擎、开发工具、CLI)\n*   **🤖 AI 智能体/工作流** (Agent 框架、自动化、多智能体)\n*   **📦 AI 应用** (具体应用产品、垂直场景解决方案)\n*   **🧠 大模型/训练** (模型权重、训练框架、微调工具)\n*   **🔍 RAG/知识库** (向量数据库、检索增强...",
+    "created_at": "2026-05-11T00:35:29Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-05-10",
     "url": "https://github.com/lib182071-prog/agents-radar/issues/93",
     "repo": "lib182071-prog/agents-radar",
