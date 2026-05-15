@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T10:20:40.311Z",
+  "generated_at": "2026-05-15T10:26:26.400Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-15",
+      "url": "https://github.com/rollysys/agents-radar/issues/382",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-15 03:42 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-15)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是**AI 智能体“技能化”与“私有化”**的全面爆发。榜单前列被 `openhuman`、`mattpocock/skills`、`superpowers` 等项目占据，显示出社区正致力于定义 AI 智能体的标准技能接口和个人私有化部署方案。此外，**非视觉感知 AI**（如 `RuView` 利用 WiFi 信号进行空间感知）作为一种新兴的隐私友好型感知技术首次登顶热榜，突破了传统计算机视觉的局限。在基础设施方面，端侧高性能 TTS 和反检测浏览器工具的流行，标志着 AI 应用正在向更深度的系统级集成迈进。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n\n- **[tinyhumansai/openhuman](https://gi...",
+      "created_at": "2026-05-15T03:54:18Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-05-11",
       "url": "https://github.com/wangsehn/agents-radar/issues/87",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-05-08\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-08 00:32 UTC\n\n---\n\n**AI Open Source Trends Report – May 8, 2026**\n\n---\n\n### **1. Today's Highlights**\n\nThe AI open-source ecosystem continues to accelerate around agentic workflows and terminal-native tooling. Today’s most explosive growth is seen in **terminal-based AI coding agents**, with *DeepSeek-TUI* surging nearly 6K stars due to its Rust-powered integration with DeepSeek models. Simult...",
       "created_at": "2026-05-08T00:54:41Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-05-06",
-      "url": "https://github.com/rollysys/agents-radar/issues/338",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-05-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-06 03:27 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-06)\n\n## 今日速览\n\n今日 AI 开源社区呈现出明显的“工程化落地”与“Agent 生态完善”趋势。在基础模型层，**TabPFN** 以基础模型挑战传统表格数据分析，展示了 AI for Science 的潜力。在应用层，**DeepSeek-TUI** 和 **ruflo** 等项目的高增长表明，社区正致力于构建更高效的 CLI 工具和多智能体编排系统，试图解决大模型落地的“最后一公里”问题。此外，针对特定垂直场景（如金融、视频生成）的自动化 Agent 工具（**dexter**, **Pixelle-Video**）开始大量涌现，标志着 AI 正从通用对话转向解决具体复杂任务。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n1.  **[Hmbown/DeepSeek-TUI](h...",
-      "created_at": "2026-05-06T03:38:22Z",
       "author": "github-actions[bot]",
       "amount": null
     }
