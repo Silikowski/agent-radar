@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-15",
+    "url": "https://github.com/rollysys/agents-radar/issues/382",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-15 03:42 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-15)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是**AI 智能体“技能化”与“私有化”**的全面爆发。榜单前列被 `openhuman`、`mattpocock/skills`、`superpowers` 等项目占据，显示出社区正致力于定义 AI 智能体的标准技能接口和个人私有化部署方案。此外，**非视觉感知 AI**（如 `RuView` 利用 WiFi 信号进行空间感知）作为一种新兴的隐私友好型感知技术首次登顶热榜，突破了传统计算机视觉的局限。在基础设施方面，端侧高性能 TTS 和反检测浏览器工具的流行，标志着 AI 应用正在向更深度的系统级集成迈进。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n\n- **[tinyhumansai/openhuman](https://gi...",
+    "created_at": "2026-05-15T03:54:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-11",
     "url": "https://github.com/wangsehn/agents-radar/issues/87",
     "repo": "wangsehn/agents-radar",
@@ -109,18 +121,6 @@
   },
   {
     "title": "📈 AI 开源趋势日报 2026-05-06",
-    "url": "https://github.com/rollysys/agents-radar/issues/338",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-06 03:27 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-06)\n\n## 今日速览\n\n今日 AI 开源社区呈现出明显的“工程化落地”与“Agent 生态完善”趋势。在基础模型层，**TabPFN** 以基础模型挑战传统表格数据分析，展示了 AI for Science 的潜力。在应用层，**DeepSeek-TUI** 和 **ruflo** 等项目的高增长表明，社区正致力于构建更高效的 CLI 工具和多智能体编排系统，试图解决大模型落地的“最后一公里”问题。此外，针对特定垂直场景（如金融、视频生成）的自动化 Agent 工具（**dexter**, **Pixelle-Video**）开始大量涌现，标志着 AI 正从通用对话转向解决具体复杂任务。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n1.  **[Hmbown/DeepSeek-TUI](h...",
-    "created_at": "2026-05-06T03:38:22Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-06",
     "url": "https://github.com/gsscsd/big_model_radar/issues/303",
     "repo": "gsscsd/big_model_radar",
     "labels": [
@@ -140,18 +140,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-05 01:25 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-05）\n\n---\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工程化”与“Claude 生态爆发”双主线：以 **ruflo** 和 **TradingAgents** 为代表的多智能体编排平台单日获星超 2000+，显示开发者对生产级 Agent 架构的强烈需求；同时，围绕 **Claude Code / MCP 协议** 的工具链（如 `claude-mem`、`n8n-mcp`、`zilliztech/claude-context`）密集涌现，标志 Claude 正成为企业 AI 自动化的核心入口；此外，轻量化本地 Agent（如 `nanobot`、`DeepSeek-TUI`）和垂直场景应用（金融、音乐生成）持续升温。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- [ruvnet/...",
     "created_at": "2026-05-05T01:28:01Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-02",
-    "url": "https://github.com/rollysys/agents-radar/issues/319",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-02 02:55 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-02)\n\n## 1. 今日速览\n今日 AI 开源领域最显著的趋势是**“智能体技能化与工程化”**的全面爆发。GitHub Trending 榜单被各类 Agent Skills（技能）、Coding Harness（编排框架）和 Agentic IDE（智能体开发环境）占据，显示出社区正迅速从“构建单一 Agent”转向“定义 Agent 标准技能与开发范式”。Warp 终端的重塑和 mattpocock/skills 的超高热度，标志着传统开发工具正在被 AI 原生的智能体工作流深度重构。同时，RAG 技术栈正在向更深层的知识图谱和记忆管理演进，以支持更复杂的长期任务处理。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n今日最热板块，聚焦于 Agent 的技能定义、编排框架及垂直领域应用。\n\n- **[ma...",
-    "created_at": "2026-05-02T03:07:14Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -176,30 +164,6 @@
     ],
     "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
     "created_at": "2026-04-29T02:15:36Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-04-27",
-    "url": "https://github.com/rollysys/agents-radar/issues/292",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-04-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-27 03:24 UTC\n\n---\n\n# AI 开源趋势日报 (2026-04-27)\n\n## 1. 今日速览\n今日 AI 开源生态呈现明显的**“Agent 实战化”**与**“Claude 生态爆发”**趋势。GitHub Trending 榜单被 Claude Code 相关工具与 Skills 定义项目主导，显示出开发者正从通用的 LLM 对话转向构建具备实际工程能力的 AI 智能体。其中，`mattpoclock/skills` 与 `openclaw/openclaw` 的高增长标志着“个人 AI 助理”与“Agent 技能标准化”成为新焦点。同时，Computer-Use Agents（CUA）基础设施开始崭露头角，预示着 AI 操作系统级自动化的时代正在到来。\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n- **[mattpoclock/skills](http...",
-    "created_at": "2026-04-27T03:35:08Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-04-26",
-    "url": "https://github.com/rollysys/agents-radar/issues/287",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-04-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-26 03:19 UTC\n\n---\n\n# AI 开源趋势日报 (2026-04-26)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是 **\"Claude Code\" 生态的爆发**。榜单前列被多个围绕 Claude Code 的开源工具占据，从免费终端使用方案、技能配置到性能优化系统，显示出开发者对 Anthropic 智能体编程模式的高度热情。DeepSeek 发布的 `DeepEP` 通信库则标志着 MoE（混合专家）模型底层训练架构的进一步开放。此外，Hugging Face 推出的 `ml-intern` 项目展示了 AI Agent 在自动化机器学习工程领域的最新进展，即 \"用 AI 训练 AI\" 的闭环正在形成。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n- **[Alishahryar1/free-claude-code](h...",
-    "created_at": "2026-04-26T03:32:44Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -272,54 +236,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-04-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-04-04 01:02 UTC\n\n---\n\n# AI 开源趋势日报（2026-04-04）\n\n## 1. 今日速览\n\n今日 GitHub AI 生态呈现“智能体工具链爆发”与“RAG 基础设施成熟化”双主线趋势。Oh My Codex 和 Onyx 两款 AI 编程与聊天平台单日获星超 3000，反映开发者对可插拔、多模型兼容的智能体工作台需求激增。Google 发布的 TimesFM 时间序列基础模型登榜，标志大模型正向垂直领域深化。同时，向量数据库与 RAG 工程组件持续高热，社区正从“模型调用”迈向“完整 AI 应用构建”。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** ⭐0 (+1852 today)  \n  开源 AI 平台，支持任意 LLM 的高级聊天功能，今日热...",
     "created_at": "2026-04-04T01:05:35Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-03-31",
-    "url": "https://github.com/rollysys/agents-radar/issues/165",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-03-31\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-31 02:39 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-03-31 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n以下是经过筛选、分类和深度分析的报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-03-31)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的趋势是 **\"AI 编程智能体化\"与\"多模态落地\"**。以 `VibeVoice` 为代表的开源项目正在打破语音生成的边界，而围绕 `Claude Code` 的生态工具链（如 `claude-howto`、`hermes-agent`）呈现爆发式增长，显示开发者正从单纯使用 LLM 转向构建具备深度记忆和自主执行能力的 Coding Agent。此外，`Deep-Live-Cam` 的持续高热表明实时视频深度伪造技术在社区仍具极高关注度，而 `OpenBB` 的上榜则印证了...",
-    "created_at": "2026-03-31T02:46:02Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-03-30",
-    "url": "https://github.com/rollysys/agents-radar/issues/160",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-03-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-30 02:46 UTC\n\n---\n\n# AI 开源趋势日报 (2026-03-30)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的趋势是 **\"AI 代理的自我进化与工具化\"**。随着 Claude Code 等产品的流行，社区正疯狂构建围绕 AI 编程代理的**记忆系统**（如 `claude-mem`）和**技能框架**（如 `superpowers`），试图让 AI 具备长期记忆和更复杂的软件工程能力。同时，**语音交互**（`VibeVoice`）和**实时视频深度伪造**（`Deep-Live-Cam`）等模态突破项目依然保持着极高的热度，显示出多模态 AI 应用正在从实验室走向大众娱乐和生产工具。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具 (框架与基础设施)\n*涵盖 SDK、CLI 工具、推理引擎及开发环境*\n\n- **[microsoft/VibeVoice...",
-    "created_at": "2026-03-30T02:52:21Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-03-28",
-    "url": "https://github.com/rollysys/agents-radar/issues/152",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-03-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-28 02:29 UTC\n\n---\n\n你好！作为技术分析师，我已对 2026-03-28 的 GitHub AI 热门数据进行了深度清洗和分析。\n\n以下是今日的《AI 开源趋势日报》。\n\n---\n\n# 📅 AI 开源趋势日报 (2026-03-28)\n\n## 1. 今日速览\n今日 AI 开源社区呈现出**“Agentic Workflow（智能体工作流）”与“深度信息合成”**的双重爆发趋势。**SakanaAI** 推出的 AI-Scientist-v2 展示了 AI 在自动化科学研究上的惊人进展，而多款 **Deep Research** 类工具（如 `last30days-skill`, `Agent-Reach`）集中爆发，标志着 Agent 正在从“执行指令”向“主动综合复杂信息”进化。同时，Claude Code 生态持续火热，不仅出现了 `oh-my-claudecode` 这样的团队协作编排工具，更有 ...",
-    "created_at": "2026-03-28T02:35:08Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-03-24",
-    "url": "https://github.com/rollysys/agents-radar/issues/133",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-03-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-03-24 02:26 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-03-24 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# 📅 AI 开源趋势日报 (2026-03-24)\n\n## 1. 今日速览\n今日 AI 开源领域最显著的趋势是 **“智能体工程化的全面落地”**。字节跳动推出的 `deer-flow` 以超 3500 的日增 Star 领跑，标志着 SuperAgent（超级智能体）框架正在从实验走向工业级应用。同时，`browser-use` 和 `TradingAgents` 的火爆表明 AI Agent 在 **网页自动化** 和 **金融交易** 等垂直领域的执行力大幅提升。此外，针对 Claude Code 等 coding agent 的 **技能增强与记忆系统**（如 `everything-claude-code`）成为开发者...",
-    "created_at": "2026-03-24T02:34:40Z",
     "author": "github-actions[bot]",
     "amount": null
   },
