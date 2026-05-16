@@ -72,30 +72,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-05-09",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/720",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-09 00:32 UTC\n\n---\n\n好的，作为 AI 开源生态的技术分析师，我已对数据进行了筛选、分类和分析。\n\n---\n\n### **AI 开源趋势日报 (2026-05-09)**\n\n**今日速览：**\n今日 GitHub 上的 AI 开源生态呈现出两大核心趋势。首先，**终端智能体（Terminal Agents）**成为爆发性增长点，DeepSeek-TUI 等工具凭借其轻量、本地化的特性吸引了大量关注。其次，围绕 **Claude Code 的生态系统** 持续繁荣，从性能优化到通用代理框架，开发者们正在构建一个高度模块化和可扩展的智能编码助手生态。\n\n---\n\n### **各维度热门项目**\n\n#### **🔧 AI 基础工具**\n\n*   **[ollama/ollama](https://github​.com/ollama/ollama) (Go, ⭐171,017)**\n    *   一句话：一...",
-    "created_at": "2026-05-09T00:34:53Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-09",
-    "url": "https://github.com/duanyytop/agents-radar/issues/1002",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-09 00:21 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-05-09\n\n---\n\n## 今日速览\n\n今日 AI 开源热榜呈现**\"智能体基础设施\"**爆发态势：终端原生 AI 编码工具（DeepSeek-TUI、agent-skills）与免费 API 路由方案（9router）占据新增 stars 前三，反映开发者对**低成本、本地化、生产级 Agent 工程能力**的迫切需求。Anthropic 金融垂直方案意外登顶，暗示企业级 AI 落地进入行业深耕阶段。同时，RAG/记忆层项目（claude-mem、mem0）持续高热度，向量数据库与 Agent 编排平台（ruflo）构成完整的\"感知-记忆-执行\"技术栈闭环。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars | 一句话说明 |\n|:---|:---|:--...",
-    "created_at": "2026-05-09T00:34:07Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-05-08",
     "url": "https://github.com/wangsehn/agents-radar/issues/45",
     "repo": "wangsehn/agents-radar",
@@ -104,18 +80,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-08\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-08 03:53 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已根据您提供的2026-05-08日数据，完成筛选、分类和趋势分析。以下是生成的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 | 2026-05-08\n\n#### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“Agent 工程化”与“终端部署”** 两大爆发点。首先，**AI Coding Agent** 的生态工具链（如 TUI、代理、知识管理）密集爆发，`DeepSeek-TUI` 和 `agent-skills` 以数千 stars 的日增量领跑，标志着开发者正从“用 Agent”转向“为 Agent 构建生产级环境”。其次，**本地化推理**与**模型蒸馏压缩**技术（如 `local-deep-research` 和 `DFlash`）热度不减，表明在追求性能的同时，对数据隐私和低成本部署的需求同样迫...",
     "created_at": "2026-05-08T04:00:21Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-05-08",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/704",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-05-08\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-05-08 00:32 UTC\n\n---\n\n**AI Open Source Trends Report – May 8, 2026**\n\n---\n\n### **1. Today's Highlights**\n\nThe AI open-source ecosystem continues to accelerate around agentic workflows and terminal-native tooling. Today’s most explosive growth is seen in **terminal-based AI coding agents**, with *DeepSeek-TUI* surging nearly 6K stars due to its Rust-powered integration with DeepSeek models. Simult...",
-    "created_at": "2026-05-08T00:54:41Z",
     "author": "github-actions[bot]",
     "amount": null
   },
