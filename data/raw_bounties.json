@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-22",
+    "url": "https://github.com/ivanweng2077/big_model_radar/issues/71",
+    "repo": "ivanweng2077/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-22 01:54 UTC\n\n---\n\n好的，收到您的需求。作为专注于 AI 开源生态的技术分析师，我将基于您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-22)\n\n### 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“工具链深化”与“垂直场景爆发”并行的态势。一方面，围绕 Claude Code 的插件生态和技能框架（Skills）持续升温，开发者正积极探索如何更高效地构建和集成 AI 编码助手。另一方面，面向学术研究、金融交易等特定领域的智能体应用开始涌现，显示出 AI 技术正加速向专业化、实用化落地。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n\n*   **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-...",
+    "created_at": "2026-05-22T01:56:51Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-21",
     "url": "https://github.com/duanyytop/agents-radar/issues/1199",
     "repo": "duanyytop/agents-radar",
@@ -32,18 +44,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-17 00:21 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-05-17\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单筛选结果**：8 个项目中，排除 `oven-sh/bun`（通用 JS 运行时），保留 **7 个 AI 相关项目**。\n\n---\n\n## 第二步：多维分类\n\n| 项目 | 主要类别 | 次要类别 |\n|:---|:---|:---|\n| `obra/superpowers` | 🤖 AI 智能体/工作流 | 🔧 AI 基础工具 |\n| `tinyhumansai/openhuman` | 📦 AI 应用 | 🤖 AI 智能体/工作流 |\n| `ruvnet/RuView` | 📦 AI 应用 | 🔧 AI 基础工具 |\n| `K-Dense-AI/scientific-agent-skills` | 🤖 AI 智能体/工作流 | 📦 AI 应用...",
     "created_at": "2026-05-17T00:32:19Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-15",
-    "url": "https://github.com/rollysys/agents-radar/issues/382",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-15 03:42 UTC\n\n---\n\n# AI 开源趋势日报 (2026-05-15)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是**AI 智能体“技能化”与“私有化”**的全面爆发。榜单前列被 `openhuman`、`mattpocock/skills`、`superpowers` 等项目占据，显示出社区正致力于定义 AI 智能体的标准技能接口和个人私有化部署方案。此外，**非视觉感知 AI**（如 `RuView` 利用 WiFi 信号进行空间感知）作为一种新兴的隐私友好型感知技术首次登顶热榜，突破了传统计算机视觉的局限。在基础设施方面，端侧高性能 TTS 和反检测浏览器工具的流行，标志着 AI 应用正在向更深度的系统级集成迈进。\n\n---\n\n## 2. 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n\n- **[tinyhumansai/openhuman](https://gi...",
-    "created_at": "2026-05-15T03:54:18Z",
     "author": "github-actions[bot]",
     "amount": null
   },
