@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-05-24",
+    "url": "https://github.com/QYQAQ/agents-radar/issues/45",
+    "repo": "QYQAQ/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-24 00:30 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-24）\n## 研究方向聚焦：长上下文推理 · OCR/HMER · 多模态推理 · Post-Training 对齐 · 幻觉缓解\n\n---\n\n## 一、今日速览\n\n今日 GitHub 热榜呈现**\"代码智能体基础设施\"爆发式增长**，多个知识图谱构建工具（`codegraph`、`Understand-Anything`、`graphify`）集中登榜，反映社区对**长上下文压缩与结构化检索**的强烈需求。NVIDIA 开源的 `LongLive 2.0` 延续视频生成方向，但与长上下文建模关联有限。值得关注的是，**PaddleOCR** 在 RAG 主题下持续活跃，其\"将任意 PDF/图像转为结构化数据\"的定位直接服务于多模态文档理解 pipeline。Post-training 与幻觉缓解领域今日无直接登榜项目，但 `claude-me...",
+    "created_at": "2026-05-24T00:37:26Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-24",
+    "url": "https://github.com/duanyytop/agents-radar/issues/1249",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-24 00:23 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-05-24\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单过滤结果**（排除非 AI 项目）：\n| 排除项目 | 排除原因 |\n|---------|---------|\n| trimstray/the-book-of-secret-knowledge | 通用技术知识库，非 AI 专属 |\n| odoo/odoo | ERP/企业管理软件，非 AI 核心 |\n| yt-dlp/yt-dlp | 通用视频下载工具 |\n| janestreet/magic-trace | 系统性能追踪工具 |\n\n**保留 12 个 AI 相关项目**，全部与 AI 编码助手、智能体基础设施、AI 内容生成直接相关。\n\n---\n\n## 第二步：多维分类\n\n---\n\n## 第三步：正式报告\n\n### 1. 今日速览\n\n今日 AI 开源领域呈现...",
+    "created_at": "2026-05-24T00:33:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-22",
     "url": "https://github.com/ivanweng2077/big_model_radar/issues/71",
     "repo": "ivanweng2077/big_model_radar",
@@ -20,30 +44,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-21 00:26 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-05-21\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单过滤结果**：17 个项目中，排除 4 个非 AI 项目（OpenToonz 动画软件、Streambert 影视下载工具、files.md 笔记应用、OpenWA WhatsApp API），保留 **13 个 AI 相关项目**。\n\n---\n\n## 第二步：多维分类\n\n| 项目 | 主要类别 | 次要类别 |\n|:---|:---|:---|\n| codegraph | 🔧 AI 基础工具 | 🤖 AI 智能体/工作流 |\n| academic-research-skills | 🤖 AI 智能体/工作流 | 📦 AI 应用 |\n| openhuman | 📦 AI 应用 | 🧠 大模型/训练 |\n| andrej-karpathy-skills ...",
     "created_at": "2026-05-21T00:40:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-17",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/838",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-17 00:34 UTC\n\n---\n\n好的，作为一位专注于 AI 开源生态的技术分析师，我将根据您提供的数据，生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-17)\n\n**第一步：过滤与分类**\n\n我已从今日 GitHub Trending 榜单中筛选出所有与 AI/ML 明确相关的项目。通用工具、前端框架等非 AI 项目已被排除。所有筛选出的项目已按照要求分类。\n\n**第二步：报告输出**\n\n### 1. 今日速览\n\n今日 AI 开源领域呈现出“智能体（Agent）与垂直应用爆发”的强劲势头。一方面，围绕 Claude Code 生态构建的 Agent 开发框架和技能库获得极高关注；另一方面，面向科学计算、WiFi 感知等前沿领域的专用 AI 智能体项目异军突起。同时，RAG（检索增强生成）作为 AI 应用落地的核心能力，持续受到开发者青睐，相关工具和向量数据库保持稳...",
-    "created_at": "2026-05-17T00:35:37Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-05-17",
-    "url": "https://github.com/duanyytop/agents-radar/issues/1137",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-17 00:21 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-05-17\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单筛选结果**：8 个项目中，排除 `oven-sh/bun`（通用 JS 运行时），保留 **7 个 AI 相关项目**。\n\n---\n\n## 第二步：多维分类\n\n| 项目 | 主要类别 | 次要类别 |\n|:---|:---|:---|\n| `obra/superpowers` | 🤖 AI 智能体/工作流 | 🔧 AI 基础工具 |\n| `tinyhumansai/openhuman` | 📦 AI 应用 | 🤖 AI 智能体/工作流 |\n| `ruvnet/RuView` | 📦 AI 应用 | 🔧 AI 基础工具 |\n| `K-Dense-AI/scientific-agent-skills` | 🤖 AI 智能体/工作流 | 📦 AI 应用...",
-    "created_at": "2026-05-17T00:32:19Z",
     "author": "github-actions[bot]",
     "amount": null
   },
