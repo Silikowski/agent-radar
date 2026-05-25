@@ -1,5 +1,15 @@
 [
   {
+    "title": "Add SWEN.AI GitHub Radar to Developer tools",
+    "url": "https://github.com/mahseema/awesome-ai-tools/pull/1392",
+    "repo": "mahseema/awesome-ai-tools",
+    "labels": [],
+    "body": "## What is SWEN.AI GitHub Radar?\n\n[**SWEN.AI GitHub Radar**](https://swen.ia.br/github-radar) is a Brazilian Portuguese radar that tracks trending open-source AI repositories on GitHub in real time.\n\n## Why this fits Developer tools\n\n- **17 themed tier lists**: LLMs, AI agents, MCP servers, RAG, computer vision, audio generation, diffusion models + 7 language-specific lists (Python, TypeScript, Rust, Go, Java, C++, Julia).\n- **Hybrid data source**: combines `github.com/trending` HTML scraping wi...",
+    "created_at": "2026-05-24T22:24:58Z",
+    "author": "luisroquette",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-24",
     "url": "https://github.com/QYQAQ/agents-radar/issues/45",
     "repo": "QYQAQ/agents-radar",
