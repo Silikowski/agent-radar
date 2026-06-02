@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-06-02",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/1011",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-06-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-02 00:43 UTC\n\n---\n\n# AI Open-Source Trends Report — 2026-06-02\n\n---\n\n## 1. Today's Highlights\n\nToday's GitHub AI trending landscape is dominated by **AI agent infrastructure and tooling**, with `microsoft/markitdown` topping the daily star surge at +3,034 — a deceptively simple signal that data preparation for LLMs (converting office documents to Markdown) remains a massive unmet need. We also...",
+    "created_at": "2026-06-02T01:08:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-02",
+    "url": "https://github.com/rollysys/agents-radar/issues/518",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-02 04:13 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-02)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“基建细化”与“应用提效”双轨并进态势。微软开源的文档解析工具 `markitdown` 单日激增 3000+ Star，揭示了 RAG 和 Agent 数据预处理环节的巨大痛点与需求。AI 视频生成赛道持续火热，`MoneyPrinterTurbo` 凭借一键生成短视频的能力紧随其后。值得注意的是，Agent 开发栈正在向深水区迈进：终端编程代理 `oh-my-pi` 和元技能框架 `harness` 的上榜，标志着社区正致力于打造更底层的 Agent 控制与协作架构。此外，语音模型 `VoxCPM` 的突破显示了多模态生成技术仍在快速迭代。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n- **[microsoft/markitd...",
+    "created_at": "2026-06-02T04:26:13Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-02",
+    "url": "https://github.com/duanyytop/agents-radar/issues/1403",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-02 00:31 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-06-02\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单排除项**：`godotengine/godot`（游戏引擎，非 AI）、`codecrafters-io/build-your-own-x`（通用编程教育）、`stefan-jansen/machine-learning-for-trading`（金融书籍代码，非活跃 AI 项目）\n\n**保留项目**：14 个（见下方分类）\n\n---\n\n## 第二步：多维度分类\n\n---\n\n## 第三步：完整报告\n\n### 1. 今日速览\n\n今日 AI 开源热榜呈现\"工具层爆发\"特征：微软文档转换工具 **markitdown** 以 3034 星登顶，反映企业对非结构化数据向 LLM 可消费格式转化的刚性需求；**MoneyPrinterTurbo** 获 3375 星，AI...",
+    "created_at": "2026-06-02T00:42:28Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-06-01",
     "url": "https://github.com/AlexdanerZe/agents-radar/issues/69",
     "repo": "AlexdanerZe/agents-radar",
@@ -78,6 +114,18 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-08\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-08 03:53 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已根据您提供的2026-05-08日数据，完成筛选、分类和趋势分析。以下是生成的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 | 2026-05-08\n\n#### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“Agent 工程化”与“终端部署”** 两大爆发点。首先，**AI Coding Agent** 的生态工具链（如 TUI、代理、知识管理）密集爆发，`DeepSeek-TUI` 和 `agent-skills` 以数千 stars 的日增量领跑，标志着开发者正从“用 Agent”转向“为 Agent 构建生产级环境”。其次，**本地化推理**与**模型蒸馏压缩**技术（如 `local-deep-research` 和 `DFlash`）热度不减，表明在追求性能的同时，对数据隐私和低成本部署的需求同样迫...",
     "created_at": "2026-05-08T04:00:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-04-29",
+    "url": "https://github.com/borq168/radar-forge/issues/76",
+    "repo": "borq168/radar-forge",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
+    "created_at": "2026-04-29T02:15:36Z",
     "author": "github-actions[bot]",
     "amount": null
   },
