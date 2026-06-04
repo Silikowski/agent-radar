@@ -60,18 +60,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-05-28",
-    "url": "https://github.com/QYQAQ/agents-radar/issues/101",
-    "repo": "QYQAQ/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-05-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-28 00:30 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-28）\n\n## 研究方向聚焦：长上下文推理、OCR/HMER、多模态推理、Post-Training 对齐、幻觉缓解\n\n---\n\n## 一、今日速览\n\n今日趋势呈现**\"Agent 基础设施爆炸\"与\"内容质量控制觉醒\"**的双重信号。OCR/文档智能领域，PaddleOCR 持续领跑，RAGFlow 强化其\"RAG+Agent\"融合定位；长上下文与推理方面，Claude 生态的上下文压缩记忆系统（claude-mem）和零向量推理 RAG（PageIndex）展现新范式；最显著的是**幻觉与 AI 生成质量**成为社区焦点——\"stop-slop\"和\"taste-skill\"两个项目同日爆发，反映研究者对 AI 输出质量校准的迫切需求。Post-training 对齐领域，NousResearch 的 Hermes Agent 以 17 万星标...",
-    "created_at": "2026-05-28T00:41:47Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "Add SWEN.AI GitHub Radar to Developer tools",
     "url": "https://github.com/mahseema/awesome-ai-tools/pull/1392",
     "repo": "mahseema/awesome-ai-tools",
