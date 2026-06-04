@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T12:43:31.319Z",
+  "generated_at": "2026-06-04T11:16:44.609Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -76,18 +76,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-05-28",
-      "url": "https://github.com/QYQAQ/agents-radar/issues/101",
-      "repo": "QYQAQ/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-05-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-28 00:30 UTC\n\n---\n\n# AI 开源趋势日报（2026-05-28）\n\n## 研究方向聚焦：长上下文推理、OCR/HMER、多模态推理、Post-Training 对齐、幻觉缓解\n\n---\n\n## 一、今日速览\n\n今日趋势呈现**\"Agent 基础设施爆炸\"与\"内容质量控制觉醒\"**的双重信号。OCR/文档智能领域，PaddleOCR 持续领跑，RAGFlow 强化其\"RAG+Agent\"融合定位；长上下文与推理方面，Claude 生态的上下文压缩记忆系统（claude-mem）和零向量推理 RAG（PageIndex）展现新范式；最显著的是**幻觉与 AI 生成质量**成为社区焦点——\"stop-slop\"和\"taste-skill\"两个项目同日爆发，反映研究者对 AI 输出质量校准的迫切需求。Post-training 对齐领域，NousResearch 的 Hermes Agent 以 17 万星标...",
-      "created_at": "2026-05-28T00:41:47Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "Add SWEN.AI GitHub Radar to Developer tools",
       "url": "https://github.com/mahseema/awesome-ai-tools/pull/1392",
       "repo": "mahseema/awesome-ai-tools",
@@ -130,6 +118,18 @@
       ],
       "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
       "created_at": "2026-04-29T02:15:36Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 Bản tin xu hướng AI mã nguồn mở 2026-03-19",
+      "url": "https://github.com/compasify/agents-radar/issues/53",
+      "repo": "compasify/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# Xu hướng AI Mã nguồn mở 2026-03-19\n\n> Nguồn: GitHub Trending + GitHub Search API | Thời gian tạo: 2026-03-19 02:05 UTC\n\n---\n\nBáo cáo Xu hướng Mã nguồn mở AI — 2026-03-19\n\nBước 1 — Lọc nhanh\nTừ dữ liệu cung cấp, loại trừ repo không liên quan (ví dụ trình giả lập PS4). Các repo rõ ràng liên quan AI/ML được giữ lại (xuất hiện trong báo cáo dưới đây).\n\nBước 2 — Phân loại (mỗi dự án kèm link + sao)\nLưu ý: chỉ ghi số sao tổng như trong nguồn; với repo Trending có thêm số sao \"mới hôm nay\" khi có.\n\n\ud83d...",
+      "created_at": "2026-03-19T02:11:03Z",
       "author": "github-actions[bot]",
       "amount": null
     }
