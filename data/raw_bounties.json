@@ -72,18 +72,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI Open Source Trends 2026-06-01",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/997",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-06-01\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-01 02:21 UTC\n\n---\n\n\n\n# AI Open Source Trends Report — 2026-06-01\n\n---\n\n## Step 1: Filtered AI-Relevant Projects\n\n**Excluded from Today's Trending (non-AI):**\n- `github/docs`, `emmabostian/developer-portfolios`, `codecrafters-io/build-your-own-x`\n\n**Excluded from Topic Search (not AI-core):**\n- `thedaviddias/Front-End-Checklist`, `tensorflow/tensorflow`, `pytorch/pytorch`, `microsoft/ML-For-Beg...",
-    "created_at": "2026-06-01T02:50:13Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "Add SWEN.AI GitHub Radar to Developer tools",
     "url": "https://github.com/mahseema/awesome-ai-tools/pull/1392",
     "repo": "mahseema/awesome-ai-tools",
