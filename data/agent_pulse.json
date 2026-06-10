@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T11:18:00.977Z",
+  "generated_at": "2026-06-10T11:40:08.083Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -36,42 +36,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-06-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-05 00:28 UTC\n\n---\n\n好的，作为专注于AI开源生态的技术分析师，以下是基于您提供的2026-06-05数据生成的《AI开源趋势日报》。\n\n---\n\n## 《AI开源趋势日报》 - 2026-06-05\n\n### 1. 今日速览\n\n今日AI开源社区呈现出显著的 **“Agent基础设施与工具链”** 热潮。以 **`headroom`** 为代表的“Token节约”新范式获得爆发式关注，揭示了开发者对LLM成本优化的极致追求。同时，**`ECC`、`hermes-agent`、`Open-LLM-VTuber`** 等项目集中爆发，共同描绘了AI Agent从“开发辅助”到“全栈操控”再到“具身交互”的多元化演进路径。值得注意的是，**GitHub Copilot的Agent SDK** 和 **NVIDIA Cosmos世界模型平台** 的发布，标志着大厂正积极推动Agent生态的标准化与物理世界化。\n\n...",
       "created_at": "2026-06-05T00:34:10Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-06-02",
-      "url": "https://github.com/DenisZheng/agents-radar/issues/1011",
-      "repo": "DenisZheng/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-06-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-02 00:43 UTC\n\n---\n\n# AI Open-Source Trends Report — 2026-06-02\n\n---\n\n## 1. Today's Highlights\n\nToday's GitHub AI trending landscape is dominated by **AI agent infrastructure and tooling**, with `microsoft/markitdown` topping the daily star surge at +3,034 — a deceptively simple signal that data preparation for LLMs (converting office documents to Markdown) remains a massive unmet need. We also...",
-      "created_at": "2026-06-02T01:08:18Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-02",
-      "url": "https://github.com/rollysys/agents-radar/issues/518",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-02 04:13 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-02)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“基建细化”与“应用提效”双轨并进态势。微软开源的文档解析工具 `markitdown` 单日激增 3000+ Star，揭示了 RAG 和 Agent 数据预处理环节的巨大痛点与需求。AI 视频生成赛道持续火热，`MoneyPrinterTurbo` 凭借一键生成短视频的能力紧随其后。值得注意的是，Agent 开发栈正在向深水区迈进：终端编程代理 `oh-my-pi` 和元技能框架 `harness` 的上榜，标志着社区正致力于打造更底层的 Agent 控制与协作架构。此外，语音模型 `VoxCPM` 的突破显示了多模态生成技术仍在快速迭代。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n- **[microsoft/markitd...",
-      "created_at": "2026-06-02T04:26:13Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-02",
-      "url": "https://github.com/duanyytop/agents-radar/issues/1403",
-      "repo": "duanyytop/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-02 00:31 UTC\n\n---\n\n# AI 开源趋势日报 | 2026-06-02\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 榜单排除项**：`godotengine/godot`（游戏引擎，非 AI）、`codecrafters-io/build-your-own-x`（通用编程教育）、`stefan-jansen/machine-learning-for-trading`（金融书籍代码，非活跃 AI 项目）\n\n**保留项目**：14 个（见下方分类）\n\n---\n\n## 第二步：多维度分类\n\n---\n\n## 第三步：完整报告\n\n### 1. 今日速览\n\n今日 AI 开源热榜呈现\"工具层爆发\"特征：微软文档转换工具 **markitdown** 以 3034 星登顶，反映企业对非结构化数据向 LLM 可消费格式转化的刚性需求；**MoneyPrinterTurbo** 获 3375 星，AI...",
-      "created_at": "2026-06-02T00:42:28Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -130,6 +94,35 @@
       ],
       "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
       "created_at": "2026-04-29T02:15:36Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 Bản tin xu hướng AI mã nguồn mở 2026-03-19",
+      "url": "https://github.com/compasify/agents-radar/issues/53",
+      "repo": "compasify/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# Xu hướng AI Mã nguồn mở 2026-03-19\n\n> Nguồn: GitHub Trending + GitHub Search API | Thời gian tạo: 2026-03-19 02:05 UTC\n\n---\n\nBáo cáo Xu hướng Mã nguồn mở AI — 2026-03-19\n\nBước 1 — Lọc nhanh\nTừ dữ liệu cung cấp, loại trừ repo không liên quan (ví dụ trình giả lập PS4). Các repo rõ ràng liên quan AI/ML được giữ lại (xuất hiện trong báo cáo dưới đây).\n\nBước 2 — Phân loại (mỗi dự án kèm link + sao)\nLưu ý: chỉ ghi số sao tổng như trong nguồn; với repo Trending có thêm số sao \"mới hôm nay\" khi có.\n\n\ud83d...",
+      "created_at": "2026-03-19T02:11:03Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
+      "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
+      "repo": "DevExpGbb/vscode-ghcp-starter-kit",
+      "labels": [
+        "research",
+        "weekly-report",
+        "ai-development",
+        "github-copilot",
+        "mcp",
+        "agentic-workflows"
+      ],
+      "body": "# Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot\n\n**Research Date:** October 7, 2025  \n**Repository:** DevExpGbb/vscode-ghcp-starter-kit\n\n---\n\n## Executive Summary\n\nThe vscode-ghcp-starter-kit repository sits at the intersection of three converging trends: the maturation of GitHub Copilot into an autonomous agent, the explosive growth of the Model Context Protocol (MCP) ecosystem, and the industry-wide shift towar...",
+      "created_at": "2025-10-07T14:52:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
