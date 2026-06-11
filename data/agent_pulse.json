@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T11:40:08.083Z",
+  "generated_at": "2026-06-11T12:11:23.879Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-06-11",
+      "url": "https://github.com/Augustrains/agents-radar/issues/76",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-06-11\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-11 02:14 UTC\n\n---\n\nHere is the structured AI Open Source Trends Report for **2026-06-11**, based on the provided GitHub data.\n\n---\n\n## 1. Today's Highlights\n\nToday marks a clear inflection point in the open-source AI ecosystem: **\"Agent Skills\" have become the dominant primitives of software development.** Repositories like `addyosmani/agent-skills` and `phuryn/pm-skills` are exploding in popu...",
+      "created_at": "2026-06-11T02:20:07Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-11",
+      "url": "https://github.com/Augustrains/agents-radar/issues/75",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-11 02:14 UTC\n\n---\n\n好的，作为一名专注AI开源生态的技术分析师，我将根据您提供的2026年6月11日数据，为您呈现一份结构清晰的《AI开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 - 2026-06-11\n\n### 1. 今日速览\n\n今日AI开源社区呈现出“**Agent技能**”与“**多模态/具身智能**”两大赛道并驾齐驱的火爆景象。**Agent技能**（Agent Skills）成为今日最热关键词，多个相关项目如 `agent-skills`、`pm-skills`、`superpowers` 等以千计的新增Stars登顶热议榜，标志着社区正从构建Agent框架转向为Agent“赋能”技能。同时，基于WiFi信号感知的 `RuView` 和开源医疗AI `openmed` 等项目，则展现了AI向物理世界和垂直行业渗透的趋势。此外，**RAG/向量数据库** 领域生态持续繁荣，以 `co...",
+      "created_at": "2026-06-11T02:20:07Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-08",
       "url": "https://github.com/Augustrains/agents-radar/issues/30",
@@ -106,23 +130,6 @@
       ],
       "body": "# Xu hướng AI Mã nguồn mở 2026-03-19\n\n> Nguồn: GitHub Trending + GitHub Search API | Thời gian tạo: 2026-03-19 02:05 UTC\n\n---\n\nBáo cáo Xu hướng Mã nguồn mở AI — 2026-03-19\n\nBước 1 — Lọc nhanh\nTừ dữ liệu cung cấp, loại trừ repo không liên quan (ví dụ trình giả lập PS4). Các repo rõ ràng liên quan AI/ML được giữ lại (xuất hiện trong báo cáo dưới đây).\n\nBước 2 — Phân loại (mỗi dự án kèm link + sao)\nLưu ý: chỉ ghi số sao tổng như trong nguồn; với repo Trending có thêm số sao \"mới hôm nay\" khi có.\n\n\ud83d...",
       "created_at": "2026-03-19T02:11:03Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
-      "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
-      "repo": "DevExpGbb/vscode-ghcp-starter-kit",
-      "labels": [
-        "research",
-        "weekly-report",
-        "ai-development",
-        "github-copilot",
-        "mcp",
-        "agentic-workflows"
-      ],
-      "body": "# Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot\n\n**Research Date:** October 7, 2025  \n**Repository:** DevExpGbb/vscode-ghcp-starter-kit\n\n---\n\n## Executive Summary\n\nThe vscode-ghcp-starter-kit repository sits at the intersection of three converging trends: the maturation of GitHub Copilot into an autonomous agent, the explosive growth of the Model Context Protocol (MCP) ecosystem, and the industry-wide shift towar...",
-      "created_at": "2025-10-07T14:52:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
