@@ -1,5 +1,53 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-12",
+    "url": "https://github.com/rollysys/agents-radar/issues/593",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 04:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的特征是**“Agentic Skills（智能体技能）”的爆发与标准化**。Trending 榜单前几名被生产级的 Agent 技能包、技能框架及安全检测工具占据，标志着 AI Agent 开发正从“构建模型”转向“定义能力”。此外，NVIDIA 发布的技能安全扫描器与系统提示词泄露项目的高热度，反映了社区对**AI 安全与对齐**的关注度急剧上升。应用层面，开源医疗 AI 与自我进化框架的出现，展示了 AI 向垂直场景和自动化迭代深化的趋势。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、安全工具）\n\n- **[NVIDIA/SkillSpector](https://github​.com/NVIDIA/SkillSpector)...",
+    "created_at": "2026-06-12T04:25:01Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-12",
+    "url": "https://github.com/litang9/big_model_radar/issues/53",
+    "repo": "litang9/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 03:37 UTC\n\n---\n\n# 📰 AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n- **“智能体技能”爆发达成社区共识**：今日 GitHub Trending 榜单被 AI Agent 的技能包、提示词框架和工作流彻底霸占，以 `agent-skills`、`pm-skills` 为代表的项目单日斩获数千 Star，标志着 AI 应用正从“通用对话”向“专业化、模块化技能执行”迈进。\n- **英伟达入局 Agent 安全审查**：NVIDIA 开源了针对 AI 智能体技能的安全扫描工具 `SkillSpector`，意味着随着 Agent 自动化执行权限的扩大，AI 供应链安全与行为合规已成为大厂关注的重点基础设施。\n- **端侧与本地-first 智能体分析工具兴起**：随着各类 Coding Agent（如 Claude Code, Codex）的普及，用于监控、分析本地 AI...",
+    "created_at": "2026-06-12T03:47:37Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-06-12",
+    "url": "https://github.com/zhouyuhechuan/agents-radar/issues/174",
+    "repo": "zhouyuhechuan/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-06-12\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-12 02:50 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-12\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a massive wave of **agent skill standardization and security tooling**. Projects like `addyosmani/agent-skills` (+3,278 stars today) and `obra/superpowers` (+1,322 stars) are defining production-grade skill frameworks for coding agents, while NVIDIA's `SkillSpe...",
+    "created_at": "2026-06-12T02:58:40Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-12",
+    "url": "https://github.com/bcc2802/agents-radar/issues/3",
+    "repo": "bcc2802/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 01:24 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于你提供数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源生态趋势日报 (2026-06-12)\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出显著的“智能体技能（Agent Skills）”导向。**AI 代理的安全检测、技能市场化和多框架互操作性**成为三大核心热点。苹果推出的轻量级 Linux 容器工具因可高效隔离 AI 运行环境而备受关注。此外，以 `bytedance/deer-flow` 为代表的“超级智能体”框架开始探索长时任务执行，标志着 Agent 从“对话”走向“生产力”的成熟化。整体趋势表明，社区正从构建单一的 Agent 转向构建 Agent 的规模化基础设施和安全生态。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n- **...",
+    "created_at": "2026-06-12T01:29:54Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-06-11",
     "url": "https://github.com/Augustrains/agents-radar/issues/76",
     "repo": "Augustrains/agents-radar",
@@ -36,18 +84,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-06-05",
-    "url": "https://github.com/duanyytop/agents-radar/issues/1455",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-05 00:28 UTC\n\n---\n\n好的，作为专注于AI开源生态的技术分析师，以下是基于您提供的2026-06-05数据生成的《AI开源趋势日报》。\n\n---\n\n## 《AI开源趋势日报》 - 2026-06-05\n\n### 1. 今日速览\n\n今日AI开源社区呈现出显著的 **“Agent基础设施与工具链”** 热潮。以 **`headroom`** 为代表的“Token节约”新范式获得爆发式关注，揭示了开发者对LLM成本优化的极致追求。同时，**`ECC`、`hermes-agent`、`Open-LLM-VTuber`** 等项目集中爆发，共同描绘了AI Agent从“开发辅助”到“全栈操控”再到“具身交互”的多元化演进路径。值得注意的是，**GitHub Copilot的Agent SDK** 和 **NVIDIA Cosmos世界模型平台** 的发布，标志着大厂正积极推动Agent生态的标准化与物理世界化。\n\n...",
-    "created_at": "2026-06-05T00:34:10Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-06-01",
     "url": "https://github.com/AlexdanerZe/agents-radar/issues/69",
     "repo": "AlexdanerZe/agents-radar",
@@ -70,6 +106,18 @@
     "amount": null
   },
   {
+    "title": "📈 AI 开源趋势日报 2026-05-22",
+    "url": "https://github.com/ivanweng2077/big_model_radar/issues/71",
+    "repo": "ivanweng2077/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-22 01:54 UTC\n\n---\n\n好的，收到您的需求。作为专注于 AI 开源生态的技术分析师，我将基于您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-22)\n\n### 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“工具链深化”与“垂直场景爆发”并行的态势。一方面，围绕 Claude Code 的插件生态和技能框架（Skills）持续升温，开发者正积极探索如何更高效地构建和集成 AI 编码助手。另一方面，面向学术研究、金融交易等特定领域的智能体应用开始涌现，显示出 AI 技术正加速向专业化、实用化落地。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n\n*   **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-...",
+    "created_at": "2026-05-22T01:56:51Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-05-11",
     "url": "https://github.com/wangsehn/agents-radar/issues/87",
     "repo": "wangsehn/agents-radar",
@@ -78,6 +126,18 @@
     ],
     "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:48 UTC\n\n---\n\n《AI 开源趋势日报》  \n**2026年5月11日 · 基于 GitHub 实时数据的 AI 生态洞察**\n\n---\n\n### ✅ 第一步：AI 相关性筛选结果  \n从 Trending 榜单 12 个项目中，剔除以下 **非 AI/ML 明确相关项**：  \n- `CloakHQ/CloakBrowser`（反检测浏览器，属隐私/自动化基建，但无 AI 推理、Agent 或模型集成逻辑）  \n- `datawhalechina/easy-vibe`（编程入门教程，主题为“vibe coding”，非 AI 技术项目）  \n- `playcanvas/supersplat`（3D 高斯溅射编辑器，属图形学工具，未标注 AI 主题且无 RAG/Agent/LLM 集成证据）  \n\n✅ **保留 9 个高相关 AI 项目**，全部进入后续分类。  \n（注：`anthropics/fin...",
     "created_at": "2026-05-11T03:00:27Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-05-11",
+    "url": "https://github.com/ivanweng2077/big_model_radar/issues/28",
+    "repo": "ivanweng2077/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:37 UTC\n\n---\n\n# 🤖 AI 开源趋势日报 | 2026-05-11\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 12 仓库筛选结果（10 个 AI 相关）：**\n\n| # | 仓库 | AI 相关性判定 | 排除理由 |\n|---|------|--------------|---------|\n| playcanvas/supersplat | 3D Gaussian Splat 编辑器 | ❌ | 图形学/3D 可视化工具，非 AI 核心项目 |\n\n其余 11 个仓库均与 AI/ML 有直接或强关联，予以保留。\n\n---\n\n## 第二步：分类整理\n\n| 类别 | Trending 入围 | Topic 搜索代表 |\n|------|-------------|--------------|\n| 🔧 AI 基础工具 | omlx, 9router | ollama, ...",
+    "created_at": "2026-05-11T02:48:26Z",
     "author": "github-actions[bot]",
     "amount": null
   },
