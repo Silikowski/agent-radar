@@ -1,18 +1,6 @@
 [
   {
     "title": "📈 AI 开源趋势日报 2026-06-12",
-    "url": "https://github.com/rollysys/agents-radar/issues/593",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 04:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的特征是**“Agentic Skills（智能体技能）”的爆发与标准化**。Trending 榜单前几名被生产级的 Agent 技能包、技能框架及安全检测工具占据，标志着 AI Agent 开发正从“构建模型”转向“定义能力”。此外，NVIDIA 发布的技能安全扫描器与系统提示词泄露项目的高热度，反映了社区对**AI 安全与对齐**的关注度急剧上升。应用层面，开源医疗 AI 与自我进化框架的出现，展示了 AI 向垂直场景和自动化迭代深化的趋势。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、安全工具）\n\n- **[NVIDIA/SkillSpector](https://github​.com/NVIDIA/SkillSpector)...",
-    "created_at": "2026-06-12T04:25:01Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-12",
     "url": "https://github.com/litang9/big_model_radar/issues/53",
     "repo": "litang9/big_model_radar",
     "labels": [
@@ -20,6 +8,18 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 03:37 UTC\n\n---\n\n# 📰 AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n- **“智能体技能”爆发达成社区共识**：今日 GitHub Trending 榜单被 AI Agent 的技能包、提示词框架和工作流彻底霸占，以 `agent-skills`、`pm-skills` 为代表的项目单日斩获数千 Star，标志着 AI 应用正从“通用对话”向“专业化、模块化技能执行”迈进。\n- **英伟达入局 Agent 安全审查**：NVIDIA 开源了针对 AI 智能体技能的安全扫描工具 `SkillSpector`，意味着随着 Agent 自动化执行权限的扩大，AI 供应链安全与行为合规已成为大厂关注的重点基础设施。\n- **端侧与本地-first 智能体分析工具兴起**：随着各类 Coding Agent（如 Claude Code, Codex）的普及，用于监控、分析本地 AI...",
     "created_at": "2026-06-12T03:47:37Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-12",
+    "url": "https://github.com/rollysys/agents-radar/issues/593",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 04:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的特征是**“Agentic Skills（智能体技能）”的爆发与标准化**。Trending 榜单前几名被生产级的 Agent 技能包、技能框架及安全检测工具占据，标志着 AI Agent 开发正从“构建模型”转向“定义能力”。此外，NVIDIA 发布的技能安全扫描器与系统提示词泄露项目的高热度，反映了社区对**AI 安全与对齐**的关注度急剧上升。应用层面，开源医疗 AI 与自我进化框架的出现，展示了 AI 向垂直场景和自动化迭代深化的趋势。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、安全工具）\n\n- **[NVIDIA/SkillSpector](https://github​.com/NVIDIA/SkillSpector)...",
+    "created_at": "2026-06-12T04:25:01Z",
     "author": "github-actions[bot]",
     "amount": null
   },
