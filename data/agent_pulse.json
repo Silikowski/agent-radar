@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T12:18:14.948Z",
+  "generated_at": "2026-06-18T11:51:48.681Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -76,30 +76,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI Open Source Trends 2026-06-11",
-      "url": "https://github.com/Augustrains/agents-radar/issues/76",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-06-11\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-11 02:14 UTC\n\n---\n\nHere is the structured AI Open Source Trends Report for **2026-06-11**, based on the provided GitHub data.\n\n---\n\n## 1. Today's Highlights\n\nToday marks a clear inflection point in the open-source AI ecosystem: **\"Agent Skills\" have become the dominant primitives of software development.** Repositories like `addyosmani/agent-skills` and `phuryn/pm-skills` are exploding in popu...",
-      "created_at": "2026-06-11T02:20:07Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-11",
-      "url": "https://github.com/Augustrains/agents-radar/issues/75",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-11 02:14 UTC\n\n---\n\n好的，作为一名专注AI开源生态的技术分析师，我将根据您提供的2026年6月11日数据，为您呈现一份结构清晰的《AI开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 - 2026-06-11\n\n### 1. 今日速览\n\n今日AI开源社区呈现出“**Agent技能**”与“**多模态/具身智能**”两大赛道并驾齐驱的火爆景象。**Agent技能**（Agent Skills）成为今日最热关键词，多个相关项目如 `agent-skills`、`pm-skills`、`superpowers` 等以千计的新增Stars登顶热议榜，标志着社区正从构建Agent框架转向为Agent“赋能”技能。同时，基于WiFi信号感知的 `RuView` 和开源医疗AI `openmed` 等项目，则展现了AI向物理世界和垂直行业渗透的趋势。此外，**RAG/向量数据库** 领域生态持续繁荣，以 `co...",
-      "created_at": "2026-06-11T02:20:07Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI Open Source Trends 2026-06-01",
       "url": "https://github.com/AlexdanerZe/agents-radar/issues/69",
       "repo": "AlexdanerZe/agents-radar",
@@ -130,6 +106,30 @@
       ],
       "body": "# AI 开源趋势日报 2026-05-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-22 01:54 UTC\n\n---\n\n好的，收到您的需求。作为专注于 AI 开源生态的技术分析师，我将基于您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-22)\n\n### 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“工具链深化”与“垂直场景爆发”并行的态势。一方面，围绕 Claude Code 的插件生态和技能框架（Skills）持续升温，开发者正积极探索如何更高效地构建和集成 AI 编码助手。另一方面，面向学术研究、金融交易等特定领域的智能体应用开始涌现，显示出 AI 技术正加速向专业化、实用化落地。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n\n*   **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-...",
       "created_at": "2026-05-22T01:56:51Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-11",
+      "url": "https://github.com/wangsehn/agents-radar/issues/87",
+      "repo": "wangsehn/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:48 UTC\n\n---\n\n《AI 开源趋势日报》  \n**2026年5月11日 · 基于 GitHub 实时数据的 AI 生态洞察**\n\n---\n\n### ✅ 第一步：AI 相关性筛选结果  \n从 Trending 榜单 12 个项目中，剔除以下 **非 AI/ML 明确相关项**：  \n- `CloakHQ/CloakBrowser`（反检测浏览器，属隐私/自动化基建，但无 AI 推理、Agent 或模型集成逻辑）  \n- `datawhalechina/easy-vibe`（编程入门教程，主题为“vibe coding”，非 AI 技术项目）  \n- `playcanvas/supersplat`（3D 高斯溅射编辑器，属图形学工具，未标注 AI 主题且无 RAG/Agent/LLM 集成证据）  \n\n✅ **保留 9 个高相关 AI 项目**，全部进入后续分类。  \n（注：`anthropics/fin...",
+      "created_at": "2026-05-11T03:00:27Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-11",
+      "url": "https://github.com/ivanweng2077/big_model_radar/issues/28",
+      "repo": "ivanweng2077/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:37 UTC\n\n---\n\n# 🤖 AI 开源趋势日报 | 2026-05-11\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 12 仓库筛选结果（10 个 AI 相关）：**\n\n| # | 仓库 | AI 相关性判定 | 排除理由 |\n|---|------|--------------|---------|\n| playcanvas/supersplat | 3D Gaussian Splat 编辑器 | ❌ | 图形学/3D 可视化工具，非 AI 核心项目 |\n\n其余 11 个仓库均与 AI/ML 有直接或强关联，予以保留。\n\n---\n\n## 第二步：分类整理\n\n| 类别 | Trending 入围 | Topic 搜索代表 |\n|------|-------------|--------------|\n| 🔧 AI 基础工具 | omlx, 9router | ollama, ...",
+      "created_at": "2026-05-11T02:48:26Z",
       "author": "github-actions[bot]",
       "amount": null
     }
