@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T11:51:48.681Z",
+  "generated_at": "2026-06-19T12:08:15.476Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -40,18 +40,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-06-12",
-      "url": "https://github.com/rollysys/agents-radar/issues/593",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 04:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的特征是**“Agentic Skills（智能体技能）”的爆发与标准化**。Trending 榜单前几名被生产级的 Agent 技能包、技能框架及安全检测工具占据，标志着 AI Agent 开发正从“构建模型”转向“定义能力”。此外，NVIDIA 发布的技能安全扫描器与系统提示词泄露项目的高热度，反映了社区对**AI 安全与对齐**的关注度急剧上升。应用层面，开源医疗 AI 与自我进化框架的出现，展示了 AI 向垂直场景和自动化迭代深化的趋势。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、安全工具）\n\n- **[NVIDIA/SkillSpector](https://github​.com/NVIDIA/SkillSpector)...",
-      "created_at": "2026-06-12T04:25:01Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI Open Source Trends 2026-06-12",
       "url": "https://github.com/zhouyuhechuan/agents-radar/issues/174",
       "repo": "zhouyuhechuan/agents-radar",
@@ -60,18 +48,6 @@
       ],
       "body": "# AI Open Source Trends 2026-06-12\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-12 02:50 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-12\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a massive wave of **agent skill standardization and security tooling**. Projects like `addyosmani/agent-skills` (+3,278 stars today) and `obra/superpowers` (+1,322 stars) are defining production-grade skill frameworks for coding agents, while NVIDIA's `SkillSpe...",
       "created_at": "2026-06-12T02:58:40Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-12",
-      "url": "https://github.com/bcc2802/agents-radar/issues/3",
-      "repo": "bcc2802/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 01:24 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于你提供数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源生态趋势日报 (2026-06-12)\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出显著的“智能体技能（Agent Skills）”导向。**AI 代理的安全检测、技能市场化和多框架互操作性**成为三大核心热点。苹果推出的轻量级 Linux 容器工具因可高效隔离 AI 运行环境而备受关注。此外，以 `bytedance/deer-flow` 为代表的“超级智能体”框架开始探索长时任务执行，标志着 Agent 从“对话”走向“生产力”的成熟化。整体趋势表明，社区正从构建单一的 Agent 转向构建 Agent 的规模化基础设施和安全生态。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n- **...",
-      "created_at": "2026-06-12T01:29:54Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -130,6 +106,30 @@
       ],
       "body": "# AI 开源趋势日报 2026-05-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-11 02:37 UTC\n\n---\n\n# 🤖 AI 开源趋势日报 | 2026-05-11\n\n---\n\n## 第一步：AI 相关性过滤\n\n**Trending 12 仓库筛选结果（10 个 AI 相关）：**\n\n| # | 仓库 | AI 相关性判定 | 排除理由 |\n|---|------|--------------|---------|\n| playcanvas/supersplat | 3D Gaussian Splat 编辑器 | ❌ | 图形学/3D 可视化工具，非 AI 核心项目 |\n\n其余 11 个仓库均与 AI/ML 有直接或强关联，予以保留。\n\n---\n\n## 第二步：分类整理\n\n| 类别 | Trending 入围 | Topic 搜索代表 |\n|------|-------------|--------------|\n| 🔧 AI 基础工具 | omlx, 9router | ollama, ...",
       "created_at": "2026-05-11T02:48:26Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-05-08",
+      "url": "https://github.com/wangsehn/agents-radar/issues/45",
+      "repo": "wangsehn/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-05-08\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-08 03:53 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已根据您提供的2026-05-08日数据，完成筛选、分类和趋势分析。以下是生成的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 | 2026-05-08\n\n#### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“Agent 工程化”与“终端部署”** 两大爆发点。首先，**AI Coding Agent** 的生态工具链（如 TUI、代理、知识管理）密集爆发，`DeepSeek-TUI` 和 `agent-skills` 以数千 stars 的日增量领跑，标志着开发者正从“用 Agent”转向“为 Agent 构建生产级环境”。其次，**本地化推理**与**模型蒸馏压缩**技术（如 `local-deep-research` 和 `DFlash`）热度不减，表明在追求性能的同时，对数据隐私和低成本部署的需求同样迫...",
+      "created_at": "2026-05-08T04:00:21Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-04-29",
+      "url": "https://github.com/borq168/radar-forge/issues/76",
+      "repo": "borq168/radar-forge",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-04-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-04-29 02:06 UTC\n\n---\n\n<think>Let me analyze this data carefully and create a structured AI Open Source Trends Report.\n\nFirst, let me filter AI-related projects from the trending list:\n\nFrom the trending list (13 repos):\n1. mattpocock/skills - Shell, not AI\n2. abhigyanpatwari/GitNexus - AI-related (knowledge graph, Graph RAG Agent) ✓\n3. ComposioHQ/awesome-codex-skills - AI-related (Codex skills) ✓...",
+      "created_at": "2026-04-29T02:15:36Z",
       "author": "github-actions[bot]",
       "amount": null
     }
