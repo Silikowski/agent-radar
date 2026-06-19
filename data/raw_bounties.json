@@ -24,18 +24,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-06-12",
-    "url": "https://github.com/rollysys/agents-radar/issues/593",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 04:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的特征是**“Agentic Skills（智能体技能）”的爆发与标准化**。Trending 榜单前几名被生产级的 Agent 技能包、技能框架及安全检测工具占据，标志着 AI Agent 开发正从“构建模型”转向“定义能力”。此外，NVIDIA 发布的技能安全扫描器与系统提示词泄露项目的高热度，反映了社区对**AI 安全与对齐**的关注度急剧上升。应用层面，开源医疗 AI 与自我进化框架的出现，展示了 AI 向垂直场景和自动化迭代深化的趋势。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、安全工具）\n\n- **[NVIDIA/SkillSpector](https://github​.com/NVIDIA/SkillSpector)...",
-    "created_at": "2026-06-12T04:25:01Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-06-12",
     "url": "https://github.com/zhouyuhechuan/agents-radar/issues/174",
     "repo": "zhouyuhechuan/agents-radar",
@@ -44,18 +32,6 @@
     ],
     "body": "# AI Open Source Trends 2026-06-12\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-12 02:50 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-12\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a massive wave of **agent skill standardization and security tooling**. Projects like `addyosmani/agent-skills` (+3,278 stars today) and `obra/superpowers` (+1,322 stars) are defining production-grade skill frameworks for coding agents, while NVIDIA's `SkillSpe...",
     "created_at": "2026-06-12T02:58:40Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-12",
-    "url": "https://github.com/bcc2802/agents-radar/issues/3",
-    "repo": "bcc2802/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 01:24 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于你提供数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源生态趋势日报 (2026-06-12)\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出显著的“智能体技能（Agent Skills）”导向。**AI 代理的安全检测、技能市场化和多框架互操作性**成为三大核心热点。苹果推出的轻量级 Linux 容器工具因可高效隔离 AI 运行环境而备受关注。此外，以 `bytedance/deer-flow` 为代表的“超级智能体”框架开始探索长时任务执行，标志着 Agent 从“对话”走向“生产力”的成熟化。整体趋势表明，社区正从构建单一的 Agent 转向构建 Agent 的规模化基础设施和安全生态。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n- **...",
-    "created_at": "2026-06-12T01:29:54Z",
     "author": "github-actions[bot]",
     "amount": null
   },
