@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-22",
+    "url": "https://github.com/Augustrains/agents-radar/issues/242",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-22 02:30 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-06-22 数据，生成以下《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 | 2026-06-22**\n\n#### **1. 今日速览**\n\n今日AI开源生态呈现出极强的“去中心化”与“内存优先”两大特征。以 **headroom** 为代表的“Token压缩”理念异军突起，旨在通过减少LLM上下文噪音来降低成本和提升响应质量，这可能成为RAG和Agent大规模落地的关键基础设施。与此同时，AI Agent的开发正从通用框架向具备**持久化记忆**（如 **cognee**、**claude-mem**）和**特定领域技能**（如网络安全 **Anthropic-Cybersecurity-Skills**）的方向深化。此外，**视频生成**领域也出现首个开源Agent系统 **Ope...",
+    "created_at": "2026-06-22T02:36:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-06-21",
+    "url": "https://github.com/duanyytop/agents-radar/issues/1732",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-06-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-21 00:29 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-21\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a surge in **agent efficiency tooling**, with two standout projects—**headroom** and **codebase-memory-mcp**—seeing explosive adoption (3,795 and 1,271 stars respectively) by addressing the critical pain point of token/compute waste in agentic workflows. **Agen...",
+    "created_at": "2026-06-21T00:33:48Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-21",
     "url": "https://github.com/96loveslife/big_model_radar/issues/46",
     "repo": "96loveslife/big_model_radar",
@@ -20,18 +44,6 @@
     ],
     "body": "# AI Open Source Trends 2026-06-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-21 03:43 UTC\n\n---\n\nOkay, let's break down the data and build the report.\n\n**Step 1: Filtering for AI/ML Relevance**\n\nFrom the **Trending List**, I will remove clear non-AI projects:\n*   `penpot/penpot`: Design tool, not AI/ML.\n*   `tursodatabase/turso`: Database, not AI/ML.\n*   `twentyhq/twenty`: CRM (even if \"designed for AI\"), core product is not an AI tool.\n*   `Kong/insomnia`: API client, ...",
     "created_at": "2026-06-21T03:46:14Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-06-21",
-    "url": "https://github.com/duanyytop/agents-radar/issues/1732",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-06-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-21 00:29 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-21\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a surge in **agent efficiency tooling**, with two standout projects—**headroom** and **codebase-memory-mcp**—seeing explosive adoption (3,795 and 1,271 stars respectively) by addressing the critical pain point of token/compute waste in agentic workflows. **Agen...",
-    "created_at": "2026-06-21T00:33:48Z",
     "author": "github-actions[bot]",
     "amount": null
   },
