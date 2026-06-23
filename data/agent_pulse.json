@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:36:54.176Z",
+  "generated_at": "2026-06-23T11:19:07.888Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-23",
+      "url": "https://github.com/zx0828/big_model_radar/issues/167",
+      "repo": "zx0828/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
+      "created_at": "2026-06-23T00:45:54Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-22",
       "url": "https://github.com/Augustrains/agents-radar/issues/242",
@@ -119,18 +131,6 @@
       "body": "## What is SWEN.AI GitHub Radar?\n\n[**SWEN.AI GitHub Radar**](https://swen.ia.br/github-radar) is a Brazilian Portuguese radar that tracks trending open-source AI repositories on GitHub in real time.\n\n## Why this fits Developer tools\n\n- **17 themed tier lists**: LLMs, AI agents, MCP servers, RAG, computer vision, audio generation, diffusion models + 7 language-specific lists (Python, TypeScript, Rust, Go, Java, C++, Julia).\n- **Hybrid data source**: combines `github.com/trending` HTML scraping wi...",
       "created_at": "2026-05-24T22:24:58Z",
       "author": "luisroquette",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-05-22",
-      "url": "https://github.com/ivanweng2077/big_model_radar/issues/71",
-      "repo": "ivanweng2077/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-05-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-05-22 01:54 UTC\n\n---\n\n好的，收到您的需求。作为专注于 AI 开源生态的技术分析师，我将基于您提供的数据生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-05-22)\n\n### 1. 今日速览\n\n今日 GitHub AI 开源生态呈现“工具链深化”与“垂直场景爆发”并行的态势。一方面，围绕 Claude Code 的插件生态和技能框架（Skills）持续升温，开发者正积极探索如何更高效地构建和集成 AI 编码助手。另一方面，面向学术研究、金融交易等特定领域的智能体应用开始涌现，显示出 AI 技术正加速向专业化、实用化落地。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n\n*   **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-...",
-      "created_at": "2026-05-22T01:56:51Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
