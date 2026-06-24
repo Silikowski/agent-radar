@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-24",
+    "url": "https://github.com/bcc2802/agents-radar/issues/118",
+    "repo": "bcc2802/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 03:32 UTC\n\n---\n\n好的，作为专注于AI开源生态的技术分析师，以下是根据您提供的数据生成的《AI开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 (2026-06-24)**\n\n#### **1. 今日速览**\n\n- **智能体进入“工业化”生产阶段**：今日热点中，“智能体工作台”（SuperAgent Harness）成为绝对主角。字节跳动开源的 `deer-flow` 和 `affaan-m/ECC` 等项目，正将单一智能体进化为拥有复杂技能、记忆和子智能体的“团队”，降低了开发长周期、高复杂度任务的门槛。\n- **“Claude Code”生态链全面爆发**：围绕 `Claude Code` 的项目呈现井喷式增长，从官方顶级插件目录 (`claude-plugins-official`)、领域专用配置 (`gstack`) 到性能优化MCP服务器 (`codebase-memory-...",
+    "created_at": "2026-06-24T03:35:32Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-24",
+    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/217",
+    "repo": "bianzhilong2-ctrl/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 02:26 UTC\n\n---\n\nWe need to produce a structured \"AI 开源趋势日报\" based on given trending data and search results.\n\nStep 1: filter projects related to AI/ML, exclude generic tools, front-end frameworks, games, etc. For Trending list, directly omit non-AI projects.\n\nStep 2: classify selected projects into categories: AI 基础工具, AI 智能体/工作流, AI 应用, 大模型/训练, RAG/知识库.\n\nStep 3: output report with sections:\n\n1. 今日速览: 3-5 sent...",
+    "created_at": "2026-06-24T02:38:46Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-23",
     "url": "https://github.com/zx0828/big_model_radar/issues/167",
     "repo": "zx0828/big_model_radar",
