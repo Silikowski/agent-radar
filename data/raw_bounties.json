@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-23",
+    "url": "https://github.com/zx0828/big_model_radar/issues/167",
+    "repo": "zx0828/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
+    "created_at": "2026-06-23T00:45:54Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-24",
     "url": "https://github.com/bcc2802/agents-radar/issues/118",
     "repo": "bcc2802/agents-radar",
@@ -20,18 +32,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 02:26 UTC\n\n---\n\nWe need to produce a structured \"AI 开源趋势日报\" based on given trending data and search results.\n\nStep 1: filter projects related to AI/ML, exclude generic tools, front-end frameworks, games, etc. For Trending list, directly omit non-AI projects.\n\nStep 2: classify selected projects into categories: AI 基础工具, AI 智能体/工作流, AI 应用, 大模型/训练, RAG/知识库.\n\nStep 3: output report with sections:\n\n1. 今日速览: 3-5 sent...",
     "created_at": "2026-06-24T02:38:46Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-23",
-    "url": "https://github.com/zx0828/big_model_radar/issues/167",
-    "repo": "zx0828/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
-    "created_at": "2026-06-23T00:45:54Z",
     "author": "github-actions[bot]",
     "amount": null
   },
