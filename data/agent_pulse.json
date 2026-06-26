@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:44:31.679Z",
+  "generated_at": "2026-06-26T10:53:37.625Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-26",
+      "url": "https://github.com/rollysys/agents-radar/issues/699",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-26 03:58 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-26)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是 **\"Claude Code 生态的爆发式繁荣\"**。在 Trending 榜单中，多个高星项目均围绕 Claude Code 构建工具链、技能库和最佳实践，标志着 AI 编程助手正从单一工具向标准化平台演进。同时，**Agentic Workflow（智能体工作流）在垂直领域的落地**成为亮点，出现了专门用于视频制作、金融投资研究和网络安全的高复杂度 Agent 项目。此外，基础设施层面关于 AI 编码规范（如 `design.md`）的探索，暗示着 \"AI原生开发\" 正在形成自己的设计范式。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、开发工具）\n\n- **[google-labs-code/design.md](ht...",
+      "created_at": "2026-06-26T04:12:07Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-23",
       "url": "https://github.com/zx0828/big_model_radar/issues/167",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 03:37 UTC\n\n---\n\n# 📰 AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n- **“智能体技能”爆发达成社区共识**：今日 GitHub Trending 榜单被 AI Agent 的技能包、提示词框架和工作流彻底霸占，以 `agent-skills`、`pm-skills` 为代表的项目单日斩获数千 Star，标志着 AI 应用正从“通用对话”向“专业化、模块化技能执行”迈进。\n- **英伟达入局 Agent 安全审查**：NVIDIA 开源了针对 AI 智能体技能的安全扫描工具 `SkillSpector`，意味着随着 Agent 自动化执行权限的扩大，AI 供应链安全与行为合规已成为大厂关注的重点基础设施。\n- **端侧与本地-first 智能体分析工具兴起**：随着各类 Coding Agent（如 Claude Code, Codex）的普及，用于监控、分析本地 AI...",
       "created_at": "2026-06-12T03:47:37Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-06-12",
-      "url": "https://github.com/zhouyuhechuan/agents-radar/issues/174",
-      "repo": "zhouyuhechuan/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-06-12\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-12 02:50 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-06-12\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a massive wave of **agent skill standardization and security tooling**. Projects like `addyosmani/agent-skills` (+3,278 stars today) and `obra/superpowers` (+1,322 stars) are defining production-grade skill frameworks for coding agents, while NVIDIA's `SkillSpe...",
-      "created_at": "2026-06-12T02:58:40Z",
       "author": "github-actions[bot]",
       "amount": null
     }
