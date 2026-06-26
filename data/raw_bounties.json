@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-26",
+    "url": "https://github.com/rollysys/agents-radar/issues/699",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-26 03:58 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-26)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是 **\"Claude Code 生态的爆发式繁荣\"**。在 Trending 榜单中，多个高星项目均围绕 Claude Code 构建工具链、技能库和最佳实践，标志着 AI 编程助手正从单一工具向标准化平台演进。同时，**Agentic Workflow（智能体工作流）在垂直领域的落地**成为亮点，出现了专门用于视频制作、金融投资研究和网络安全的高复杂度 Agent 项目。此外，基础设施层面关于 AI 编码规范（如 `design.md`）的探索，暗示着 \"AI原生开发\" 正在形成自己的设计范式。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、开发工具）\n\n- **[google-labs-code/design.md](ht...",
+    "created_at": "2026-06-26T04:12:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-23",
     "url": "https://github.com/zx0828/big_model_radar/issues/167",
     "repo": "zx0828/big_model_radar",
