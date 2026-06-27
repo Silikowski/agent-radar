@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-06-27",
+    "url": "https://github.com/Lux0206/agents-radar/issues/2",
+    "repo": "Lux0206/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 08:27 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-06-27\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by **agent infrastructure** and **agent-powered vertical applications**, with several projects surpassing 1,000 stars in a single day. The most explosive growth comes from **OpenMontage** (+1,754 stars today), presenting the first open-source ag...",
+    "created_at": "2026-06-27T08:32:38Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-27",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/66",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-27 03:57 UTC\n\n---\n\n<think>\nThe user wants me to analyze GitHub trending AI repositories from 2026-06-27 and produce a structured AI open source trends daily report. Let me work through this systematically.\n\n## Step 1: Filter AI-related projects\n\n### Trending list (17 repos) - AI relevance filter:\n\n1. **simplex-chat/simplex-chat** [Haskell] +432 - Messaging network, NOT AI related. SKIP\n2. **google-labs-code/desig...",
+    "created_at": "2026-06-27T04:04:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-06-27",
+    "url": "https://github.com/duanyytop/agents-radar/issues/1835",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 00:27 UTC\n\n---\n\n# AI Open Source Ecosystem Trends Report — 2026-06-27\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is unmistakably dominated by **agent harnesses and coding agent productivity tools**. Two projects—`google-labs-code/design.md` (+2,407 stars today) and `garrytan/gstack` (+950)—exemplify a new wave: they package opinionated, pre-configured agent toolkits that ...",
+    "created_at": "2026-06-27T00:33:40Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-26",
     "url": "https://github.com/rollysys/agents-radar/issues/699",
     "repo": "rollysys/agents-radar",
