@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:53:37.625Z",
+  "generated_at": "2026-06-27T10:11:13.180Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,42 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-06-27",
+      "url": "https://github.com/Lux0206/agents-radar/issues/2",
+      "repo": "Lux0206/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 08:27 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-06-27\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by **agent infrastructure** and **agent-powered vertical applications**, with several projects surpassing 1,000 stars in a single day. The most explosive growth comes from **OpenMontage** (+1,754 stars today), presenting the first open-source ag...",
+      "created_at": "2026-06-27T08:32:38Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-27",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/66",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-27 03:57 UTC\n\n---\n\n<think>\nThe user wants me to analyze GitHub trending AI repositories from 2026-06-27 and produce a structured AI open source trends daily report. Let me work through this systematically.\n\n## Step 1: Filter AI-related projects\n\n### Trending list (17 repos) - AI relevance filter:\n\n1. **simplex-chat/simplex-chat** [Haskell] +432 - Messaging network, NOT AI related. SKIP\n2. **google-labs-code/desig...",
+      "created_at": "2026-06-27T04:04:18Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-06-27",
+      "url": "https://github.com/duanyytop/agents-radar/issues/1835",
+      "repo": "duanyytop/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 00:27 UTC\n\n---\n\n# AI Open Source Ecosystem Trends Report — 2026-06-27\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is unmistakably dominated by **agent harnesses and coding agent productivity tools**. Two projects—`google-labs-code/design.md` (+2,407 stars today) and `garrytan/gstack` (+950)—exemplify a new wave: they package opinionated, pre-configured agent toolkits that ...",
+      "created_at": "2026-06-27T00:33:40Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-26",
       "url": "https://github.com/rollysys/agents-radar/issues/699",
@@ -96,42 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-06-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-21 04:53 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends report.\n\n**Step 1: Filtering AI-related projects from Trending**\n\nLet me go through the Trending list and identify AI-related ones:\n\n1. **palmier-io/palmier-pro** (+902) - \"macOS video editor built for AI\" - AI应用 ✅\n2. **penpot/penpot** (+420) - Open-source design tool - NOT AI related, generic design tool...",
       "created_at": "2026-06-21T04:59:27Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-06-21",
-      "url": "https://github.com/JohnGao818/agents-radar/issues/253",
-      "repo": "JohnGao818/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-06-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-21 03:43 UTC\n\n---\n\nOkay, let's break down the data and build the report.\n\n**Step 1: Filtering for AI/ML Relevance**\n\nFrom the **Trending List**, I will remove clear non-AI projects:\n*   `penpot/penpot`: Design tool, not AI/ML.\n*   `tursodatabase/turso`: Database, not AI/ML.\n*   `twentyhq/twenty`: CRM (even if \"designed for AI\"), core product is not an AI tool.\n*   `Kong/insomnia`: API client, ...",
-      "created_at": "2026-06-21T03:46:14Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-20",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/41",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-20 04:11 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends daily report.\n\n## Step 1: Filter AI/ML related projects from Trending\n\nFrom the Trending list (15 repos), I need to filter AI-related ones:\n\n1. **DeusData/codebase-memory-mcp** [C] - MCP server for code intelligence, uses knowledge graph - AI-related ✅\n2. **google-research/timesfm** [Python] - Time Series...",
-      "created_at": "2026-06-20T04:19:41Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-12",
-      "url": "https://github.com/litang9/big_model_radar/issues/53",
-      "repo": "litang9/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-12 03:37 UTC\n\n---\n\n# 📰 AI 开源趋势日报 (2026-06-12)\n\n## 1. 今日速览\n- **“智能体技能”爆发达成社区共识**：今日 GitHub Trending 榜单被 AI Agent 的技能包、提示词框架和工作流彻底霸占，以 `agent-skills`、`pm-skills` 为代表的项目单日斩获数千 Star，标志着 AI 应用正从“通用对话”向“专业化、模块化技能执行”迈进。\n- **英伟达入局 Agent 安全审查**：NVIDIA 开源了针对 AI 智能体技能的安全扫描工具 `SkillSpector`，意味着随着 Agent 自动化执行权限的扩大，AI 供应链安全与行为合规已成为大厂关注的重点基础设施。\n- **端侧与本地-first 智能体分析工具兴起**：随着各类 Coding Agent（如 Claude Code, Codex）的普及，用于监控、分析本地 AI...",
-      "created_at": "2026-06-12T03:47:37Z",
       "author": "github-actions[bot]",
       "amount": null
     }
