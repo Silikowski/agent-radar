@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T12:36:36.780Z",
+  "generated_at": "2026-06-30T11:11:46.655Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-30",
+      "url": "https://github.com/rollysys/agents-radar/issues/728",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 03:54 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-30)\n\n## 今日速览\n今日 AI 开源领域呈现出**垂直领域智能体爆发**与**本地化/隐私计算**两大核心趋势。在 Trending 榜单中，`agency-agents` 和 `ai-berkshire` 等项目强势崛起，标志着社区关注点正从通用聊天机器人转向具备专业工作流（如投资研究、网络安全）的“专家级 Agent”。同时，`FluidVoice` 的流行印证了端侧算力释放的潜力，用户对离线、隐私优先的 AI 工具需求激增。基础设施层面，`Cupy` 的热度反映了 GPU 加速依然是 AI 底层的硬通货，而基于 MCP 协议的安全工具 `VulnClaw` 则预示着 AI 正在重塑网络安全防御体系。\n\n---\n\n## 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n*今日焦点：垂直场景落地与多智能体协作*\n\n1.  **[m...",
+      "created_at": "2026-06-30T04:06:07Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-30",
+      "url": "https://github.com/leevaluder-maker/agents-radar/issues/14",
+      "repo": "leevaluder-maker/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 02:30 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-06-30 数据，为您生成一份结构清晰、内容专业的《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 | 2026-06-30**\n\n#### **1. 今日速览**\n\n今日 AI 开源社区呈现 **“AI Agent 生态工具化”** 与 **“场景化垂直应用”** 两大核心趋势。AI Agent 领域，以 `agency-agents` 和 `shareAI-lab` 为代表的项目，正将单体 Agent 向 **“多角色协作”** 和 **“零代码构建”** 方向推进。另一方面，AI 应用与金融投资场景的结合成为热点，`ai-berkshire` 和 `Vibe-Trading` 等项目今日 Stars 激增，展示了开发者对**将 LLM 能力注入具体决策场景**的强烈兴趣。同时，`LLM...",
+      "created_at": "2026-06-30T02:34:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-29",
       "url": "https://github.com/bcc2802/agents-radar/issues/156",
@@ -108,30 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-06-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-26 03:58 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-26)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是 **\"Claude Code 生态的爆发式繁荣\"**。在 Trending 榜单中，多个高星项目均围绕 Claude Code 构建工具链、技能库和最佳实践，标志着 AI 编程助手正从单一工具向标准化平台演进。同时，**Agentic Workflow（智能体工作流）在垂直领域的落地**成为亮点，出现了专门用于视频制作、金融投资研究和网络安全的高复杂度 Agent 项目。此外，基础设施层面关于 AI 编码规范（如 `design.md`）的探索，暗示着 \"AI原生开发\" 正在形成自己的设计范式。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、开发工具）\n\n- **[google-labs-code/design.md](ht...",
       "created_at": "2026-06-26T04:12:07Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-23",
-      "url": "https://github.com/zx0828/big_model_radar/issues/167",
-      "repo": "zx0828/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
-      "created_at": "2026-06-23T00:45:54Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-24",
-      "url": "https://github.com/bcc2802/agents-radar/issues/118",
-      "repo": "bcc2802/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 03:32 UTC\n\n---\n\n好的，作为专注于AI开源生态的技术分析师，以下是根据您提供的数据生成的《AI开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 (2026-06-24)**\n\n#### **1. 今日速览**\n\n- **智能体进入“工业化”生产阶段**：今日热点中，“智能体工作台”（SuperAgent Harness）成为绝对主角。字节跳动开源的 `deer-flow` 和 `affaan-m/ECC` 等项目，正将单一智能体进化为拥有复杂技能、记忆和子智能体的“团队”，降低了开发长周期、高复杂度任务的门槛。\n- **“Claude Code”生态链全面爆发**：围绕 `Claude Code` 的项目呈现井喷式增长，从官方顶级插件目录 (`claude-plugins-official`)、领域专用配置 (`gstack`) 到性能优化MCP服务器 (`codebase-memory-...",
-      "created_at": "2026-06-24T03:35:32Z",
       "author": "github-actions[bot]",
       "amount": null
     }
