@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-06-30",
+    "url": "https://github.com/rollysys/agents-radar/issues/728",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 03:54 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-30)\n\n## 今日速览\n今日 AI 开源领域呈现出**垂直领域智能体爆发**与**本地化/隐私计算**两大核心趋势。在 Trending 榜单中，`agency-agents` 和 `ai-berkshire` 等项目强势崛起，标志着社区关注点正从通用聊天机器人转向具备专业工作流（如投资研究、网络安全）的“专家级 Agent”。同时，`FluidVoice` 的流行印证了端侧算力释放的潜力，用户对离线、隐私优先的 AI 工具需求激增。基础设施层面，`Cupy` 的热度反映了 GPU 加速依然是 AI 底层的硬通货，而基于 MCP 协议的安全工具 `VulnClaw` 则预示着 AI 正在重塑网络安全防御体系。\n\n---\n\n## 各维度热门项目\n\n### 🤖 AI 智能体/工作流\n*今日焦点：垂直场景落地与多智能体协作*\n\n1.  **[m...",
+    "created_at": "2026-06-30T04:06:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-30",
+    "url": "https://github.com/leevaluder-maker/agents-radar/issues/14",
+    "repo": "leevaluder-maker/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-30\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 02:30 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-06-30 数据，为您生成一份结构清晰、内容专业的《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 | 2026-06-30**\n\n#### **1. 今日速览**\n\n今日 AI 开源社区呈现 **“AI Agent 生态工具化”** 与 **“场景化垂直应用”** 两大核心趋势。AI Agent 领域，以 `agency-agents` 和 `shareAI-lab` 为代表的项目，正将单体 Agent 向 **“多角色协作”** 和 **“零代码构建”** 方向推进。另一方面，AI 应用与金融投资场景的结合成为热点，`ai-berkshire` 和 `Vibe-Trading` 等项目今日 Stars 激增，展示了开发者对**将 LLM 能力注入具体决策场景**的强烈兴趣。同时，`LLM...",
+    "created_at": "2026-06-30T02:34:35Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-29",
     "url": "https://github.com/bcc2802/agents-radar/issues/156",
     "repo": "bcc2802/agents-radar",
@@ -128,18 +152,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 02:26 UTC\n\n---\n\nWe need to produce a structured \"AI 开源趋势日报\" based on given trending data and search results.\n\nStep 1: filter projects related to AI/ML, exclude generic tools, front-end frameworks, games, etc. For Trending list, directly omit non-AI projects.\n\nStep 2: classify selected projects into categories: AI 基础工具, AI 智能体/工作流, AI 应用, 大模型/训练, RAG/知识库.\n\nStep 3: output report with sections:\n\n1. 今日速览: 3-5 sent...",
     "created_at": "2026-06-24T02:38:46Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-22",
-    "url": "https://github.com/Augustrains/agents-radar/issues/242",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-22 02:30 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-06-22 数据，生成以下《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 | 2026-06-22**\n\n#### **1. 今日速览**\n\n今日AI开源生态呈现出极强的“去中心化”与“内存优先”两大特征。以 **headroom** 为代表的“Token压缩”理念异军突起，旨在通过减少LLM上下文噪音来降低成本和提升响应质量，这可能成为RAG和Agent大规模落地的关键基础设施。与此同时，AI Agent的开发正从通用框架向具备**持久化记忆**（如 **cognee**、**claude-mem**）和**特定领域技能**（如网络安全 **Anthropic-Cybersecurity-Skills**）的方向深化。此外，**视频生成**领域也出现首个开源Agent系统 **Ope...",
-    "created_at": "2026-06-22T02:36:21Z",
     "author": "github-actions[bot]",
     "amount": null
   },
