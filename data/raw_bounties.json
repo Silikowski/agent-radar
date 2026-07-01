@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-07-01",
+    "url": "https://github.com/ys578/agents-radar/issues/19",
+    "repo": "ys578/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 17:11 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-01\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出两极分化的态势：一方面，**AI 智能体（Agent）生态持续繁荣**，从安全测试、投资研究到视频编辑、个人助手，各类垂直场景的 Agent 应用层出不穷；另一方面，**AI 基础工具链**，尤其是为 Agent 服务的记忆层、压缩与推理框架，也获得了极高的关注。值得注意的是，“AI Agent 工作流”与“开发者效率工具”的深度结合成为今日技术亮点，大量新项目旨在将 Claude Code、Codex 等编码助手的强大能力与特定任务（如金融分析、渗透测试）绑定。此外，老牌 AI 框架如 TensorFlow、PyTorch 热度不减，但其“核心”地位正在被更上层的 A...",
+    "created_at": "2026-06-30T17:16:25Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-07-01",
+    "url": "https://github.com/litang9/big_model_radar/issues/147",
+    "repo": "litang9/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-01 04:55 UTC\n\n---\n\n这是一份为您生成的《AI 开源趋势日报》（2026-07-01）。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-01)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“Agent 基建化”**与**“垂直场景落地”**双核爆发趋势。在基础设施层，以命令行（CLI）和多路复用为核心的“轻量级 Agent 控制台”迎来爆发，多个项目单日 Star 破千，表明开发者正迫切需要掌控多模型的统一入口。在应用层，AI 正深度重构金融量化交易与音视频处理工作流，涌现出大量结合多 Agent 架构的垂直生产力工具。此外，“本地优先、隐私至上”的端侧 AI 应用（如端侧语音识别）开始正式挑战商业付费软件的统治地位。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n*   [diegosouzapw/OmniRou...",
+    "created_at": "2026-07-01T05:02:32Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-07-01",
+    "url": "https://github.com/bcc2802/agents-radar/issues/170",
+    "repo": "bcc2802/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-01 03:49 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将基于您提供的数据，生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 (2026-07-01)\n\n#### 第一步：AI 相关性过滤\n\n**已剔除的非 AI 项目（Trending 榜单）：**\n- `hasaneyldrm/exercises-dataset`: 健身数据集，非 AI 相关。\n- `Mebus/cupp`: 密码分析工具，非 AI 相关。\n- `ripienaar/free-for-dev`: 免费服务列表，通用工具。\n- `simplex-chat/simplex-chat`: 隐私通讯软件，非 AI 相关。\n- `CoreBunch/Instatic`: 可视化 CMS，通用工具。\n- `facebook/astryx`: 设计系统，与 Agent 有关联但本身非 AI/ML。...",
+    "created_at": "2026-07-01T03:53:47Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-06-30",
     "url": "https://github.com/rollysys/agents-radar/issues/728",
     "repo": "rollysys/agents-radar",
@@ -128,18 +164,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
     "created_at": "2026-06-23T00:45:54Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-24",
-    "url": "https://github.com/bcc2802/agents-radar/issues/118",
-    "repo": "bcc2802/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-24 03:32 UTC\n\n---\n\n好的，作为专注于AI开源生态的技术分析师，以下是根据您提供的数据生成的《AI开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 (2026-06-24)**\n\n#### **1. 今日速览**\n\n- **智能体进入“工业化”生产阶段**：今日热点中，“智能体工作台”（SuperAgent Harness）成为绝对主角。字节跳动开源的 `deer-flow` 和 `affaan-m/ECC` 等项目，正将单一智能体进化为拥有复杂技能、记忆和子智能体的“团队”，降低了开发长周期、高复杂度任务的门槛。\n- **“Claude Code”生态链全面爆发**：围绕 `Claude Code` 的项目呈现井喷式增长，从官方顶级插件目录 (`claude-plugins-official`)、领域专用配置 (`gstack`) 到性能优化MCP服务器 (`codebase-memory-...",
-    "created_at": "2026-06-24T03:35:32Z",
     "author": "github-actions[bot]",
     "amount": null
   },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:11:46.655Z",
+  "generated_at": "2026-07-01T11:26:22.009Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,42 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-01",
+      "url": "https://github.com/ys578/agents-radar/issues/19",
+      "repo": "ys578/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-30 17:11 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-01\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出两极分化的态势：一方面，**AI 智能体（Agent）生态持续繁荣**，从安全测试、投资研究到视频编辑、个人助手，各类垂直场景的 Agent 应用层出不穷；另一方面，**AI 基础工具链**，尤其是为 Agent 服务的记忆层、压缩与推理框架，也获得了极高的关注。值得注意的是，“AI Agent 工作流”与“开发者效率工具”的深度结合成为今日技术亮点，大量新项目旨在将 Claude Code、Codex 等编码助手的强大能力与特定任务（如金融分析、渗透测试）绑定。此外，老牌 AI 框架如 TensorFlow、PyTorch 热度不减，但其“核心”地位正在被更上层的 A...",
+      "created_at": "2026-06-30T17:16:25Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-01",
+      "url": "https://github.com/litang9/big_model_radar/issues/147",
+      "repo": "litang9/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-01 04:55 UTC\n\n---\n\n这是一份为您生成的《AI 开源趋势日报》（2026-07-01）。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-01)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“Agent 基建化”**与**“垂直场景落地”**双核爆发趋势。在基础设施层，以命令行（CLI）和多路复用为核心的“轻量级 Agent 控制台”迎来爆发，多个项目单日 Star 破千，表明开发者正迫切需要掌控多模型的统一入口。在应用层，AI 正深度重构金融量化交易与音视频处理工作流，涌现出大量结合多 Agent 架构的垂直生产力工具。此外，“本地优先、隐私至上”的端侧 AI 应用（如端侧语音识别）开始正式挑战商业付费软件的统治地位。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n*   [diegosouzapw/OmniRou...",
+      "created_at": "2026-07-01T05:02:32Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-01",
+      "url": "https://github.com/bcc2802/agents-radar/issues/170",
+      "repo": "bcc2802/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-01 03:49 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将基于您提供的数据，生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n### AI 开源趋势日报 (2026-07-01)\n\n#### 第一步：AI 相关性过滤\n\n**已剔除的非 AI 项目（Trending 榜单）：**\n- `hasaneyldrm/exercises-dataset`: 健身数据集，非 AI 相关。\n- `Mebus/cupp`: 密码分析工具，非 AI 相关。\n- `ripienaar/free-for-dev`: 免费服务列表，通用工具。\n- `simplex-chat/simplex-chat`: 隐私通讯软件，非 AI 相关。\n- `CoreBunch/Instatic`: 可视化 CMS，通用工具。\n- `facebook/astryx`: 设计系统，与 Agent 有关联但本身非 AI/ML。...",
+      "created_at": "2026-07-01T03:53:47Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-30",
       "url": "https://github.com/rollysys/agents-radar/issues/728",
@@ -96,42 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 08:27 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-06-27\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by **agent infrastructure** and **agent-powered vertical applications**, with several projects surpassing 1,000 stars in a single day. The most explosive growth comes from **OpenMontage** (+1,754 stars today), presenting the first open-source ag...",
       "created_at": "2026-06-27T08:32:38Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-27",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/66",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-27 03:57 UTC\n\n---\n\n<think>\nThe user wants me to analyze GitHub trending AI repositories from 2026-06-27 and produce a structured AI open source trends daily report. Let me work through this systematically.\n\n## Step 1: Filter AI-related projects\n\n### Trending list (17 repos) - AI relevance filter:\n\n1. **simplex-chat/simplex-chat** [Haskell] +432 - Messaging network, NOT AI related. SKIP\n2. **google-labs-code/desig...",
-      "created_at": "2026-06-27T04:04:18Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-06-27",
-      "url": "https://github.com/duanyytop/agents-radar/issues/1835",
-      "repo": "duanyytop/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 00:27 UTC\n\n---\n\n# AI Open Source Ecosystem Trends Report — 2026-06-27\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is unmistakably dominated by **agent harnesses and coding agent productivity tools**. Two projects—`google-labs-code/design.md` (+2,407 stars today) and `garrytan/gstack` (+950)—exemplify a new wave: they package opinionated, pre-configured agent toolkits that ...",
-      "created_at": "2026-06-27T00:33:40Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-26",
-      "url": "https://github.com/rollysys/agents-radar/issues/699",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-26\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-26 03:58 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-26)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是 **\"Claude Code 生态的爆发式繁荣\"**。在 Trending 榜单中，多个高星项目均围绕 Claude Code 构建工具链、技能库和最佳实践，标志着 AI 编程助手正从单一工具向标准化平台演进。同时，**Agentic Workflow（智能体工作流）在垂直领域的落地**成为亮点，出现了专门用于视频制作、金融投资研究和网络安全的高复杂度 Agent 项目。此外，基础设施层面关于 AI 编码规范（如 `design.md`）的探索，暗示着 \"AI原生开发\" 正在形成自己的设计范式。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、开发工具）\n\n- **[google-labs-code/design.md](ht...",
-      "created_at": "2026-06-26T04:12:07Z",
       "author": "github-actions[bot]",
       "amount": null
     }
