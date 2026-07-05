@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-07-05",
+    "url": "https://github.com/Lux0206/agents-radar/issues/81",
+    "repo": "Lux0206/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-05\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-05 03:53 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的 2026-07-05 数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-05\n\n### 1. 今日速览\n\n今日 AI 开源领域最显著的趋势是 **“AI 编程代理（Coding Agent）技能”生态**的集中爆发。以 `Claude Code` 为代表的 Agent 正在成为新的“操作系统”，围绕其开发插件、技能和优化工具的项目占据了 Trending 榜半壁江山。同时，**本地化、隐私优先的 AI 应用**（如会议助手、GUI 控制）持续受到关注。值得注意的是，今日涌现出多款旨在**极致降低 Agent 使用成本**（如节省 Token）的项目，显示出社区对 AI 实用性和经济性的高度关注。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n\n- **[o...",
+    "created_at": "2026-07-05T03:56:57Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-05",
+    "url": "https://github.com/leevaluder-maker/agents-radar/issues/59",
+    "repo": "leevaluder-maker/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-05\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-05 02:07 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-05\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by **agent skill ecosystems and token optimization**, reflecting a maturing phase where raw model capabilities are being wrapped in practical, cost-reducing tools. The standout project is **caveman** (1,089 stars today), a Claude Code skill that slashes 65% ...",
+    "created_at": "2026-07-05T02:11:44Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-04",
     "url": "https://github.com/litang9/big_model_radar/issues/162",
     "repo": "litang9/big_model_radar",
@@ -200,30 +224,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-28 04:04 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-28)\n\n## 1. 今日速览\n今日 AI 开源社区的关注重心明显向 **“AI 编码代理的标准化与工程化”** 倾斜。Google 发布的 `design.md` 提出了一种让 AI 代理理解设计系统的新规范，迅速登顶热榜，显示出社区对“Spec-Driven Development（规范驱动开发）”的迫切需求。同时，以 `ai-berkshire` 和 `Vibe-Trading` 为代表的垂直领域 Agent 应用爆发，标志着 AI 正从通用对话向“超级个体”在金融、研发等复杂场景的深度落地。此外，`cognee` 等记忆层基础设施的热度攀升，揭示了 Agent 长期记忆与知识图谱结合的技术路径正在成熟。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、工具链）\n*   **[google-labs...",
     "created_at": "2026-06-28T04:16:59Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-28",
-    "url": "https://github.com/duanyytop/agents-radar/issues/1850",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-28 00:25 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于您提供数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-06-28)\n\n### 1. 今日速览\n\n今日 AI 开源生态呈现出三大核心动向：**AI 智能体（Agent）基础设施全面爆发**，多个旨在为 Agent 提供“记忆”和“长期上下文”的项目（如 Cognee、claude-mem）获得极高关注；**“Agent 赋能金融与创意生产”成为热点**，从价值投资研究框架（ai-berkshire）到 AI 生成可编辑 PPT（ppt-master），AI 正加速渗透垂直行业；**“代码代理”工具链日益成熟**，围绕 Claude Code 的开源生态（如 gstack、OpenSpec）和通用编码 Agent（opencode）正在重塑软件开发范式。\n\n### 2. 各维度热门项目\n\n###...",
-    "created_at": "2026-06-28T00:30:35Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-06-27",
-    "url": "https://github.com/Lux0206/agents-radar/issues/2",
-    "repo": "Lux0206/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-06-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-27 08:27 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-06-27\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by **agent infrastructure** and **agent-powered vertical applications**, with several projects surpassing 1,000 stars in a single day. The most explosive growth comes from **OpenMontage** (+1,754 stars today), presenting the first open-source ag...",
-    "created_at": "2026-06-27T08:32:38Z",
     "author": "github-actions[bot]",
     "amount": null
   },
