@@ -192,18 +192,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-06-29",
-    "url": "https://github.com/bcc2802/agents-radar/issues/156",
-    "repo": "bcc2802/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-29 03:52 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将根据您提供的数据，为您生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n### 《AI 开源趋势日报》- 2026-06-29\n\n---\n\n### 1. 今日速览\n\n今日 AI 开源领域展现出几个显著特征：**AI 智能体（Agent）生态的工业化与精细化**趋势明显，从大型框架到运行时的上下文管理，再到针对特定任务（如交易、安全、视频编辑）的垂直 Agent 都在快速增长。**代码智能体成为绝对热点**，围绕 Claude Code、Codex 等工具的增强、记忆、建模项目爆发，显示出开发者对提升 AI 编码生产力的强烈渴望。同时，**RAG 技术栈持续深化**，与知识图谱、向量数据库的融合更加紧密，并向 100% 本地化、高效压缩等方向演进。\n\n---\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、...",
-    "created_at": "2026-06-29T03:55:15Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-06-29",
     "url": "https://github.com/Augustrains/agents-radar/issues/346",
     "repo": "Augustrains/agents-radar",
@@ -212,18 +200,6 @@
     ],
     "body": "# AI Open Source Trends 2026-06-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-29 02:06 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-06-29**.\n\n---\n\n## 1. Today's Highlights\n\nToday’s GitHub AI ecosystem is dominated by **agentic infrastructure and code intelligence**. The most explosive project of the day is `codebase-memory-mcp` (+2,190 stars), an MCP server that builds a persistent knowledge graph from entire codebases in milliseconds. This signals ...",
     "created_at": "2026-06-29T02:11:21Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-28",
-    "url": "https://github.com/rollysys/agents-radar/issues/714",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-28 04:04 UTC\n\n---\n\n# AI 开源趋势日报 (2026-06-28)\n\n## 1. 今日速览\n今日 AI 开源社区的关注重心明显向 **“AI 编码代理的标准化与工程化”** 倾斜。Google 发布的 `design.md` 提出了一种让 AI 代理理解设计系统的新规范，迅速登顶热榜，显示出社区对“Spec-Driven Development（规范驱动开发）”的迫切需求。同时，以 `ai-berkshire` 和 `Vibe-Trading` 为代表的垂直领域 Agent 应用爆发，标志着 AI 正从通用对话向“超级个体”在金融、研发等复杂场景的深度落地。此外，`cognee` 等记忆层基础设施的热度攀升，揭示了 Agent 长期记忆与知识图谱结合的技术路径正在成熟。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、工具链）\n*   **[google-labs...",
-    "created_at": "2026-06-28T04:16:59Z",
     "author": "github-actions[bot]",
     "amount": null
   },
