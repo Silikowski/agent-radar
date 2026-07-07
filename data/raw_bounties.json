@@ -192,18 +192,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI Open Source Trends 2026-06-29",
-    "url": "https://github.com/Augustrains/agents-radar/issues/346",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-06-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-06-29 02:06 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-06-29**.\n\n---\n\n## 1. Today's Highlights\n\nToday’s GitHub AI ecosystem is dominated by **agentic infrastructure and code intelligence**. The most explosive project of the day is `codebase-memory-mcp` (+2,190 stars), an MCP server that builds a persistent knowledge graph from entire codebases in milliseconds. This signals ...",
-    "created_at": "2026-06-29T02:11:21Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-06-27",
     "url": "https://github.com/96loveslife/big_model_radar/issues/66",
     "repo": "96loveslife/big_model_radar",
