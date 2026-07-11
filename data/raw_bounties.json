@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-07-11",
+    "url": "https://github.com/leevaluder-maker/agents-radar/issues/146",
+    "repo": "leevaluder-maker/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-11\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-11 01:47 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-11**.\n\n---\n\n## 1. Today’s Highlights\n\nThe AI open-source community is experiencing a distinct shift from \"chatbots\" to **production-grade agentic tooling**. The explosive growth of repositories like `addyosmani/agent-skills` (+1,116 today) and `mattpocock/skills` (+1,712 today) signals that developers are demanding *...",
+    "created_at": "2026-07-11T01:51:44Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-07-11",
+    "url": "https://github.com/duanyytop/agents-radar/issues/2070",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-11 01:28 UTC\n\n---\n\n好的。作为专注于 AI 开源生态的技术分析师，我已对您提供的 2026-07-11 数据完成筛选、分类和趋势分析。以下是《AI 开源趋势日报》。\n\n---\n\n### 《AI 开源趋势日报》 | 2026-07-11\n\n### 1. 今日速览\n\n今日AI开源社区的核心焦点是 **“Agent 技能工程”（Agent Skills）** 的爆发。以 `addyosmani/agent-skills` 和 `mattpocock/skills` 为首的项目引爆了热榜，标志着社区正从“如何构建Agent”转向“如何高效武装Agent”。同时，AI 驱动的办公自动化工具 `iOfficeAI/OfficeCLI` 和专为AI Agent提供持久化记忆的 `TencentCloud/TencentDB-Agent-Memory` 也获得了大量关注，显示出AI应用正快速渗透到具体业务场景和数据管理...",
+    "created_at": "2026-07-11T01:32:24Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-10",
     "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/366",
     "repo": "bianzhilong2-ctrl/agents-radar",
@@ -108,18 +132,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI Open Source Trends 2026-07-03",
-    "url": "https://github.com/Augustrains/agents-radar/issues/404",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-03\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-03 01:43 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-03**, based on the provided GitHub trending and topic search data.\n\n---\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is undeniably in the midst of a \"**Agentic Skills Explosion**.\" The most explosive growth today is not in new model architectures, but in the tooling, skills, and harnesses designed to super...",
-    "created_at": "2026-07-03T01:49:11Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-03",
     "url": "https://github.com/bcc2802/agents-radar/issues/186",
     "repo": "bcc2802/agents-radar",
@@ -128,18 +140,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-03\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-03 08:13 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-07-03 数据，为您生成一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n### 《AI 开源趋势日报》 — 2026-07-03\n\n### 1. 今日速览\n\n今日 AI 开源社区的核心主题是“**智能体(Skill)生态**的爆发与**工具链优化**”。以 `caveman` 为代表的 Token 压缩技巧和 `strix` 为代表的 AI 安全工具在 Trending 榜上崭露头角，反映了社区对“降本增效”的极致追求。同时，`agentskills` 和 `superpowers` 等项目正试图为 Agent Skills 建立标准和框架，显示出行业正从“造 Agent”向“批量管理 Agent”演进。此外，AI 驱动的垂直应用如“Vibe-Trading”和“video-use”也获得了大量关注，标志...",
     "created_at": "2026-07-03T08:16:50Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-03",
-    "url": "https://github.com/leevaluder-maker/agents-radar/issues/30",
-    "repo": "leevaluder-maker/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-03\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-03 02:01 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-03\n\n## Step 1: AI Relevance Filtering\n\n**Excluded (non-AI or unrelated):**\n- `actions/checkout` — Generic GitHub Action\n- `ryanmcdermott/clean-code-javascript` — General coding best practices\n- `affaan-m/ECC` — Agent harness optimization (stars inflated, likely anomalous)\n- `jeecgboot/JeecgBoot` — Low-code platform (AI features second...",
-    "created_at": "2026-07-03T02:07:53Z",
     "author": "github-actions[bot]",
     "amount": null
   },
