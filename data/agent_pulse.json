@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:00:05.315Z",
+  "generated_at": "2026-07-15T10:04:19.151Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,66 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-15",
+      "url": "https://github.com/Lux0206/agents-radar/issues/153",
+      "repo": "Lux0206/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 02:48 UTC\n\n---\n\n好的，这是为你生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-15\n\n**分析周期：** 2026-07-15\n**数据来源：** GitHub Trending 榜单 & AI 主题搜索\n**分析师：** AI 开源生态技术分析师\n\n---\n\n### 1️⃣ 今日速览\n\n今日 AI 开源社区的核心关键词是 **“Agent 工程化”与“应用落地”**。一方面，围绕 **Claude Code**、**Codex** 等工具的 **AI 编码助手技能包** 呈现爆发式增长，开发者正通过 MCP、知识图谱等方式将 AI 与代码库深度融合。另一方面，**AI 应用层** 百花齐放，从视频编辑（OpenCut）到量化交易（AI Hedge Fund），再到更实用的工具（如 AI 简历筛选），说明开发者正在快速将 AI 能力注入垂直领域。\n\n---\n...",
+      "created_at": "2026-07-15T02:52:43Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-15",
+      "url": "https://github.com/rollysys/agents-radar/issues/841",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 02:39 UTC\n\n---\n\n# AI 开源趋势日报 (2026-07-15)\n\n## 1. 今日速览\n\n今日 GitHub AI 领域最显著的趋势是**AI 编程助手正从“辅助”走向“自主与结构化”**。以 `Graphify` 为代表的项目通过构建知识图谱解决了代码理解的幻觉问题，单日涨星超 1800，成为最亮眼的黑马。同时，围绕 Claude Code、Cursor 等 AI IDE 的“技能市场”正在爆发，`mattpocock/skills` 和 `Nutlope/hallmark` 显示社区正致力于提升 AI 编程的质量与审美规范。此外，AI 智能体在垂直领域的落地加速，金融交易和求职自动化类应用热度不减，安全防护类项目也随 Agent 自主性提升首次登上热榜。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、工具）\n\n*   **[mattpocock/skil...",
+      "created_at": "2026-07-15T02:50:30Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-15",
+      "url": "https://github.com/xiehd77-del/agents-radar/issues/143",
+      "repo": "xiehd77-del/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 02:36 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的2026-07-15数据生成的《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 (2026-07-15)**\n\n#### **1. 今日速览**\n\n今日AI开源社区呈现出两大核心趋势：**AI Agent 的基础设施与工具链**正趋于成熟和标准化；**AI驱动的创意工具（视频编辑）** 迎来颠覆性开源产品，获得现象级关注。`Shubhamsaboo/awesome-llm-apps` 以海量可运行实例巩固了其作为Agent开发者首选资源库的地位。同时，`OpenCut` 和 `Graphify` 等项目的爆发，分别代表了AI在视频编辑和知识图谱构建方面的强力渗透。此外，针对AI Agent安全性的 `destructive_command_guard` 也表明，社区在狂热追求能力的同时，开始严肃对待安...",
+      "created_at": "2026-07-15T02:41:24Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-07-15",
+      "url": "https://github.com/leevaluder-maker/agents-radar/issues/202",
+      "repo": "leevaluder-maker/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-15\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-15 01:26 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date: 2026-07-15**\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows two dominant themes: **AI agent memory and context systems** are exploding in popularity, and **open-source CapCut alternatives** are emerging as a new killer app category. The most notable projects are Graphify (+1,851 stars today), which turns codeba...",
+      "created_at": "2026-07-15T01:31:17Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-15",
+      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/428",
+      "repo": "bianzhilong2-ctrl/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 01:26 UTC\n\n---\n\nWe need to produce a structured report with steps. First filter: select projects clearly AI/ML related. Exclude generic tools, front-end frameworks, games etc. From Trending list, we need to omit non-AI projects. Let's identify AI/ML related repos in Trending list:\n\nList with stars and topics:\n\n- [Shubhamsaboo/awesome-llm-apps] [Python] ⭐0 (+1106 today) -> AI related (LLM apps) keep.\n- [mattpoc...",
+      "created_at": "2026-07-15T01:37:18Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-07-14",
       "url": "https://github.com/leevaluder-maker/agents-radar/issues/188",
@@ -72,66 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-12 21:25 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已为您完成对 2026-07-13 日 GitHub 热点数据的分析。以下是今日的《AI 开源趋势日报》。\n\n---\n\n# AI 开源趋势日报 | 2026-07-13\n\n## 今日速览\n\n今日 AI 开源社区的核心关键词是 **“Agent 安全”、“Agent 记忆与上下文”** 以及 **“开源 AI 生态工具链的泛化”**。一方面，针对 AI Agent 在执行命令时可能造成的破坏性操作，出现了专门的防御性工具，反映出社区对 Agent 安全性日益增长的重视。另一方面，围绕 Claude Code、Codex 等编码 Agent 的生态工具呈现爆发态势，尤其是“记忆层”和“上下文管理”项目获得了极高关注。值得注意的是，传统开发领域（如低代码、工作流调度）也在加速整合 AI 能力，成为新的增长点。\n\n## 各维度热门项目\n\n###...",
       "created_at": "2026-07-12T21:29:31Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-13",
-      "url": "https://github.com/kky-wollu/agents-radar/issues/2",
-      "repo": "kky-wollu/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-13\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-12 20:39 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-13\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem is witnessing an explosive convergence of **agent safety, financial trading agents, and Claude-era developer tooling**. Today's trending list features a dedicated command guard for preventing destructive agent actions (`destructive_command_guard`), a personal trading agen...",
-      "created_at": "2026-07-12T20:43:56Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-12",
-      "url": "https://github.com/rollysys/agents-radar/issues/820",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-12 03:14 UTC\n\n---\n\n# AI 开源趋势日报 (2026-07-12)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“**Agent 行动化与技能标准化**”的双重趋势。以 `DesktopCommanderMCP` 为代表的项目打破了 AI 与本地操作系统的隔阂，让 Agent 真正具备了控制终端和文件系统的能力，成为今日增长最快的明星项目。同时，`stitch-skills` 和 `superpowers` 等项目的上榜，标志着社区正在从单一的 Function Calling 转向更复杂的 **Agentic Skills Framework（智能体技能框架）** 架构。Claude 相关生态（Claude Code, MCP 协议）持续爆发，在工具层和应用层均展现出极强的统治力。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎）\n\n- **[wo...",
-      "created_at": "2026-07-12T03:27:52Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-12",
-      "url": "https://github.com/Augustrains/agents-radar/issues/534",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-12\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-12 01:22 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date:** 2026-07-12  \n**Analyst:** Technical AI Open-Source Ecosystem Specialist\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem is experiencing a major surge in **agent skill standardization and cross-platform interoperability**. Two standout projects—`stitch-skills` (Google Labs, +340 today) and `superpowers` (+740 today)—are pu...",
-      "created_at": "2026-07-12T01:27:00Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-11",
-      "url": "https://github.com/leevaluder-maker/agents-radar/issues/146",
-      "repo": "leevaluder-maker/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-11\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-11 01:47 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-11**.\n\n---\n\n## 1. Today’s Highlights\n\nThe AI open-source community is experiencing a distinct shift from \"chatbots\" to **production-grade agentic tooling**. The explosive growth of repositories like `addyosmani/agent-skills` (+1,116 today) and `mattpocock/skills` (+1,712 today) signals that developers are demanding *...",
-      "created_at": "2026-07-11T01:51:44Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-11",
-      "url": "https://github.com/duanyytop/agents-radar/issues/2070",
-      "repo": "duanyytop/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-11 01:28 UTC\n\n---\n\n好的。作为专注于 AI 开源生态的技术分析师，我已对您提供的 2026-07-11 数据完成筛选、分类和趋势分析。以下是《AI 开源趋势日报》。\n\n---\n\n### 《AI 开源趋势日报》 | 2026-07-11\n\n### 1. 今日速览\n\n今日AI开源社区的核心焦点是 **“Agent 技能工程”（Agent Skills）** 的爆发。以 `addyosmani/agent-skills` 和 `mattpocock/skills` 为首的项目引爆了热榜，标志着社区正从“如何构建Agent”转向“如何高效武装Agent”。同时，AI 驱动的办公自动化工具 `iOfficeAI/OfficeCLI` 和专为AI Agent提供持久化记忆的 `TencentCloud/TencentDB-Agent-Memory` 也获得了大量关注，显示出AI应用正快速渗透到具体业务场景和数据管理...",
-      "created_at": "2026-07-11T01:32:24Z",
       "author": "github-actions[bot]",
       "amount": null
     }
