@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:04:19.151Z",
+  "generated_at": "2026-07-16T10:10:14.597Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,54 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-16",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/169",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 03:12 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on GitHub trending data and AI topic search results from 2026-07-16. Let me carefully analyze the data, filter AI-relevant projects, categorize them, and produce the report.\n\nLet me go through the data:\n\n**Step 1: Filtering**\n\nTrending list (13 repos) - AI related ones:\n1. OpenCut-app/OpenCut - video edi...",
+      "created_at": "2026-07-16T03:19:55Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-16",
+      "url": "https://github.com/howe12/agents-radar/issues/58",
+      "repo": "howe12/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 02:01 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-07-16\n\n---\n\n## 今日速览\n\n今日 GitHub Trending 被「AI Agent Skills / 工具增强」主题刷屏 —— 围绕 Claude Code、Codex、Cursor 的可插拔 Skills（如 hallmark、skills、marketingskills）单日新增 stars 均破千，反映社区正从「调 Prompt」快速迁移到「组装 Skills」。垂直领域 AI Agent 持续爆发：交易（Vibe-Trading）、教育（DeepTutor）、陪伴（airi）三大方向各有项目登榜。同时，**Agent Harness**（agent 执行框架/安全护栏）成为新的关注焦点，destructive_command_guard 单日 +471 stars 标志着 Agent 安全正从概念走向落地工程。\n\n---...",
+      "created_at": "2026-07-16T02:09:18Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-07-16",
+      "url": "https://github.com/Augustrains/agents-radar/issues/573",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-16\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-16 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-16\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is overwhelmingly dominated by **AI agent skill sharing and prompt engineering for coding assistants**, with `mattpocock/skills` (+2,130 today) and `Nutlope/hallmark` (+1,277 today) leading the trending chart — both repositories that distribute reusable `.claude` skills ...",
+      "created_at": "2026-07-16T01:24:52Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-15",
+      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/428",
+      "repo": "bianzhilong2-ctrl/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 01:26 UTC\n\n---\n\nWe need to produce a structured report with steps. First filter: select projects clearly AI/ML related. Exclude generic tools, front-end frameworks, games etc. From Trending list, we need to omit non-AI projects. Let's identify AI/ML related repos in Trending list:\n\nList with stars and topics:\n\n- [Shubhamsaboo/awesome-llm-apps] [Python] ⭐0 (+1106 today) -> AI related (LLM apps) keep.\n- [mattpoc...",
+      "created_at": "2026-07-15T01:37:18Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-07-15",
       "url": "https://github.com/Lux0206/agents-radar/issues/153",
@@ -64,18 +112,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-07-15",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/428",
-      "repo": "bianzhilong2-ctrl/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 01:26 UTC\n\n---\n\nWe need to produce a structured report with steps. First filter: select projects clearly AI/ML related. Exclude generic tools, front-end frameworks, games etc. From Trending list, we need to omit non-AI projects. Let's identify AI/ML related repos in Trending list:\n\nList with stars and topics:\n\n- [Shubhamsaboo/awesome-llm-apps] [Python] ⭐0 (+1106 today) -> AI related (LLM apps) keep.\n- [mattpoc...",
-      "created_at": "2026-07-15T01:37:18Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI Open Source Trends 2026-07-14",
       "url": "https://github.com/leevaluder-maker/agents-radar/issues/188",
       "repo": "leevaluder-maker/agents-radar",
@@ -96,42 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-13 23:36 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于 2026-07-14 数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-14)\n\n### 1. 今日速览\n\n- **AI 开发工具生态持续爆发**：今日热榜显示，围绕 Claude Code、Cursor 等 AI 编码助手的辅助工具（如 `graphify`、`hallmark`）和技能包（如 `marketingskills`）正获得社区爆发式增长，开发者从“使用 AI 编码”转向“定制和优化 AI 编码体验”。\n- **轻量化与垂直化 Agent 崛起**：`Vibe-Trading` 和 `moeru-ai/airi` 展示了 AI Agent 向特定场景（个人交易、数字伴侣）深入的趋势，小而美的应用开始涌现。同时，`nanobot` 等轻量级 Agent 框架也备受瞩目。\n- *...",
       "created_at": "2026-07-14T01:02:46Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-13",
-      "url": "https://github.com/leevaluder-maker/agents-radar/issues/173",
-      "repo": "leevaluder-maker/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-13 01:52 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是我基于您提供的数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-13)\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“Agent 实用化”** 与 **“MCP 协议普及”** 两大主线。一方面，面向特定场景（如金融交易、系统安全）的 Agent 工具获得了爆发式关注，显示出社区正从构建通用 Agent 转向解决具体问题。另一方面，围绕 Claude 的 MCP 生态持续壮大，诞生了终端控制、系统提示词泄露等关键工具，提升了 Agent 的能力边界。此外，一个使用 Rust 重写 PostgreSQL 的项目获得了极高热度，虽非直接 AI 项目，但反映了社区对高性能基础设施的持续追求。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具\n- **[Dickles...",
-      "created_at": "2026-07-13T01:56:15Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-13",
-      "url": "https://github.com/kky-wollu/agents-radar/issues/38",
-      "repo": "kky-wollu/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-13\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-12 22:34 UTC\n\n---\n\nHere is the AI Open Source Trends Report for **2026-07-13**.\n\n---\n\n## 1. Today‘s Highlights\n\nThe open-source AI ecosystem is currently dominated by a massive wave of **agent-centric tooling**, particularly focused on extending the capabilities of coding agents like Claude Code, Codex, and Gemini CLI. Two major themes are exploding today: **agent safety and memory**. The stan...",
-      "created_at": "2026-07-12T22:38:20Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-13",
-      "url": "https://github.com/kky-wollu/agents-radar/issues/26",
-      "repo": "kky-wollu/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-12 21:25 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已为您完成对 2026-07-13 日 GitHub 热点数据的分析。以下是今日的《AI 开源趋势日报》。\n\n---\n\n# AI 开源趋势日报 | 2026-07-13\n\n## 今日速览\n\n今日 AI 开源社区的核心关键词是 **“Agent 安全”、“Agent 记忆与上下文”** 以及 **“开源 AI 生态工具链的泛化”**。一方面，针对 AI Agent 在执行命令时可能造成的破坏性操作，出现了专门的防御性工具，反映出社区对 Agent 安全性日益增长的重视。另一方面，围绕 Claude Code、Codex 等编码 Agent 的生态工具呈现爆发态势，尤其是“记忆层”和“上下文管理”项目获得了极高关注。值得注意的是，传统开发领域（如低代码、工作流调度）也在加速整合 AI 能力，成为新的增长点。\n\n## 各维度热门项目\n\n###...",
-      "created_at": "2026-07-12T21:29:31Z",
       "author": "github-actions[bot]",
       "amount": null
     }
