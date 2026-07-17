@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:10:14.597Z",
+  "generated_at": "2026-07-17T09:59:17.727Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -16,6 +16,18 @@
   },
   "bounties": [
     {
+      "title": "📈 AI 开源趋势日报 2026-07-17",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/101",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-17 03:50 UTC\n\n---\n\n\n### 📊 AI 开源趋势日报（2026-07-17）\n\n---\n\n#### **1. 今日速览**\n\n今日 GitHub AI 开源热点聚焦于 **智能体（Agent）框架** 和 **RAG/知识库工具** 的快速迭代与社区爆发。随着 Claude Code、Cursor 等 AI 编码助手的普及，基于 MCP（Model Context Protocol）的扩展能力成为关键趋势。同时，轻量级、本地优先的 AI 应用（如 Cherry Studio）和向量数据库（如 Qdrant）持续吸引开发者关注。**AI 基础设施**（如 Ollama、Hugging Face Transformers）保持稳定热度，而 **垂直场景解决方案**（如 DeepTutor、Vibe-Trading）逐渐成为新的增长点。\n\n---\n\n#### **2. 各维度热门项目**\n\n##### 🔧...",
+      "created_at": "2026-07-17T03:58:41Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
       "title": "📈 AI 开源趋势日报 2026-07-16",
       "url": "https://github.com/96loveslife/big_model_radar/issues/169",
       "repo": "96loveslife/big_model_radar",
@@ -24,6 +36,18 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 03:12 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on GitHub trending data and AI topic search results from 2026-07-16. Let me carefully analyze the data, filter AI-relevant projects, categorize them, and produce the report.\n\nLet me go through the data:\n\n**Step 1: Filtering**\n\nTrending list (13 repos) - AI related ones:\n1. OpenCut-app/OpenCut - video edi...",
       "created_at": "2026-07-16T03:19:55Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-17",
+      "url": "https://github.com/rollysys/agents-radar/issues/857",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-17 02:49 UTC\n\n---\n\n你好！我是 AI 开源生态技术分析师。基于 2026-07-17 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# AI 开源趋势日报 (2026-07-17)\n\n## 1. 今日速览\n今日 AI 开源生态呈现出“技能化”与“深度记忆化”的双重趋势。在开发工具侧，以 Claude Code、Cursor 为代表的 AI 编程助手正在催生“Skills（技能）”生态，如 `hallmark` 和 `graphify` 的爆发性增长，标志着开发者正从单纯使用模型转向定制具体的工程化技能。在应用侧，Agent 的长短期记忆解决方案成为核心关注点，`claude-mem` 和 `memvid` 试图解决 Agent “读过即忘”的痛点。此外，国产模型生态（Kimi K3, DeepSeek）在开源 Agent 工具链中的渗透率进一步提升。\n\n---\n\n## ...",
+      "created_at": "2026-07-17T03:03:54Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -108,30 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-07-15\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-15 01:26 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date: 2026-07-15**\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows two dominant themes: **AI agent memory and context systems** are exploding in popularity, and **open-source CapCut alternatives** are emerging as a new killer app category. The most notable projects are Graphify (+1,851 stars today), which turns codeba...",
       "created_at": "2026-07-15T01:31:17Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-14",
-      "url": "https://github.com/leevaluder-maker/agents-radar/issues/188",
-      "repo": "leevaluder-maker/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-14 01:29 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-14**.\n\n---\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is currently experiencing a **massive wave of \"Agent Infrastructure\" maturity**. The data shows that the community is no longer just building single-purpose LLM apps; instead, it is aggressively standardizing the **persistence, memory, and tool-use la...",
-      "created_at": "2026-07-14T01:34:31Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-14",
-      "url": "https://github.com/BlackJack-Cao/agents-radar/issues/44",
-      "repo": "BlackJack-Cao/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-13 23:36 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于 2026-07-14 数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-14)\n\n### 1. 今日速览\n\n- **AI 开发工具生态持续爆发**：今日热榜显示，围绕 Claude Code、Cursor 等 AI 编码助手的辅助工具（如 `graphify`、`hallmark`）和技能包（如 `marketingskills`）正获得社区爆发式增长，开发者从“使用 AI 编码”转向“定制和优化 AI 编码体验”。\n- **轻量化与垂直化 Agent 崛起**：`Vibe-Trading` 和 `moeru-ai/airi` 展示了 AI Agent 向特定场景（个人交易、数字伴侣）深入的趋势，小而美的应用开始涌现。同时，`nanobot` 等轻量级 Agent 框架也备受瞩目。\n- *...",
-      "created_at": "2026-07-14T01:02:46Z",
       "author": "github-actions[bot]",
       "amount": null
     }
