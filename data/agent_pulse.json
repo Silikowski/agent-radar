@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:59:17.727Z",
+  "generated_at": "2026-07-18T09:27:40.302Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-18",
+      "url": "https://github.com/xiehd77-del/agents-radar/issues/192",
+      "repo": "xiehd77-del/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 02:38 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，这是为您生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-18)\n\n### 1. 今日速览\n\n今日AI开源社区呈现出三个鲜明特征：**AI Agent 的“记忆”与“背景”工程成为绝对热点**，大量项目致力于解决AI工具的上下文约束与长时任务问题，如 `deer-flow`、`openinterpreter` 和 `mem0`。**AI 开发工具链的“反内卷”与“质量控制”意识抬头**，`hallmark` 和 `ponytail` 等反“AI 味”工具迅速蹿红，体现了社区对 AI 生成代码质量与风格的更高要求。同时，**向量数据库与 RAG 技术栈持续稳固**，`milvus`、`qdrant` 和 `weaviate` 等老牌项目与新兴的 `turbovec` 等性能优化项目并存，构成 AI ...",
+      "created_at": "2026-07-18T02:43:27Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-07-17",
       "url": "https://github.com/stevenko2002/agents-radar/issues/101",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-15 02:36 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的2026-07-15数据生成的《AI 开源趋势日报》。\n\n---\n\n### **AI 开源趋势日报 (2026-07-15)**\n\n#### **1. 今日速览**\n\n今日AI开源社区呈现出两大核心趋势：**AI Agent 的基础设施与工具链**正趋于成熟和标准化；**AI驱动的创意工具（视频编辑）** 迎来颠覆性开源产品，获得现象级关注。`Shubhamsaboo/awesome-llm-apps` 以海量可运行实例巩固了其作为Agent开发者首选资源库的地位。同时，`OpenCut` 和 `Graphify` 等项目的爆发，分别代表了AI在视频编辑和知识图谱构建方面的强力渗透。此外，针对AI Agent安全性的 `destructive_command_guard` 也表明，社区在狂热追求能力的同时，开始严肃对待安...",
       "created_at": "2026-07-15T02:41:24Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-15",
-      "url": "https://github.com/leevaluder-maker/agents-radar/issues/202",
-      "repo": "leevaluder-maker/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-15\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-15 01:26 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date: 2026-07-15**\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows two dominant themes: **AI agent memory and context systems** are exploding in popularity, and **open-source CapCut alternatives** are emerging as a new killer app category. The most notable projects are Graphify (+1,851 stars today), which turns codeba...",
-      "created_at": "2026-07-15T01:31:17Z",
       "author": "github-actions[bot]",
       "amount": null
     }
