@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-07-18",
+    "url": "https://github.com/xiehd77-del/agents-radar/issues/192",
+    "repo": "xiehd77-del/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 02:38 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，这是为您生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-18)\n\n### 1. 今日速览\n\n今日AI开源社区呈现出三个鲜明特征：**AI Agent 的“记忆”与“背景”工程成为绝对热点**，大量项目致力于解决AI工具的上下文约束与长时任务问题，如 `deer-flow`、`openinterpreter` 和 `mem0`。**AI 开发工具链的“反内卷”与“质量控制”意识抬头**，`hallmark` 和 `ponytail` 等反“AI 味”工具迅速蹿红，体现了社区对 AI 生成代码质量与风格的更高要求。同时，**向量数据库与 RAG 技术栈持续稳固**，`milvus`、`qdrant` 和 `weaviate` 等老牌项目与新兴的 `turbovec` 等性能优化项目并存，构成 AI ...",
+    "created_at": "2026-07-18T02:43:27Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-17",
     "url": "https://github.com/stevenko2002/agents-radar/issues/101",
     "repo": "stevenko2002/agents-radar",
@@ -236,18 +248,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-11 01:28 UTC\n\n---\n\n好的。作为专注于 AI 开源生态的技术分析师，我已对您提供的 2026-07-11 数据完成筛选、分类和趋势分析。以下是《AI 开源趋势日报》。\n\n---\n\n### 《AI 开源趋势日报》 | 2026-07-11\n\n### 1. 今日速览\n\n今日AI开源社区的核心焦点是 **“Agent 技能工程”（Agent Skills）** 的爆发。以 `addyosmani/agent-skills` 和 `mattpocock/skills` 为首的项目引爆了热榜，标志着社区正从“如何构建Agent”转向“如何高效武装Agent”。同时，AI 驱动的办公自动化工具 `iOfficeAI/OfficeCLI` 和专为AI Agent提供持久化记忆的 `TencentCloud/TencentDB-Agent-Memory` 也获得了大量关注，显示出AI应用正快速渗透到具体业务场景和数据管理...",
     "created_at": "2026-07-11T01:32:24Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-10",
-    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/366",
-    "repo": "bianzhilong2-ctrl/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-10 02:00 UTC\n\n---\n\nWe need to produce a report following instructions.\n\nFirst step: filter out AI/ML related projects from the trending list, ignoring non-AI.\n\nFrom trending list (15 repos), we need to extract those clearly AI/ML related.\n\nList with tags:\n\n- MadsLorentzen/ai-job-search: TypeScript, AI-powered job application framework built on Claude Code. That's AI related (job search using AI). Should keep? It'...",
-    "created_at": "2026-07-10T02:15:19Z",
     "author": "github-actions[bot]",
     "amount": null
   },
