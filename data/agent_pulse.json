@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:53:54.025Z",
+  "generated_at": "2026-07-21T10:26:13.034Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,43 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-07-21",
+      "url": "https://github.com/boom7sss/agents-radar/issues/176",
+      "repo": "boom7sss/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-21 03:22 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-21\n\n## 1. Today's Highlights\n\nToday’s trending list is dominated by **agent orchestration tools and local-first AI infrastructure**. The open-source community is doubling down on **MCP (Model Context Protocol)** as a universal glue for connecting AI coding assistants to codebases, search engines, and web data — with projects like `cod...",
+      "created_at": "2026-07-21T03:28:04Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-06-21",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/46",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending",
+        "archived"
+      ],
+      "body": "# AI 开源趋势日报 2026-06-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-21 04:53 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends report.\n\n**Step 1: Filtering AI-related projects from Trending**\n\nLet me go through the Trending list and identify AI-related ones:\n\n1. **palmier-io/palmier-pro** (+902) - \"macOS video editor built for AI\" - AI应用 ✅\n2. **penpot/penpot** (+420) - Open-source design tool - NOT AI related, generic design tool...",
+      "created_at": "2026-06-21T04:59:27Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-07-21",
+      "url": "https://github.com/Augustrains/agents-radar/issues/656",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-21 01:20 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-07-21  \n**Analyst**: Technical AI Open-Source Ecosystem Specialist\n\n---\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem sees **three dominant themes** today: **MCP-based tooling**, **agent memory infrastructure**, and **speech/voice interfaces**. The standout project is **tirth8205/code-review-graph**, surging +1,833 star...",
+      "created_at": "2026-07-21T01:24:44Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "KL3: Cross-episode Topic dedup — the follow-up #653 flagged but never filed",
       "url": "https://github.com/chipi/podcast_scraper/issues/1240",
@@ -97,42 +134,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 22:55 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将根据您提供的数据，为您呈现一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报\n**日期：** 2026-07-19\n\n### 第一步（过滤）与第二步（分类）结果\n\n**Trending 榜单过滤**：从11个仓库中，筛选出与 AI/ML 明确相关的项目共 **8** 个。\n\n**最终分类结果如下：**\n\n---\n\n### 1. 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars & 今日新增 | 一句话说明 |\n| :--- | :--- | :--- |\n| [Robbyant/lingbot-map](https://github​.com/Robbyant/lingbot-map) | ⭐0 (+827 today) | **前馈式3D基础模型**，能从流式...",
       "created_at": "2026-07-18T23:00:10Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-19",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/136",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 22:16 UTC\n\n---\n\n\n# AI 开源趋势日报（2026-07-19）\n\n## 今日速览\n\n今日 GitHub AI 开源热榜显示，AI 智能体与开发工具领域持续迎来爆发性增长，尤其是轻量化部署能力、本地优先架构及代码智能相关项目受到广泛关注。RAG 与知识库类项目继续保持高活跃度，反映出开发者对应用落地和上下文管理的热情。此外，随着大模型推理成本的下降，越来越多项目开始尝试在边缘设备或低配硬件上实现高性能 AI 推理，这一趋势值得持续关注。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars | 说明 |\n|------|-------|------|\n| [apache/ossie](https://github​.com/apache/ossie) ⭐0 (+48 today) | Apache 主导的语义元数据交...",
-      "created_at": "2026-07-18T22:22:50Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-18",
-      "url": "https://github.com/xiehd77-del/agents-radar/issues/192",
-      "repo": "xiehd77-del/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 02:38 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，这是为您生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-18)\n\n### 1. 今日速览\n\n今日AI开源社区呈现出三个鲜明特征：**AI Agent 的“记忆”与“背景”工程成为绝对热点**，大量项目致力于解决AI工具的上下文约束与长时任务问题，如 `deer-flow`、`openinterpreter` 和 `mem0`。**AI 开发工具链的“反内卷”与“质量控制”意识抬头**，`hallmark` 和 `ponytail` 等反“AI 味”工具迅速蹿红，体现了社区对 AI 生成代码质量与风格的更高要求。同时，**向量数据库与 RAG 技术栈持续稳固**，`milvus`、`qdrant` 和 `weaviate` 等老牌项目与新兴的 `turbovec` 等性能优化项目并存，构成 AI ...",
-      "created_at": "2026-07-18T02:43:27Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-17",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/101",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-17 03:50 UTC\n\n---\n\n\n### 📊 AI 开源趋势日报（2026-07-17）\n\n---\n\n#### **1. 今日速览**\n\n今日 GitHub AI 开源热点聚焦于 **智能体（Agent）框架** 和 **RAG/知识库工具** 的快速迭代与社区爆发。随着 Claude Code、Cursor 等 AI 编码助手的普及，基于 MCP（Model Context Protocol）的扩展能力成为关键趋势。同时，轻量级、本地优先的 AI 应用（如 Cherry Studio）和向量数据库（如 Qdrant）持续吸引开发者关注。**AI 基础设施**（如 Ollama、Hugging Face Transformers）保持稳定热度，而 **垂直场景解决方案**（如 DeepTutor、Vibe-Trading）逐渐成为新的增长点。\n\n---\n\n#### **2. 各维度热门项目**\n\n##### 🔧...",
-      "created_at": "2026-07-17T03:58:41Z",
       "author": "github-actions[bot]",
       "amount": null
     }

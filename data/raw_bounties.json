@@ -1,5 +1,42 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-07-21",
+    "url": "https://github.com/boom7sss/agents-radar/issues/176",
+    "repo": "boom7sss/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-21 03:22 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-21\n\n## 1. Today's Highlights\n\nToday’s trending list is dominated by **agent orchestration tools and local-first AI infrastructure**. The open-source community is doubling down on **MCP (Model Context Protocol)** as a universal glue for connecting AI coding assistants to codebases, search engines, and web data — with projects like `cod...",
+    "created_at": "2026-07-21T03:28:04Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-06-21",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/46",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending",
+      "archived"
+    ],
+    "body": "# AI 开源趋势日报 2026-06-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-21 04:53 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends report.\n\n**Step 1: Filtering AI-related projects from Trending**\n\nLet me go through the Trending list and identify AI-related ones:\n\n1. **palmier-io/palmier-pro** (+902) - \"macOS video editor built for AI\" - AI应用 ✅\n2. **penpot/penpot** (+420) - Open-source design tool - NOT AI related, generic design tool...",
+    "created_at": "2026-06-21T04:59:27Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-21",
+    "url": "https://github.com/Augustrains/agents-radar/issues/656",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-21 01:20 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-07-21  \n**Analyst**: Technical AI Open-Source Ecosystem Specialist\n\n---\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem sees **three dominant themes** today: **MCP-based tooling**, **agent memory infrastructure**, and **speech/voice interfaces**. The standout project is **tirth8205/code-review-graph**, surging +1,833 star...",
+    "created_at": "2026-07-21T01:24:44Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "KL3: Cross-episode Topic dedup — the follow-up #653 flagged but never filed",
     "url": "https://github.com/chipi/podcast_scraper/issues/1240",
     "repo": "chipi/podcast_scraper",
@@ -241,18 +278,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-07-14",
-    "url": "https://github.com/BlackJack-Cao/agents-radar/issues/44",
-    "repo": "BlackJack-Cao/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-13 23:36 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是基于 2026-07-14 数据的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-14)\n\n### 1. 今日速览\n\n- **AI 开发工具生态持续爆发**：今日热榜显示，围绕 Claude Code、Cursor 等 AI 编码助手的辅助工具（如 `graphify`、`hallmark`）和技能包（如 `marketingskills`）正获得社区爆发式增长，开发者从“使用 AI 编码”转向“定制和优化 AI 编码体验”。\n- **轻量化与垂直化 Agent 崛起**：`Vibe-Trading` 和 `moeru-ai/airi` 展示了 AI Agent 向特定场景（个人交易、数字伴侣）深入的趋势，小而美的应用开始涌现。同时，`nanobot` 等轻量级 Agent 框架也备受瞩目。\n- *...",
-    "created_at": "2026-07-14T01:02:46Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-13",
     "url": "https://github.com/leevaluder-maker/agents-radar/issues/173",
     "repo": "leevaluder-maker/agents-radar",
@@ -357,18 +382,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-23 00:36 UTC\n\n---\n\n## AI 开源趋势日报 (2026-06-23)\n\n### 第一步：AI相关性筛选\n已从 **Trending 榜单** 中过滤掉非 AI 项目（如 `penpot/penpot` 设计工具、`Stirling-Tools/Stirling-PDF` PDF 编辑器），仅保留明确以 AI 为核心或为 AI 工作流提供关键支撑的项目。**主题搜索** 结果已按 `topic:ai-agent`, `topic:ml`, `topic:llm`, `topic:rag`, `topic:vector-db`, `topic:llm-model` 等标签预筛选，均为 AI 相关项目。\n\n### 第二步：项目分类\n以下为筛选后项目的核心分类（按主要功能归类）：\n\n| 类别 | 项目示例 (来自 Trending & 主题搜索) |\n| :--- | :--- |\n| 🔧 **AI 基础工...",
     "created_at": "2026-06-23T00:45:54Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-06-21",
-    "url": "https://github.com/96loveslife/big_model_radar/issues/46",
-    "repo": "96loveslife/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-06-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-21 04:53 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends report.\n\n**Step 1: Filtering AI-related projects from Trending**\n\nLet me go through the Trending list and identify AI-related ones:\n\n1. **palmier-io/palmier-pro** (+902) - \"macOS video editor built for AI\" - AI应用 ✅\n2. **penpot/penpot** (+420) - Open-source design tool - NOT AI related, generic design tool...",
-    "created_at": "2026-06-21T04:59:27Z",
     "author": "github-actions[bot]",
     "amount": null
   },
