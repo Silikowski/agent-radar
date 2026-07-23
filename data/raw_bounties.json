@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-07-23",
+    "url": "https://github.com/bkutasi/big_model_radar/issues/20",
+    "repo": "bkutasi/big_model_radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-23\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-23 09:29 UTC\n\n---\n\n# AI Open-Source Ecosystem Trends Report: 2026-07-23\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows a clear and intense focus on **practical utility, deployment efficiency, and agent capabilities**. Explosive attention is seen on projects that bridge gaps between AI and real-world systems, such as **OmniRoute** (+1,651 stars), a unified AI gateway for 27...",
+    "created_at": "2026-07-23T09:36:50Z",
+    "author": "bkutasi",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-07-23",
+    "url": "https://github.com/xiehd77-del/agents-radar/issues/263",
+    "repo": "xiehd77-del/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-23 02:53 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，以下是对您提供的 2026-07-23 数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-23\n\n### 1. 今日速览\n\n今日开源社区呈现出三大热点：**AI Agent 基础设施的“记忆与遗忘”** 成为新焦点，`claude-mem` 和 `i-have-adhd` 分别从增强与约束两个维度重塑 Agent 行为；**代码与架构的智能化** 趋势明显，`code-review-graph` 和 `likec4` 等项目致力于为 AI 提供更高质的代码理解输入；此外，**AI 网关与聚合服务** 热度不减，`OmniRoute` 以极低的门槛聚合了超 500 个模型，成为开发者构建应用的“瑞士军刀”。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引...",
+    "created_at": "2026-07-23T02:58:17Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-07-21",
     "url": "https://github.com/boom7sss/agents-radar/issues/176",
     "repo": "boom7sss/agents-radar",
@@ -178,30 +202,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-17 02:49 UTC\n\n---\n\n你好！我是 AI 开源生态技术分析师。基于 2026-07-17 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# AI 开源趋势日报 (2026-07-17)\n\n## 1. 今日速览\n今日 AI 开源生态呈现出“技能化”与“深度记忆化”的双重趋势。在开发工具侧，以 Claude Code、Cursor 为代表的 AI 编程助手正在催生“Skills（技能）”生态，如 `hallmark` 和 `graphify` 的爆发性增长，标志着开发者正从单纯使用模型转向定制具体的工程化技能。在应用侧，Agent 的长短期记忆解决方案成为核心关注点，`claude-mem` 和 `memvid` 试图解决 Agent “读过即忘”的痛点。此外，国产模型生态（Kimi K3, DeepSeek）在开源 Agent 工具链中的渗透率进一步提升。\n\n---\n\n## ...",
     "created_at": "2026-07-17T03:03:54Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-16",
-    "url": "https://github.com/howe12/agents-radar/issues/58",
-    "repo": "howe12/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 02:01 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-07-16\n\n---\n\n## 今日速览\n\n今日 GitHub Trending 被「AI Agent Skills / 工具增强」主题刷屏 —— 围绕 Claude Code、Codex、Cursor 的可插拔 Skills（如 hallmark、skills、marketingskills）单日新增 stars 均破千，反映社区正从「调 Prompt」快速迁移到「组装 Skills」。垂直领域 AI Agent 持续爆发：交易（Vibe-Trading）、教育（DeepTutor）、陪伴（airi）三大方向各有项目登榜。同时，**Agent Harness**（agent 执行框架/安全护栏）成为新的关注焦点，destructive_command_guard 单日 +471 stars 标志着 Agent 安全正从概念走向落地工程。\n\n---...",
-    "created_at": "2026-07-16T02:09:18Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-16",
-    "url": "https://github.com/Augustrains/agents-radar/issues/573",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-16\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-16 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-16\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is overwhelmingly dominated by **AI agent skill sharing and prompt engineering for coding assistants**, with `mattpocock/skills` (+2,130 today) and `Nutlope/hallmark` (+1,277 today) leading the trending chart — both repositories that distribute reusable `.claude` skills ...",
-    "created_at": "2026-07-16T01:24:52Z",
     "author": "github-actions[bot]",
     "amount": null
   },
