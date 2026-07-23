@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T10:26:28.374Z",
+  "generated_at": "2026-07-23T10:24:31.902Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-07-23",
+      "url": "https://github.com/bkutasi/big_model_radar/issues/20",
+      "repo": "bkutasi/big_model_radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-23\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-23 09:29 UTC\n\n---\n\n# AI Open-Source Ecosystem Trends Report: 2026-07-23\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows a clear and intense focus on **practical utility, deployment efficiency, and agent capabilities**. Explosive attention is seen on projects that bridge gaps between AI and real-world systems, such as **OmniRoute** (+1,651 stars), a unified AI gateway for 27...",
+      "created_at": "2026-07-23T09:36:50Z",
+      "author": "bkutasi",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-23",
+      "url": "https://github.com/xiehd77-del/agents-radar/issues/263",
+      "repo": "xiehd77-del/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-23 02:53 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，以下是对您提供的 2026-07-23 数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-23\n\n### 1. 今日速览\n\n今日开源社区呈现出三大热点：**AI Agent 基础设施的“记忆与遗忘”** 成为新焦点，`claude-mem` 和 `i-have-adhd` 分别从增强与约束两个维度重塑 Agent 行为；**代码与架构的智能化** 趋势明显，`code-review-graph` 和 `likec4` 等项目致力于为 AI 提供更高质的代码理解输入；此外，**AI 网关与聚合服务** 热度不减，`OmniRoute` 以极低的门槛聚合了超 500 个模型，成为开发者构建应用的“瑞士军刀”。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引...",
+      "created_at": "2026-07-23T02:58:17Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-07-21",
       "url": "https://github.com/boom7sss/agents-radar/issues/176",
@@ -110,30 +134,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-19 22:15 UTC\n\n---\n\n\n# AI 开源趋势日报（2026-07-20）\n\n## 第一步：AI/ML 相关性筛选结果\n\n**Trending 榜单中剔除非 AI 项目后保留项目：**\n\n- **bojieli/ai-agent-book**  \n- **tirth8205/code-review-graph**  \n- **kvcache-ai/ktransformers**  \n- **rohitg00/ai-engineering-from-scratch**  \n- **jamiepine/voicebox**  \n- **KnockOutEZ/wigolo**  \n- **PostHog/posthog**  \n- **AstrBotDevs/AstrBot**  \n- **1jehuang/jcode**  \n- **trycua/cua**  \n- **MoonshotAI/kimi-cli**...",
       "created_at": "2026-07-19T22:21:35Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-19",
-      "url": "https://github.com/xiehd77-del/agents-radar/issues/206",
-      "repo": "xiehd77-del/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-19 02:52 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date**: 2026-07-19\n\n---\n\n## 1. Today's Highlights\n\nThe ecosystem is sharply polarized today between two extremes: **local-first, cost-zero infrastructure for AI agents** and **massive agent memory/context management frameworks**. **KnockOutEZ/wigolo** (+203 stars) and **tirth8205/code-review-graph** (+355 stars) both push MCP-native, zero-API...",
-      "created_at": "2026-07-19T02:56:16Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-19",
-      "url": "https://github.com/kky-wollu/agents-radar/issues/129",
-      "repo": "kky-wollu/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 22:55 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将根据您提供的数据，为您呈现一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报\n**日期：** 2026-07-19\n\n### 第一步（过滤）与第二步（分类）结果\n\n**Trending 榜单过滤**：从11个仓库中，筛选出与 AI/ML 明确相关的项目共 **8** 个。\n\n**最终分类结果如下：**\n\n---\n\n### 1. 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars & 今日新增 | 一句话说明 |\n| :--- | :--- | :--- |\n| [Robbyant/lingbot-map](https://github​.com/Robbyant/lingbot-map) | ⭐0 (+827 today) | **前馈式3D基础模型**，能从流式...",
-      "created_at": "2026-07-18T23:00:10Z",
       "author": "github-actions[bot]",
       "amount": null
     }
