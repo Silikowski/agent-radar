@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-07-24",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/291",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
+    "created_at": "2026-07-24T03:28:03Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-07-24",
+    "url": "https://github.com/Lux0206/agents-radar/issues/221",
+    "repo": "Lux0206/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-24 03:14 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，以下是根据您提供的数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-24\n\n### 1. 今日速览\n\n- **AI 智能体生态爆发**：今日 GitHub 热榜被 AI 智能体相关项目强势占领，从通用的 Agent 框架、浏览器代理到垂直的金融、CAD 设计代理，显示出开发者社区对“赋予 AI 行动能力”的强烈渴望。\n- **“记忆”与“压缩”成为 Agent 核心**：多个高星项目聚焦于解决 AI 智能体的上下文持久化（记忆）和 Token 成本优化问题，这表明社区已从“让 Agent 动起来”进化到“让 Agent 跑得更聪明、更便宜”。\n- **RAG 技术栈持续深化**：除了成熟的框架，新涌现的项目正在探索更极致的路径，如推理型 RAG、高压缩存储的向量数据库，RAG 技术正向更专精、更...",
+    "created_at": "2026-07-24T03:17:57Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-07-23",
     "url": "https://github.com/bkutasi/big_model_radar/issues/20",
     "repo": "bkutasi/big_model_radar",
@@ -190,18 +214,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 03:12 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on GitHub trending data and AI topic search results from 2026-07-16. Let me carefully analyze the data, filter AI-relevant projects, categorize them, and produce the report.\n\nLet me go through the data:\n\n**Step 1: Filtering**\n\nTrending list (13 repos) - AI related ones:\n1. OpenCut-app/OpenCut - video edi...",
     "created_at": "2026-07-16T03:19:55Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-17",
-    "url": "https://github.com/rollysys/agents-radar/issues/857",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-17 02:49 UTC\n\n---\n\n你好！我是 AI 开源生态技术分析师。基于 2026-07-17 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# AI 开源趋势日报 (2026-07-17)\n\n## 1. 今日速览\n今日 AI 开源生态呈现出“技能化”与“深度记忆化”的双重趋势。在开发工具侧，以 Claude Code、Cursor 为代表的 AI 编程助手正在催生“Skills（技能）”生态，如 `hallmark` 和 `graphify` 的爆发性增长，标志着开发者正从单纯使用模型转向定制具体的工程化技能。在应用侧，Agent 的长短期记忆解决方案成为核心关注点，`claude-mem` 和 `memvid` 试图解决 Agent “读过即忘”的痛点。此外，国产模型生态（Kimi K3, DeepSeek）在开源 Agent 工具链中的渗透率进一步提升。\n\n---\n\n## ...",
-    "created_at": "2026-07-17T03:03:54Z",
     "author": "github-actions[bot]",
     "amount": null
   },
