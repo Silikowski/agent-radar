@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-07-26",
+    "url": "https://github.com/DenisZheng/agents-radar/issues/1548",
+    "repo": "DenisZheng/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-26\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-26 02:08 UTC\n\n---\n\nThe user wants me to analyze GitHub trending data for AI-related projects and produce a structured report. Let me go through the data carefully.\n\nFirst, I need to filter the trending list (18 repos) for AI relevance, and also analyze the AI topic search results (80 repos, deduplicated).\n\nLet me identify AI-related projects from the trending list:\n\n1. **block/buzz** - \"A hive...",
+    "created_at": "2026-07-26T02:16:27Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-24",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/291",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
+    "created_at": "2026-07-24T03:28:03Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-25",
     "url": "https://github.com/boom7sss/agents-radar/issues/238",
     "repo": "boom7sss/agents-radar",
@@ -44,18 +68,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-24 21:19 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 7 月 25 日的 GitHub Trending 及主题搜索数据，经过严格的 AI 相关性剥离与多维度评估，为您深度提炼如下：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-25)\n\n## 1. 今日速览\n今日 GitHub AI 生态呈现出**“智能体基建化”与“应用场景大爆发”**的双重特征。底层工具方面，支持多模型切换和 token 压缩的 AI 网关与 CLI 工具迎来了爆发性增长（如 OmniRoute 和 mattpocock/skills）；在智能体生态中，**“Agent Skills（智能体技能）”与“环境状态共享”**（如 ego-lite）正在成为新的核心叙事，标志着 AI 正在从简单的对话向深度接管开发者工具链演进。此外，AI 在物理世界感知（如 WiFi 信号探测）和复杂垂直场景（如金融、全球情报...",
     "created_at": "2026-07-24T21:24:01Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-24",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/291",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
-    "created_at": "2026-07-24T03:28:03Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -214,18 +226,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 22:55 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，我将根据您提供的数据，为您呈现一份结构清晰的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报\n**日期：** 2026-07-19\n\n### 第一步（过滤）与第二步（分类）结果\n\n**Trending 榜单过滤**：从11个仓库中，筛选出与 AI/ML 明确相关的项目共 **8** 个。\n\n**最终分类结果如下：**\n\n---\n\n### 1. 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars & 今日新增 | 一句话说明 |\n| :--- | :--- | :--- |\n| [Robbyant/lingbot-map](https://github​.com/Robbyant/lingbot-map) | ⭐0 (+827 today) | **前馈式3D基础模型**，能从流式...",
     "created_at": "2026-07-18T23:00:10Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-19",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/136",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-18 22:16 UTC\n\n---\n\n\n# AI 开源趋势日报（2026-07-19）\n\n## 今日速览\n\n今日 GitHub AI 开源热榜显示，AI 智能体与开发工具领域持续迎来爆发性增长，尤其是轻量化部署能力、本地优先架构及代码智能相关项目受到广泛关注。RAG 与知识库类项目继续保持高活跃度，反映出开发者对应用落地和上下文管理的热情。此外，随着大模型推理成本的下降，越来越多项目开始尝试在边缘设备或低配硬件上实现高性能 AI 推理，这一趋势值得持续关注。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n\n| 项目 | Stars | 说明 |\n|------|-------|------|\n| [apache/ossie](https://github​.com/apache/ossie) ⭐0 (+48 today) | Apache 主导的语义元数据交...",
-    "created_at": "2026-07-18T22:22:50Z",
     "author": "github-actions[bot]",
     "amount": null
   },
