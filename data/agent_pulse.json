@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T09:49:37.187Z",
+  "generated_at": "2026-07-26T10:01:44.376Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-07-26",
+      "url": "https://github.com/DenisZheng/agents-radar/issues/1548",
+      "repo": "DenisZheng/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-26\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-26 02:08 UTC\n\n---\n\nThe user wants me to analyze GitHub trending data for AI-related projects and produce a structured report. Let me go through the data carefully.\n\nFirst, I need to filter the trending list (18 repos) for AI relevance, and also analyze the AI topic search results (80 repos, deduplicated).\n\nLet me identify AI-related projects from the trending list:\n\n1. **block/buzz** - \"A hive...",
+      "created_at": "2026-07-26T02:16:27Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-07-24",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/291",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
+      "created_at": "2026-07-24T03:28:03Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-07-25",
       "url": "https://github.com/boom7sss/agents-radar/issues/238",
@@ -64,18 +88,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI Open Source Trends 2026-07-24",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/291",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
-      "created_at": "2026-07-24T03:28:03Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-07-24",
       "url": "https://github.com/Lux0206/agents-radar/issues/221",
       "repo": "Lux0206/agents-radar",
@@ -120,19 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-07-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-21 03:22 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-21\n\n## 1. Today's Highlights\n\nToday’s trending list is dominated by **agent orchestration tools and local-first AI infrastructure**. The open-source community is doubling down on **MCP (Model Context Protocol)** as a universal glue for connecting AI coding assistants to codebases, search engines, and web data — with projects like `cod...",
       "created_at": "2026-07-21T03:28:04Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-06-21",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/46",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-06-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-21 04:53 UTC\n\n---\n\n<think>Let me analyze the data carefully and produce a comprehensive AI open-source trends report.\n\n**Step 1: Filtering AI-related projects from Trending**\n\nLet me go through the Trending list and identify AI-related ones:\n\n1. **palmier-io/palmier-pro** (+902) - \"macOS video editor built for AI\" - AI应用 ✅\n2. **penpot/penpot** (+420) - Open-source design tool - NOT AI related, generic design tool...",
-      "created_at": "2026-06-21T04:59:27Z",
       "author": "github-actions[bot]",
       "amount": null
     }
