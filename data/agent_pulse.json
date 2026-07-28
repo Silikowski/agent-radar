@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:25:36.704Z",
+  "generated_at": "2026-07-28T10:37:07.890Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,42 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-28",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/232",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
+      "created_at": "2026-07-28T03:03:23Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-28",
+      "url": "https://github.com/rollysys/agents-radar/issues/938",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:41 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-07-28 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-28)\n\n## 1. 今日速览\n\n今日 AI 开源社区的关注焦点明显转向**Agent 的“技能化”与“垂直化”**。Trending 榜单中，赋予 AI 具体能力的“Skill”类项目（如视频理解、网络调研）表现抢眼，显示出 Agent 开发正从构建通用框架转向打磨原子化技能。同时，阿里开源的混合架构代码审查工具和金融大模型 Kronos 的上榜，标志着**“确定性规则 + LLM Agent”的混合范式**正在工业界和垂直领域落地。此外，高拟真虚拟伴侣 Airi 的热度反映了开源社区在多模态实时交互体验上的新突破。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础...",
+      "created_at": "2026-07-28T02:53:38Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-28",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/365",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-27 22:16 UTC\n\n---\n\n用户现在需要我根据给的两部分GitHub数据（Trending榜15个还有AI主题搜索79个）做筛选、分类，然后输出AI开源趋势日报。首先得一步步来，先做第一步过滤，把非AI的去掉。\n首先先看Trending榜的15个：首先第一个bitchat是蓝牙聊天，无关，去掉；amnezia-vpn是VPN客户端，无关，去掉；然后moeru-ai/airi是自托管的AI虚拟伴侣，能实时语音、玩MC和Factorio，属于AI应用，要留；opengeos/GeoLibre是GIS平台，虽然有web、Jupyter，但本身是地理信息工具？等下看，有没有AI相关？哦描述里没说和AI直接相关？等下再看，哦对，它的描述是可视化分析地理空间数据，跑在浏览器桌面Jupyter，没提AI能力，所以是非AI，去掉？然后yorukot/superfile是终端文件管理器，通用工具，无关，去掉；NanmiCoder...",
+      "created_at": "2026-07-27T22:23:15Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-06-27",
       "url": "https://github.com/96loveslife/big_model_radar/issues/66",
@@ -95,42 +131,6 @@
       ],
       "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
       "created_at": "2026-07-24T03:28:03Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-25",
-      "url": "https://github.com/boom7sss/agents-radar/issues/238",
-      "repo": "boom7sss/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-25 03:20 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已经完成了对 2026-07-25 日数据的处理。以下是为您生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-25)\n\n### 1. 今日速览\n\n- **Agent 基础设施迎来爆发式增长**：今日 Trending 榜单被与 AI Agent 配套的基础设施工具包揽，例如为 Claude Code/Codex 等主流 Coding Agent 定制浏览器环境的 `ego-lite`、提供统一模型访问路由的 `OmniRoute` 等，显示社区正从构建单个 Agent 转向构建 Agent 生态。\n- **“Worktools” 概念兴起**：`mattpocock/skills` 项目横空出世，其将 AI 开发技能打包为可复用的 `.agents` 目录，这种结构化的技能配置方式正在成为新的开发范...",
-      "created_at": "2026-07-25T03:27:19Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-25",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/310",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-25\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 22:15 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the steps exactly: filter, categorize, then make the report.\nFirst, Step 1: Filter out non-AI projects from the trending list and the topic search. Let's go through the trending list first:\nOriginal trending 16:\n1. block/buzz: A hive mind communication platform? Wait, wait, no, wait let's check each:\nWait block/...",
-      "created_at": "2026-07-24T22:23:03Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-25",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/311",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-24 22:15 UTC\n\n---\n\n用户要求我作为专注于AI开源生态的技术分析师，对给定的GitHub AI相关热门仓库数据进行 AI 相关性筛选、分类和趋势分析，生成一份结构清晰的《AI 开源趋势日报》。\n\n让我先仔细分析数据：\n\n**Trending 榜单分析（16个仓库）：**\n1. [block/buzz](https://github​.com/block/buzz) - 蜂巢思维通信平台，Rust，⭐0 (+3274 today) - **非AI相关，通用工具**，需排除\n2. [koala73/worldmonitor](https://github​.com/koala73/worldmonitor) - 实时全球情报仪表盘，AI驱动新闻聚合，TypeScript，⭐0 (+2194 today) - **AI相关**，属于AI应用/情报分析\n3. [ComposioHQ/awesome-claude-...",
-      "created_at": "2026-07-24T22:23:03Z",
       "author": "github-actions[bot]",
       "amount": null
     }
