@@ -1,13 +1,37 @@
 [
   {
-    "title": "📈 AI Open Source Trends 2026-07-29",
-    "url": "https://github.com/Augustrains/agents-radar/issues/748",
-    "repo": "Augustrains/agents-radar",
+    "title": "📈 AI Open Source Trends 2026-07-30",
+    "url": "https://github.com/datnguyenquy94/news-radar/issues/29",
+    "repo": "datnguyenquy94/news-radar",
     "labels": [
       "trending-en"
     ],
-    "body": "# AI Open Source Trends 2026-07-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-29 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-29\n\n## 1. Today's Highlights\n\nToday marks an extraordinary surge in **AI agent infrastructure**, with the ecosystem consolidating around Claude Code and Codex skill ecosystems. The **agent harness** concept has reached mainstream adoption — projects like `ECC` (+636 today) and `shareAI-lab/learn-claude-code` (72K stars) are redefining...",
-    "created_at": "2026-07-29T01:24:00Z",
+    "body": "# AI Open Source Trends 2026-07-30\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-30 02:54 UTC\n\n---\n\nLet me analyze the data and create the report following the steps.\n\nStep 1: Filter for AI relevance from both lists.\n\nFrom Trending List (17 repos):\n- opengeos/GeoLibre - GIS platform, not primarily AI\n- moeru-ai/airi - AI companion, voice chat, AI agents ✓\n- affaan-m/ECC - Agent harness optimization for AI coding tools ✓\n- huggingface/speech-to-speech - Local voice agents w...",
+    "created_at": "2026-07-30T03:11:23Z",
+    "author": "datnguyenquy94",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-30",
+    "url": "https://github.com/boom7sss/agents-radar/issues/316",
+    "repo": "boom7sss/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-30\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-30 02:49 UTC\n\n---\n\n# AI Open Source Trends Report  \n**Date**: 2026-07-30 | **Source**: GitHub Trending + AI Topic Search (79 repositories)  \n\n---\n\n## 1. Today's Highlights\n\nToday’s AI open‑source landscape is dominated by **agent harnesses and skill ecosystems** – tools that optimize, extend, and glue together LLM agents (ECCs, Superpowers, Book‑to‑Skill). **Voice AI** is surging: Hugging Face...",
+    "created_at": "2026-07-30T02:56:00Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-30",
+    "url": "https://github.com/xiehd77-del/agents-radar/issues/340",
+    "repo": "xiehd77-del/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-30\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-30 02:31 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-30**.\n\n---\n\n## 1. Today’s Highlights\n\nThe AI open-source ecosystem is seeing a major surge in **agentic skill frameworks** and **memory/context compression tools** aimed at optimizing LLM interaction costs. **Agent harnesses**—lightweight, skill-based runtimes for coding assistants like Claude Code and Codex—dominate...",
+    "created_at": "2026-07-30T02:35:57Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -20,6 +44,28 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:45 UTC\n\n---\n\nWe need to produce a structured report per instructions. Steps:\n\n1. Filter: from Trending list and AI theme search results, keep only those clearly AI/ML related, exclude generic tools, front-end, games, etc. For Trending, non-AI projects directly omit.\n\nWe have Trending list of 13 repos. Need to filter AI/ML relevant ones.\n\nLet's examine each:\n\n- pascalorg/editor (TS) - \"Create and share 3D ar...",
     "created_at": "2026-07-29T02:00:13Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "docs(catalog): daily discovery 2026-07-28 — 10 adds, 15 triage stamps",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/pull/285",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [],
+    "body": "## Summary\n\nDaily unattended discovery-and-triage pass. Scan issue: #284.\n\n**Discovery** — searched GitHub (`search_repositories` via MCP; `gh` CLI isn't available in this environment) across `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, filtered to `created:>2026-07-20`. ~150 repos surveyed, deduped against `CATALOG.md` by slug + display name.\n\n**10 adds** (cap reached, all confirmed MIT/Apache-2.0 via the GitHub API before adding; 4 mo...",
+    "created_at": "2026-07-28T13:28:10Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-07-29",
+    "url": "https://github.com/Augustrains/agents-radar/issues/748",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-07-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-29 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-29\n\n## 1. Today's Highlights\n\nToday marks an extraordinary surge in **AI agent infrastructure**, with the ecosystem consolidating around Claude Code and Codex skill ecosystems. The **agent harness** concept has reached mainstream adoption — projects like `ECC` (+636 today) and `shareAI-lab/learn-claude-code` (72K stars) are redefining...",
+    "created_at": "2026-07-29T01:24:00Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -45,16 +91,6 @@
     "body": "# AI Open Source Trends 2026-07-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-28 22:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to do Step 1: Filter out non-AI projects from both the trending list and the topic search results.\nFirst, let's go through the 12 trending repos first:\n1. pascalorg/editor: 3D architectural, no, not AI. Exclude.\n2. jenkinsci/jenkins: CI/CD, general, no AI mention. Exclude.\n3. moeru-ai/airi: Waifu companion, voice chat, Mi...",
     "created_at": "2026-07-28T22:25:34Z",
     "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "docs(catalog): daily discovery 2026-07-28 — 10 adds, 15 triage stamps",
-    "url": "https://github.com/mattbutlerengineering/ai-tooling/pull/285",
-    "repo": "mattbutlerengineering/ai-tooling",
-    "labels": [],
-    "body": "## Summary\n\nDaily unattended discovery-and-triage pass. Scan issue: #284.\n\n**Discovery** — searched GitHub (`search_repositories` via MCP; `gh` CLI isn't available in this environment) across `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, filtered to `created:>2026-07-20`. ~150 repos surveyed, deduped against `CATALOG.md` by slug + display name.\n\n**10 adds** (cap reached, all confirmed MIT/Apache-2.0 via the GitHub API before adding; 4 mo...",
-    "created_at": "2026-07-28T13:28:10Z",
-    "author": "mattbutlerengineering",
     "amount": null
   },
   {
