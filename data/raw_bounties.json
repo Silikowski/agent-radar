@@ -48,16 +48,6 @@
     "amount": null
   },
   {
-    "title": "docs(catalog): daily discovery 2026-07-28 — 10 adds, 15 triage stamps",
-    "url": "https://github.com/mattbutlerengineering/ai-tooling/pull/285",
-    "repo": "mattbutlerengineering/ai-tooling",
-    "labels": [],
-    "body": "## Summary\n\nDaily unattended discovery-and-triage pass. Scan issue: #284.\n\n**Discovery** — searched GitHub (`search_repositories` via MCP; `gh` CLI isn't available in this environment) across `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, filtered to `created:>2026-07-20`. ~150 repos surveyed, deduped against `CATALOG.md` by slug + display name.\n\n**10 adds** (cap reached, all confirmed MIT/Apache-2.0 via the GitHub API before adding; 4 mo...",
-    "created_at": "2026-07-28T13:28:10Z",
-    "author": "mattbutlerengineering",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-07-29",
     "url": "https://github.com/Augustrains/agents-radar/issues/748",
     "repo": "Augustrains/agents-radar",
@@ -272,18 +262,6 @@
     "body": "# AI Open Source Trends 2026-07-23\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-23 09:29 UTC\n\n---\n\n# AI Open-Source Ecosystem Trends Report: 2026-07-23\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today shows a clear and intense focus on **practical utility, deployment efficiency, and agent capabilities**. Explosive attention is seen on projects that bridge gaps between AI and real-world systems, such as **OmniRoute** (+1,651 stars), a unified AI gateway for 27...",
     "created_at": "2026-07-23T09:36:50Z",
     "author": "bkutasi",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-23",
-    "url": "https://github.com/xiehd77-del/agents-radar/issues/263",
-    "repo": "xiehd77-del/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-23 02:53 UTC\n\n---\n\n好的，作为一名专注于 AI 开源生态的技术分析师，以下是对您提供的 2026-07-23 数据生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-23\n\n### 1. 今日速览\n\n今日开源社区呈现出三大热点：**AI Agent 基础设施的“记忆与遗忘”** 成为新焦点，`claude-mem` 和 `i-have-adhd` 分别从增强与约束两个维度重塑 Agent 行为；**代码与架构的智能化** 趋势明显，`code-review-graph` 和 `likec4` 等项目致力于为 AI 提供更高质的代码理解输入；此外，**AI 网关与聚合服务** 热度不减，`OmniRoute` 以极低的门槛聚合了超 500 个模型，成为开发者构建应用的“瑞士军刀”。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引...",
-    "created_at": "2026-07-23T02:58:17Z",
-    "author": "github-actions[bot]",
     "amount": null
   },
   {

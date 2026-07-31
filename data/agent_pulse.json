@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T10:25:56.256Z",
+  "generated_at": "2026-07-31T10:41:16.442Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -64,16 +64,6 @@
       "amount": null
     },
     {
-      "title": "docs(catalog): daily discovery 2026-07-28 — 10 adds, 15 triage stamps",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/pull/285",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [],
-      "body": "## Summary\n\nDaily unattended discovery-and-triage pass. Scan issue: #284.\n\n**Discovery** — searched GitHub (`search_repositories` via MCP; `gh` CLI isn't available in this environment) across `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, filtered to `created:>2026-07-20`. ~150 repos surveyed, deduped against `CATALOG.md` by slug + display name.\n\n**10 adds** (cap reached, all confirmed MIT/Apache-2.0 via the GitHub API before adding; 4 mo...",
-      "created_at": "2026-07-28T13:28:10Z",
-      "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
       "title": "📈 AI Open Source Trends 2026-07-29",
       "url": "https://github.com/Augustrains/agents-radar/issues/748",
       "repo": "Augustrains/agents-radar",
@@ -130,6 +120,18 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
       "created_at": "2026-07-28T03:03:23Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-28",
+      "url": "https://github.com/rollysys/agents-radar/issues/938",
+      "repo": "rollysys/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:41 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-07-28 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-28)\n\n## 1. 今日速览\n\n今日 AI 开源社区的关注焦点明显转向**Agent 的“技能化”与“垂直化”**。Trending 榜单中，赋予 AI 具体能力的“Skill”类项目（如视频理解、网络调研）表现抢眼，显示出 Agent 开发正从构建通用框架转向打磨原子化技能。同时，阿里开源的混合架构代码审查工具和金融大模型 Kronos 的上榜，标志着**“确定性规则 + LLM Agent”的混合范式**正在工业界和垂直领域落地。此外，高拟真虚拟伴侣 Airi 的热度反映了开源社区在多模态实时交互体验上的新突破。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础...",
+      "created_at": "2026-07-28T02:53:38Z",
       "author": "github-actions[bot]",
       "amount": null
     }
