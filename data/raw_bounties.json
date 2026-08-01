@@ -1,5 +1,30 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-07-02",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/93",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending",
+      "archived"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-02 04:01 UTC\n\n---\n\n<think>The user wants me to generate a structured AI open-source trend report based on GitHub trending data from 2026-07-02. Let me work through this carefully.\n\n**Step 1: Filtering AI-related projects from Trending (20 repos)**\n\nLet me go through each trending repo:\n\n1. **msitarzewski/agency-agents** [Shell] (+2114) - AI agency with specialized agents → ✅ AI Agent\n2. **usestrix/strix** [Python...",
+    "created_at": "2026-07-02T04:08:16Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-01",
+    "url": "https://github.com/rollysys/agents-radar/issues/970",
+    "repo": "rollysys/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-01 03:12 UTC\n\n---\n\n# AI 开源趋势日报 (2026-08-01)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“工具链深化”与“智能体技能化”两大特征。GitHub Trending 榜单显示，**AI Agent Skill（智能体技能包）** 概念正在兴起，以 `reverse-skill` 和 `last30days-skill` 为代表的项目表明，开发者正致力于将特定领域的复杂工作流封装为可复用的插件，极大地降低了 AI 编程助手（如 Claude Code、Cursor）的使用门槛。同时，开源社区对“隐私自主权”的关注度高涨，`openwork` 作为 Claude Cowork 的开源替代方案单日激增 800+ stars，显示出市场对本地化、可控 AI 协作工具的强烈需求。基础设施层面，智能体 Harness 优化与 RAG 记忆层技术持续迭代，成为支撑应用爆发的坚实底座。\n\n--...",
+    "created_at": "2026-08-01T03:25:51Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-07-30",
     "url": "https://github.com/datnguyenquy94/news-radar/issues/29",
     "repo": "datnguyenquy94/news-radar",
@@ -181,30 +206,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI Open Source Trends 2026-07-24",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/291",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-24\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 03:16 UTC\n\n---\n\nGot it, let's tackle this step by step. First, Step 1 is filtering out non-AI projects. Let's go through the trending list first:\nFirst, the trending 15: block/buzz is a hive mind comms platform? Wait no, wait wait, wait no—wait wait, no, wait let's check each:\nWait first, trending list repos:\n1. block/buzz: Wait the description says \"hive mind communication platform\"—wait, ...",
-    "created_at": "2026-07-24T03:28:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-25",
-    "url": "https://github.com/boom7sss/agents-radar/issues/238",
-    "repo": "boom7sss/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-25 03:20 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我已经完成了对 2026-07-25 日数据的处理。以下是为您生成的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 (2026-07-25)\n\n### 1. 今日速览\n\n- **Agent 基础设施迎来爆发式增长**：今日 Trending 榜单被与 AI Agent 配套的基础设施工具包揽，例如为 Claude Code/Codex 等主流 Coding Agent 定制浏览器环境的 `ego-lite`、提供统一模型访问路由的 `OmniRoute` 等，显示社区正从构建单个 Agent 转向构建 Agent 生态。\n- **“Worktools” 概念兴起**：`mattpocock/skills` 项目横空出世，其将 AI 开发技能打包为可复用的 `.agents` 目录，这种结构化的技能配置方式正在成为新的开发范...",
-    "created_at": "2026-07-25T03:27:19Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-07-25",
     "url": "https://github.com/stevenko2002/agents-radar/issues/310",
     "repo": "stevenko2002/agents-radar",
@@ -323,18 +324,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-04 04:05 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 7 月 4 日的 GitHub Trending 及主题搜索数据，经过深度过滤与分类分析生成。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-04)\n\n## 1. 今日速览\n今日 AI 开源生态呈现出**“Agentic Coding（智能体编程）基础设施化”**的强烈信号。终端 AI 编码工具（如 Claude Code、Codex）的周边生态正在全面爆发，包括令牌压缩技术、多路复用工具、以及跨 CLI 的协同框架。同时，**AI 安全与隔离沙箱**成为大厂（如腾讯）和社区重点投入的新兴基建。此外，Agent 工作流与知识图谱/RAG 的融合正在重塑企业级应用，各类“低门槛端到端自动化解决方案”持续占据榜单高位。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CL...",
     "created_at": "2026-07-04T04:11:53Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-02",
-    "url": "https://github.com/96loveslife/big_model_radar/issues/93",
-    "repo": "96loveslife/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-02 04:01 UTC\n\n---\n\n<think>The user wants me to generate a structured AI open-source trend report based on GitHub trending data from 2026-07-02. Let me work through this carefully.\n\n**Step 1: Filtering AI-related projects from Trending (20 repos)**\n\nLet me go through each trending repo:\n\n1. **msitarzewski/agency-agents** [Shell] (+2114) - AI agency with specialized agents → ✅ AI Agent\n2. **usestrix/strix** [Python...",
-    "created_at": "2026-07-02T04:08:16Z",
     "author": "github-actions[bot]",
     "amount": null
   },
