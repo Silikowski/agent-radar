@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-08-02",
+    "url": "https://github.com/Augustrains/agents-radar/issues/812",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-02 01:25 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-02\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem continues its explosive convergence around **agent infrastructure** and **agent memory**, with autonomous agents and their supporting tooling dominating today's trending lists. Notably, **memory systems** have emerged as a distinct and rapidly crowding category, with Tenc...",
+    "created_at": "2026-08-02T01:30:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-02",
+    "url": "https://github.com/Augustrains/agents-radar/issues/811",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-02 01:25 UTC\n\n---\n\n# 🤖 AI 开源趋势日报\n\n**2026-08-02** | 数据来源：GitHub Trending 实时热榜 + AI 主题搜索（7 天活跃）\n\n\n## 一、今日速览\n\n今日 AI 开源生态呈现 **“智能体基建化”** 的鲜明特征：以 `github/copilot-sdk` 和 `bytedance/deer-flow` 为代表的 Agent 开发基础设施正在快速产品化，前者将 Copilot Agent 能力封装为可嵌入任何应用的多平台 SDK，后者则以长时任务自治为目标构建 SuperAgent 框架。在应用层，语音交互赛道迎来新玩家——`huggingface/speech-to-speech` 主打纯本地开源语音 Agent，而 `TencentCloud/TencentDB-Agent-Memory` 则聚焦 Agent 团队级记忆管理，直击多智能体协作的核心刚...",
+    "created_at": "2026-08-02T01:30:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-02",
     "url": "https://github.com/96loveslife/big_model_radar/issues/93",
     "repo": "96loveslife/big_model_radar",
@@ -190,42 +214,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-27 03:21 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-07-27 数据，为您呈现以下《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-27\n\n### 1. 今日速览\n\n今日 GitHub AI 领域呈现出 **Agent 基础设施走向精细化与系统化** 的显著趋势。一方面，围绕 Claude、Codex 等编程 Agent 的“外挂”生态（如记忆、浏览器状态共享、提示词优化）正在爆发，涌现出多个高热度项目。另一方面，**AI数据库工具**和**金融垂直模型**成为今日亮点，Chat2DB 和 Kronos 分别代表了 AI 在专业工作流与行业落地的深化。同时，RAG 技术栈持续稳固，向量数据库和知识管理工具依旧是社区核心关注点。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、C...",
     "created_at": "2026-07-27T03:28:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-26",
-    "url": "https://github.com/DenisZheng/agents-radar/issues/1548",
-    "repo": "DenisZheng/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-26\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-26 02:08 UTC\n\n---\n\nThe user wants me to analyze GitHub trending data for AI-related projects and produce a structured report. Let me go through the data carefully.\n\nFirst, I need to filter the trending list (18 repos) for AI relevance, and also analyze the AI topic search results (80 repos, deduplicated).\n\nLet me identify AI-related projects from the trending list:\n\n1. **block/buzz** - \"A hive...",
-    "created_at": "2026-07-26T02:16:27Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-25",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/310",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-25\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-24 22:15 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the steps exactly: filter, categorize, then make the report.\nFirst, Step 1: Filter out non-AI projects from the trending list and the topic search. Let's go through the trending list first:\nOriginal trending 16:\n1. block/buzz: A hive mind communication platform? Wait, wait, no, wait let's check each:\nWait block/...",
-    "created_at": "2026-07-24T22:23:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-25",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/311",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-24 22:15 UTC\n\n---\n\n用户要求我作为专注于AI开源生态的技术分析师，对给定的GitHub AI相关热门仓库数据进行 AI 相关性筛选、分类和趋势分析，生成一份结构清晰的《AI 开源趋势日报》。\n\n让我先仔细分析数据：\n\n**Trending 榜单分析（16个仓库）：**\n1. [block/buzz](https://github​.com/block/buzz) - 蜂巢思维通信平台，Rust，⭐0 (+3274 today) - **非AI相关，通用工具**，需排除\n2. [koala73/worldmonitor](https://github​.com/koala73/worldmonitor) - 实时全球情报仪表盘，AI驱动新闻聚合，TypeScript，⭐0 (+2194 today) - **AI相关**，属于AI应用/情报分析\n3. [ComposioHQ/awesome-claude-...",
-    "created_at": "2026-07-24T22:23:03Z",
     "author": "github-actions[bot]",
     "amount": null
   },
