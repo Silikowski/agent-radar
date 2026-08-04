@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-08-04",
+    "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
+    "repo": "huang-yi-dae/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
+    "created_at": "2026-08-04T06:45:06Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-04",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/496",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-03 22:16 UTC\n\n---\n\n# AI 开源趋势日报\n\n**日期：2026-08-04**\n\n---\n\n## 一、今日速览\n\n今日 AI 开源生态最显著的特征是 **AI Agent 工具链与推理引擎的爆发式增长**。`reverse-skill`（+2442 stars）以\"AI 技能路由\"概念登顶热榜，反映出开发者对 Claude Code / Cursor 等多客户端统一管理的需求激增；`airllm`（+1081 stars）和 `ds4`（+385 stars）则延续了本地低成本推理的热门趋势。与此同时，Microsoft 的 AI 入门教程再次走红（+1902 stars），表明 AI 教育内容仍具强大社区吸引力。RAG 与向量数据库赛道继续由 `dify`、`open-webui` 等头部项目主导，`graphify` 等新兴项目以\"无向量存储\"的推理式 RAG 路线开辟新方向。\n\n---\n\n## ...",
+    "created_at": "2026-08-03T22:19:42Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-08-02",
     "url": "https://github.com/Augustrains/agents-radar/issues/812",
     "repo": "Augustrains/agents-radar",
@@ -133,18 +157,6 @@
     "amount": null
   },
   {
-    "title": "scan: 2026-07-28 daily discovery",
-    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/284",
-    "repo": "mattbutlerengineering/ai-tooling",
-    "labels": [
-      "scan"
-    ],
-    "body": "Daily unattended discovery pass. Searched GitHub (via MCP `search_repositories`, since `gh` CLI isn't available in this environment) across `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, all filtered to `created:>2026-07-20`, sorted by stars. ~150 repos surveyed; deduped against `CATALOG.md` by slug and display name (case-insensitive).\n\n## Added (10, cap reached — see overflow below)\n\n| Repo | One-liner | Category |\n|------|-----------|--...",
-    "created_at": "2026-07-28T13:16:17Z",
-    "author": "mattbutlerengineering",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-28",
     "url": "https://github.com/96loveslife/big_model_radar/issues/232",
     "repo": "96loveslife/big_model_radar",
@@ -153,18 +165,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
     "created_at": "2026-07-28T03:03:23Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-28",
-    "url": "https://github.com/rollysys/agents-radar/issues/938",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:41 UTC\n\n---\n\n你好！我是专注于 AI 开源生态的技术分析师。基于 2026-07-28 的 GitHub 数据，我为你整理了今日的《AI 开源趋势日报》。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-07-28)\n\n## 1. 今日速览\n\n今日 AI 开源社区的关注焦点明显转向**Agent 的“技能化”与“垂直化”**。Trending 榜单中，赋予 AI 具体能力的“Skill”类项目（如视频理解、网络调研）表现抢眼，显示出 Agent 开发正从构建通用框架转向打磨原子化技能。同时，阿里开源的混合架构代码审查工具和金融大模型 Kronos 的上榜，标志着**“确定性规则 + LLM Agent”的混合范式**正在工业界和垂直领域落地。此外，高拟真虚拟伴侣 Airi 的热度反映了开源社区在多模态实时交互体验上的新突破。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础...",
-    "created_at": "2026-07-28T02:53:38Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -190,30 +190,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-06-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-06-27 03:57 UTC\n\n---\n\n<think>\nThe user wants me to analyze GitHub trending AI repositories from 2026-06-27 and produce a structured AI open source trends daily report. Let me work through this systematically.\n\n## Step 1: Filter AI-related projects\n\n### Trending list (17 repos) - AI relevance filter:\n\n1. **simplex-chat/simplex-chat** [Haskell] +432 - Messaging network, NOT AI related. SKIP\n2. **google-labs-code/desig...",
     "created_at": "2026-06-27T04:04:18Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-27",
-    "url": "https://github.com/xiehd77-del/agents-radar/issues/297",
-    "repo": "xiehd77-del/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-27\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-27 03:21 UTC\n\n---\n\n# AI Open Source Trends Report\n**Date:** 2026-07-27\n\n---\n\n## 1. Today's Highlights\n\nThe open-source AI ecosystem is experiencing a major paradigm shift toward **agentic self-ownership** — developers are building tools that let AI agents control their own browser state, compress their own memory, and persist context across sessions without human babysitting. **`citrolabs/ego-...",
-    "created_at": "2026-07-27T03:28:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-27",
-    "url": "https://github.com/xiehd77-del/agents-radar/issues/296",
-    "repo": "xiehd77-del/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-27\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-27 03:21 UTC\n\n---\n\n好的，作为专注于 AI 开源生态的技术分析师，我将基于您提供的 2026-07-27 数据，为您呈现以下《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-27\n\n### 1. 今日速览\n\n今日 GitHub AI 领域呈现出 **Agent 基础设施走向精细化与系统化** 的显著趋势。一方面，围绕 Claude、Codex 等编程 Agent 的“外挂”生态（如记忆、浏览器状态共享、提示词优化）正在爆发，涌现出多个高热度项目。另一方面，**AI数据库工具**和**金融垂直模型**成为今日亮点，Chat2DB 和 Kronos 分别代表了 AI 在专业工作流与行业落地的深化。同时，RAG 技术栈持续稳固，向量数据库和知识管理工具依旧是社区核心关注点。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、C...",
-    "created_at": "2026-07-27T03:28:03Z",
     "author": "github-actions[bot]",
     "amount": null
   },
