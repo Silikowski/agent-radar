@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T11:25:41.976Z",
+  "generated_at": "2026-08-04T10:41:07.132Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-08-04",
+      "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
+      "repo": "huang-yi-dae/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
+      "created_at": "2026-08-04T06:45:06Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-04",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/496",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-03 22:16 UTC\n\n---\n\n# AI 开源趋势日报\n\n**日期：2026-08-04**\n\n---\n\n## 一、今日速览\n\n今日 AI 开源生态最显著的特征是 **AI Agent 工具链与推理引擎的爆发式增长**。`reverse-skill`（+2442 stars）以\"AI 技能路由\"概念登顶热榜，反映出开发者对 Claude Code / Cursor 等多客户端统一管理的需求激增；`airllm`（+1081 stars）和 `ds4`（+385 stars）则延续了本地低成本推理的热门趋势。与此同时，Microsoft 的 AI 入门教程再次走红（+1902 stars），表明 AI 教育内容仍具强大社区吸引力。RAG 与向量数据库赛道继续由 `dify`、`open-webui` 等头部项目主导，`graphify` 等新兴项目以\"无向量存储\"的推理式 RAG 路线开辟新方向。\n\n---\n\n## ...",
+      "created_at": "2026-08-03T22:19:42Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-08-02",
       "url": "https://github.com/Augustrains/agents-radar/issues/812",
@@ -109,30 +133,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:45 UTC\n\n---\n\nWe need to produce a structured report per instructions. Steps:\n\n1. Filter: from Trending list and AI theme search results, keep only those clearly AI/ML related, exclude generic tools, front-end, games, etc. For Trending, non-AI projects directly omit.\n\nWe have Trending list of 13 repos. Need to filter AI/ML relevant ones.\n\nLet's examine each:\n\n- pascalorg/editor (TS) - \"Create and share 3D ar...",
       "created_at": "2026-07-29T02:00:13Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-29",
-      "url": "https://github.com/Augustrains/agents-radar/issues/748",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-29 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-29\n\n## 1. Today's Highlights\n\nToday marks an extraordinary surge in **AI agent infrastructure**, with the ecosystem consolidating around Claude Code and Codex skill ecosystems. The **agent harness** concept has reached mainstream adoption — projects like `ECC` (+636 today) and `shareAI-lab/learn-claude-code` (72K stars) are redefining...",
-      "created_at": "2026-07-29T01:24:00Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-29",
-      "url": "https://github.com/Augustrains/agents-radar/issues/747",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:19 UTC\n\n---\n\n好的，这是为你准备的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-29\n\n### 1. 今日速览\n\n今日 GitHub AI 生态呈现 **“Agent 工程化”** 与 **“细化能力注入”** 两大主线。一方面，以 `affaan-m/ECC` 为代表的“Agent 性能优化/记忆/安全”类基础设施爆发式增长，社区开始关注 Agent 在生产环境中的运行效率与安全治理。另一方面，`huggingface/speech-to-speech` 和 `bradautomates/claude-video` 等工具，正为通用 Agent 注入语音交互与视频理解等核心多模态能力，拓展了 AI 的应用边界。同时，微软推出的 `microsoft/agent-governance-toolkit` 标志着大型厂商正式介入 Agent 治理这个新兴赛道。\n\n...",
-      "created_at": "2026-07-29T01:24:00Z",
       "author": "github-actions[bot]",
       "amount": null
     }
