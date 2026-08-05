@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:41:07.132Z",
+  "generated_at": "2026-08-05T10:37:06.046Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-04",
+      "url": "https://github.com/huang-yi-dae/agents-radar/issues/291",
+      "repo": "huang-yi-dae/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API（含 AI 与大数据 / 数据分析 / 数据挖掘趋势） | 生成时间: 2026-08-04 14:49 UTC\n\n---\n\n# AI 开源趋势日报（2026-08-04）\n\n---\n\n## 今日速览\n今日AI开源领域热度高度聚焦AI Agent生态，Trending榜单中Agent相关项目占比超六成，覆盖企业级基础设施、终端编程、实时交互、垂直场景等多个方向；轻量级大模型推理、上下文压缩等技术获得大量关注，大模型落地正加速向低成本、边缘化方向演进；RAG与知识管理基础设施持续迭代，成为补齐Agent核心能力的关键赛道。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n1. [firecrawl/pdf-inspector](https://github​.com/firecrawl/pdf-inspector) | ⭐待更新（今日+2524）\n   高性能Rust实现的PDF检测分类与文本提...",
+      "created_at": "2026-08-04T14:55:20Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "scan: 2026-08-04 daily discovery",
+      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/325",
+      "repo": "mattbutlerengineering/ai-tooling",
+      "labels": [
+        "scan"
+      ],
+      "body": "Daily discovery-and-triage pass. Searched `topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents` (created in the last ~7 days, sorted by stars) via the GitHub MCP server (no `gh` CLI in this environment), plus a couple of targeted follow-up queries.\n\n## Added (8) — CATALOG + COMPARISON + stub eval, all `discovery-log`\n\n| Tool | Category | License | Stars | Disposition |\n|------|----------|---------|-------|-------------|\n| [LongHorizon-Harness](ht...",
+      "created_at": "2026-08-04T13:22:26Z",
+      "author": "mattbutlerengineering",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-08-04",
       "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
@@ -109,30 +133,6 @@
       ],
       "body": "# AI Open Source Trends 2026-07-30\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-30 02:49 UTC\n\n---\n\n# AI Open Source Trends Report  \n**Date**: 2026-07-30 | **Source**: GitHub Trending + AI Topic Search (79 repositories)  \n\n---\n\n## 1. Today's Highlights\n\nToday’s AI open‑source landscape is dominated by **agent harnesses and skill ecosystems** – tools that optimize, extend, and glue together LLM agents (ECCs, Superpowers, Book‑to‑Skill). **Voice AI** is surging: Hugging Face...",
       "created_at": "2026-07-30T02:56:00Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-07-30",
-      "url": "https://github.com/xiehd77-del/agents-radar/issues/340",
-      "repo": "xiehd77-del/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-07-30\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-30 02:31 UTC\n\n---\n\nHere is the **AI Open Source Trends Report** for **2026-07-30**.\n\n---\n\n## 1. Today’s Highlights\n\nThe AI open-source ecosystem is seeing a major surge in **agentic skill frameworks** and **memory/context compression tools** aimed at optimizing LLM interaction costs. **Agent harnesses**—lightweight, skill-based runtimes for coding assistants like Claude Code and Codex—dominate...",
-      "created_at": "2026-07-30T02:35:57Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-29",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/632",
-      "repo": "bianzhilong2-ctrl/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:45 UTC\n\n---\n\nWe need to produce a structured report per instructions. Steps:\n\n1. Filter: from Trending list and AI theme search results, keep only those clearly AI/ML related, exclude generic tools, front-end, games, etc. For Trending, non-AI projects directly omit.\n\nWe have Trending list of 13 repos. Need to filter AI/ML relevant ones.\n\nLet's examine each:\n\n- pascalorg/editor (TS) - \"Create and share 3D ar...",
-      "created_at": "2026-07-29T02:00:13Z",
       "author": "github-actions[bot]",
       "amount": null
     }
