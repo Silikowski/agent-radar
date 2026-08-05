@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-08-04",
+    "url": "https://github.com/huang-yi-dae/agents-radar/issues/291",
+    "repo": "huang-yi-dae/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API（含 AI 与大数据 / 数据分析 / 数据挖掘趋势） | 生成时间: 2026-08-04 14:49 UTC\n\n---\n\n# AI 开源趋势日报（2026-08-04）\n\n---\n\n## 今日速览\n今日AI开源领域热度高度聚焦AI Agent生态，Trending榜单中Agent相关项目占比超六成，覆盖企业级基础设施、终端编程、实时交互、垂直场景等多个方向；轻量级大模型推理、上下文压缩等技术获得大量关注，大模型落地正加速向低成本、边缘化方向演进；RAG与知识管理基础设施持续迭代，成为补齐Agent核心能力的关键赛道。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n1. [firecrawl/pdf-inspector](https://github​.com/firecrawl/pdf-inspector) | ⭐待更新（今日+2524）\n   高性能Rust实现的PDF检测分类与文本提...",
+    "created_at": "2026-08-04T14:55:20Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "scan: 2026-08-04 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/325",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery-and-triage pass. Searched `topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents` (created in the last ~7 days, sorted by stars) via the GitHub MCP server (no `gh` CLI in this environment), plus a couple of targeted follow-up queries.\n\n## Added (8) — CATALOG + COMPARISON + stub eval, all `discovery-log`\n\n| Tool | Category | License | Stars | Disposition |\n|------|----------|---------|-------|-------------|\n| [LongHorizon-Harness](ht...",
+    "created_at": "2026-08-04T13:22:26Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-08-04",
     "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
     "repo": "huang-yi-dae/agents-radar",
@@ -109,42 +133,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-07-29",
-    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/632",
-    "repo": "bianzhilong2-ctrl/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:45 UTC\n\n---\n\nWe need to produce a structured report per instructions. Steps:\n\n1. Filter: from Trending list and AI theme search results, keep only those clearly AI/ML related, exclude generic tools, front-end, games, etc. For Trending, non-AI projects directly omit.\n\nWe have Trending list of 13 repos. Need to filter AI/ML relevant ones.\n\nLet's examine each:\n\n- pascalorg/editor (TS) - \"Create and share 3D ar...",
-    "created_at": "2026-07-29T02:00:13Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-07-29",
-    "url": "https://github.com/Augustrains/agents-radar/issues/748",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-07-29\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-07-29 01:19 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-07-29\n\n## 1. Today's Highlights\n\nToday marks an extraordinary surge in **AI agent infrastructure**, with the ecosystem consolidating around Claude Code and Codex skill ecosystems. The **agent harness** concept has reached mainstream adoption — projects like `ECC` (+636 today) and `shareAI-lab/learn-claude-code` (72K stars) are redefining...",
-    "created_at": "2026-07-29T01:24:00Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-29",
-    "url": "https://github.com/Augustrains/agents-radar/issues/747",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-29\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-29 01:19 UTC\n\n---\n\n好的，这是为你准备的《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报 | 2026-07-29\n\n### 1. 今日速览\n\n今日 GitHub AI 生态呈现 **“Agent 工程化”** 与 **“细化能力注入”** 两大主线。一方面，以 `affaan-m/ECC` 为代表的“Agent 性能优化/记忆/安全”类基础设施爆发式增长，社区开始关注 Agent 在生产环境中的运行效率与安全治理。另一方面，`huggingface/speech-to-speech` 和 `bradautomates/claude-video` 等工具，正为通用 Agent 注入语音交互与视频理解等核心多模态能力，拓展了 AI 的应用边界。同时，微软推出的 `microsoft/agent-governance-toolkit` 标志着大型厂商正式介入 Agent 治理这个新兴赛道。\n\n...",
-    "created_at": "2026-07-29T01:24:00Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI Open Source Trends 2026-07-29",
     "url": "https://github.com/stevenko2002/agents-radar/issues/383",
     "repo": "stevenko2002/agents-radar",
@@ -165,18 +153,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
     "created_at": "2026-07-28T03:03:23Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-28",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/365",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-27 22:16 UTC\n\n---\n\n用户现在需要我根据给的两部分GitHub数据（Trending榜15个还有AI主题搜索79个）做筛选、分类，然后输出AI开源趋势日报。首先得一步步来，先做第一步过滤，把非AI的去掉。\n首先先看Trending榜的15个：首先第一个bitchat是蓝牙聊天，无关，去掉；amnezia-vpn是VPN客户端，无关，去掉；然后moeru-ai/airi是自托管的AI虚拟伴侣，能实时语音、玩MC和Factorio，属于AI应用，要留；opengeos/GeoLibre是GIS平台，虽然有web、Jupyter，但本身是地理信息工具？等下看，有没有AI相关？哦描述里没说和AI直接相关？等下再看，哦对，它的描述是可视化分析地理空间数据，跑在浏览器桌面Jupyter，没提AI能力，所以是非AI，去掉？然后yorukot/superfile是终端文件管理器，通用工具，无关，去掉；NanmiCoder...",
-    "created_at": "2026-07-27T22:23:15Z",
     "author": "github-actions[bot]",
     "amount": null
   },
