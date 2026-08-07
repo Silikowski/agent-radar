@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-08-07",
+    "url": "https://github.com/yurtsWunewbie/agent-radar_trial/issues/3",
+    "repo": "yurtsWunewbie/agent-radar_trial",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-07\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-07 02:36 UTC\n\n---\n\n好的，我是你的 AI 开源生态分析师。基于 2026-08-07 的 GitHub 数据，我为你整理了一份《AI 开源趋势日报》。\n\n---\n\n## AI 开源趋势日报（2026-08-07）\n\n### 1. 今日速览\n\n今日 AI 开源社区的绝对焦点是 **“Agent Skills”** 的爆发。从今日 Trending 榜单来看，`addyosmani/agent-skills`、`mattpocock/skills`、`obra/superpowers` 等多个项目同时登榜，标志着将最佳工程实践沉淀为 AI 编码智能体可复用“技能”的趋势已从小众尝鲜走向主流。同时，**Agent 记忆与上下文管理**成为新的竞争高地，`TencentCloud/TencentDB-Agent-Memory` 和 `cloudflare/computer` 等项目分别从企业级存储和纯云基础设施...",
+    "created_at": "2026-08-07T02:42:54Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-08-04",
+    "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
+    "repo": "huang-yi-dae/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
+    "created_at": "2026-08-04T06:45:06Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-06",
+    "url": "https://github.com/litang9/big_model_radar/issues/324",
+    "repo": "litang9/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-06 13:05 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 6 日的 GitHub Trending 及主题搜索数据，经过严格筛选、去重与分类，为您提炼当前 AI 开源生态的核心动向。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-06)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是**“AI Agent 技能化与记忆持久化”**的全面爆发。以 `mattpocock/skills` 和 `obra/superpowers` 为代表的智能体技能库强势登顶 Trending 榜，标志着 AI 编程助手正从“通用对话”转向“调用专家技能”的工程化落地阶段。同时，腾讯等大厂入局 Agent 记忆基础设施，解决了长任务流中的状态丢失痛点。此外，DeepSeek 生态的终端原生 Agent 迎来高增长，基于代码图谱的上下文优化工具成为开发者新宠。\n\n---\n\n#...",
+    "created_at": "2026-08-06T13:10:10Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-08-06",
     "url": "https://github.com/datnguyenquy94/news-radar/issues/96",
     "repo": "datnguyenquy94/news-radar",
@@ -20,18 +56,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API（含 AI 与大数据 / 数据分析 / 数据挖掘趋势） | 生成时间: 2026-08-04 14:49 UTC\n\n---\n\n# AI 开源趋势日报（2026-08-04）\n\n---\n\n## 今日速览\n今日AI开源领域热度高度聚焦AI Agent生态，Trending榜单中Agent相关项目占比超六成，覆盖企业级基础设施、终端编程、实时交互、垂直场景等多个方向；轻量级大模型推理、上下文压缩等技术获得大量关注，大模型落地正加速向低成本、边缘化方向演进；RAG与知识管理基础设施持续迭代，成为补齐Agent核心能力的关键赛道。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n1. [firecrawl/pdf-inspector](https://github​.com/firecrawl/pdf-inspector) | ⭐待更新（今日+2524）\n   高性能Rust实现的PDF检测分类与文本提...",
     "created_at": "2026-08-04T14:55:20Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-08-04",
-    "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
-    "repo": "huang-yi-dae/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
-    "created_at": "2026-08-04T06:45:06Z",
     "author": "github-actions[bot]",
     "amount": null
   },
