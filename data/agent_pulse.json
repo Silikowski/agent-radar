@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:00:52.158Z",
+  "generated_at": "2026-08-08T08:43:12.567Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,42 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-08-08",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/575",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-08\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-07 22:15 UTC\n\n---\n\nGot it, let's tackle this report step by step. First, I need to do Step 1: Filter AI-related projects from both the trending list and the topic search, exclude non-AI ones. Let's go through each repo first.\n\nFirst, the Trending List (17 repos):\nLet's check each:\n1. PrimeIntellect-ai/prime-agent: AI agent, yes, relevant.\n2. addyosmani/agent-skills: AI coding agent skills, yes...",
+      "created_at": "2026-08-07T22:23:29Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-07",
+      "url": "https://github.com/xqicxx/big_model_radar/issues/89",
+      "repo": "xqicxx/big_model_radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-07\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-07 14:16 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending data for AI-related projects and produce a structured report. Let me work through this step by step.\n\n**Step 1: Filter AI-related projects from today's trending**\n\nToday's trending (17 repos):\n1. PrimeIntellect-ai/prime-agent - AI agent ✅\n2. addyosmani/agent-skills - AI coding agents ✅\n3. cloudflare/computer - \"Give your ag...",
+      "created_at": "2026-08-07T14:22:47Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-07",
+      "url": "https://github.com/xqicxx/big_model_radar/issues/38",
+      "repo": "xqicxx/big_model_radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-07\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-07 13:11 UTC\n\n---\n\n### AI Open Source Trends Report - 2026-08-07\n\n#### **1. Today's Highlights**\nToday, the GitHub trending list and topic search results highlight a significant surge in interest around AI agents and workflows, with several new projects emerging to support autonomous and multi-agent systems. Notably, `PrimeIntellect-ai/prime-agent` and `mattpocock/skills` are gaining rapid tra...",
+      "created_at": "2026-08-07T13:21:42Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-08-07",
       "url": "https://github.com/yurtsWunewbie/agent-radar_trial/issues/3",
@@ -96,43 +132,6 @@
       ],
       "body": "# AI Open Source Trends 2026-08-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-02 01:25 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-02\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem continues its explosive convergence around **agent infrastructure** and **agent memory**, with autonomous agents and their supporting tooling dominating today's trending lists. Notably, **memory systems** have emerged as a distinct and rapidly crowding category, with Tenc...",
       "created_at": "2026-08-02T01:30:07Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-02",
-      "url": "https://github.com/Augustrains/agents-radar/issues/811",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-02 01:25 UTC\n\n---\n\n# 🤖 AI 开源趋势日报\n\n**2026-08-02** | 数据来源：GitHub Trending 实时热榜 + AI 主题搜索（7 天活跃）\n\n\n## 一、今日速览\n\n今日 AI 开源生态呈现 **“智能体基建化”** 的鲜明特征：以 `github/copilot-sdk` 和 `bytedance/deer-flow` 为代表的 Agent 开发基础设施正在快速产品化，前者将 Copilot Agent 能力封装为可嵌入任何应用的多平台 SDK，后者则以长时任务自治为目标构建 SuperAgent 框架。在应用层，语音交互赛道迎来新玩家——`huggingface/speech-to-speech` 主打纯本地开源语音 Agent，而 `TencentCloud/TencentDB-Agent-Memory` 则聚焦 Agent 团队级记忆管理，直击多智能体协作的核心刚...",
-      "created_at": "2026-08-02T01:30:07Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-02",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/93",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-02 04:01 UTC\n\n---\n\n<think>The user wants me to generate a structured AI open-source trend report based on GitHub trending data from 2026-07-02. Let me work through this carefully.\n\n**Step 1: Filtering AI-related projects from Trending (20 repos)**\n\nLet me go through each trending repo:\n\n1. **msitarzewski/agency-agents** [Shell] (+2114) - AI agency with specialized agents → ✅ AI Agent\n2. **usestrix/strix** [Python...",
-      "created_at": "2026-07-02T04:08:16Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-01",
-      "url": "https://github.com/rollysys/agents-radar/issues/970",
-      "repo": "rollysys/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-01 03:12 UTC\n\n---\n\n# AI 开源趋势日报 (2026-08-01)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“工具链深化”与“智能体技能化”两大特征。GitHub Trending 榜单显示，**AI Agent Skill（智能体技能包）** 概念正在兴起，以 `reverse-skill` 和 `last30days-skill` 为代表的项目表明，开发者正致力于将特定领域的复杂工作流封装为可复用的插件，极大地降低了 AI 编程助手（如 Claude Code、Cursor）的使用门槛。同时，开源社区对“隐私自主权”的关注度高涨，`openwork` 作为 Claude Cowork 的开源替代方案单日激增 800+ stars，显示出市场对本地化、可控 AI 协作工具的强烈需求。基础设施层面，智能体 Harness 优化与 RAG 记忆层技术持续迭代，成为支撑应用爆发的坚实底座。\n\n--...",
-      "created_at": "2026-08-01T03:25:51Z",
       "author": "github-actions[bot]",
       "amount": null
     }
