@@ -145,18 +145,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-08-01",
-    "url": "https://github.com/rollysys/agents-radar/issues/970",
-    "repo": "rollysys/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-01 03:12 UTC\n\n---\n\n# AI 开源趋势日报 (2026-08-01)\n\n## 1. 今日速览\n今日 AI 开源生态呈现“工具链深化”与“智能体技能化”两大特征。GitHub Trending 榜单显示，**AI Agent Skill（智能体技能包）** 概念正在兴起，以 `reverse-skill` 和 `last30days-skill` 为代表的项目表明，开发者正致力于将特定领域的复杂工作流封装为可复用的插件，极大地降低了 AI 编程助手（如 Claude Code、Cursor）的使用门槛。同时，开源社区对“隐私自主权”的关注度高涨，`openwork` 作为 Claude Cowork 的开源替代方案单日激增 800+ stars，显示出市场对本地化、可控 AI 协作工具的强烈需求。基础设施层面，智能体 Harness 优化与 RAG 记忆层技术持续迭代，成为支撑应用爆发的坚实底座。\n\n--...",
-    "created_at": "2026-08-01T03:25:51Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-28",
     "url": "https://github.com/96loveslife/big_model_radar/issues/232",
     "repo": "96loveslife/big_model_radar",
