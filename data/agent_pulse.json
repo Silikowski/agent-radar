@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T08:44:54.755Z",
+  "generated_at": "2026-08-10T09:24:00.290Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,54 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-10",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/608",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 22:16 UTC\n\n---\n\n用户现在需要我根据给的两个数据集做AI开源的日报，首先得先严格按照第一步过滤，先筛掉非AI相关的，然后分类，再写报告。首先先处理第一步过滤，先看Trending里的12个，哪些要排除：\n首先看Trending的：\n1. PrimeIntellect-ai/prime-agent：是RLM agent，coding和自主任务，AI相关，留\n2. vitali87/code-graph-rag：RAG，monorepo代码的，AI相关，留\n3. msitarzewski/agency-agents：AI agency的agent集合，AI相关，留\n4. pranshuparmar/witr：是CLI工具，查进程端口容器的，和AI没关系，排除\n5. google-deepmind/weathernext：气象预测？等下，deepmind的，是AI预测气象的？哦对，是ML相关的？等下看数据里...",
+      "created_at": "2026-08-09T22:22:50Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-10",
+      "url": "https://github.com/litang9/big_model_radar/issues/344",
+      "repo": "litang9/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 20:50 UTC\n\n---\n\n这是一份为您定制的《AI 开源趋势日报》（2026-08-10）。\n\n经过对今日 GitHub Trending 和 AI 主题库的深度过滤与清洗，已剔除 `witr` (系统追踪)、`authentik` (身份验证) 和 `t3code` (前端框架) 等非 AI 核心项目。以下是深度的分类与趋势分析报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-10)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“Coding Agent 职业化与技能化”**的爆发趋势。Trending 榜单被 AI 编程智能体及其配套的“生产级技能”占据，预示着开发者正将注意力从基础模型对话转移到**长时间自主执行工作流**上。同时，**代码图谱 RAG** 和 **轻量级记忆模块** 成为提升 Agent 准确率的基础设施刚需。此外，在应用层，零成本运行的垂直场景 Agent（...",
+      "created_at": "2026-08-09T20:54:10Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "scan: 2026-08-09 daily discovery",
+      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/496",
+      "repo": "mattbutlerengineering/ai-tooling",
+      "labels": [
+        "scan"
+      ],
+      "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent` — both trailing-7-days and since-yesterday windows) plus targeted follow-up queries. Most high-signal results from the last 7 days were already catalogued by yesterday's run (2026-08-08, PR #472) — today's pass leaned on repos created since then (mostly 2026-08-09).\n\n## Added (7, cap 10)\n\n| Repo | Category | Disposition |\n|------|---...",
+      "created_at": "2026-08-09T13:17:34Z",
+      "author": "mattbutlerengineering",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-04",
+      "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
+      "repo": "huang-yi-dae/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
+      "created_at": "2026-08-04T06:45:06Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-08-08",
       "url": "https://github.com/stevenko2002/agents-radar/issues/575",
@@ -64,18 +112,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI Open Source Trends 2026-08-04",
-      "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
-      "repo": "huang-yi-dae/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
-      "created_at": "2026-08-04T06:45:06Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-08-06",
       "url": "https://github.com/litang9/big_model_radar/issues/324",
       "repo": "litang9/big_model_radar",
@@ -97,42 +133,6 @@
       "body": "# AI Open Source Trends 2026-08-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-06 03:20 UTC\n\n---\n\nThe user wants me to analyze the GitHub AI-related trending repository data from 2026-08-06 and produce a structured report. Let me follow the steps carefully.\n\nStep 1: Filter for AI/ML relevance from the trending list (13 repos) and the topic search results (80 repos). I need to exclude unrelated general tools, frontend frameworks, games, etc.\n\nFrom the trending list (13 re...",
       "created_at": "2026-08-06T03:39:47Z",
       "author": "datnguyenquy94",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-04",
-      "url": "https://github.com/huang-yi-dae/agents-radar/issues/291",
-      "repo": "huang-yi-dae/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API（含 AI 与大数据 / 数据分析 / 数据挖掘趋势） | 生成时间: 2026-08-04 14:49 UTC\n\n---\n\n# AI 开源趋势日报（2026-08-04）\n\n---\n\n## 今日速览\n今日AI开源领域热度高度聚焦AI Agent生态，Trending榜单中Agent相关项目占比超六成，覆盖企业级基础设施、终端编程、实时交互、垂直场景等多个方向；轻量级大模型推理、上下文压缩等技术获得大量关注，大模型落地正加速向低成本、边缘化方向演进；RAG与知识管理基础设施持续迭代，成为补齐Agent核心能力的关键赛道。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n1. [firecrawl/pdf-inspector](https://github​.com/firecrawl/pdf-inspector) | ⭐待更新（今日+2524）\n   高性能Rust实现的PDF检测分类与文本提...",
-      "created_at": "2026-08-04T14:55:20Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-04",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/496",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-03 22:16 UTC\n\n---\n\n# AI 开源趋势日报\n\n**日期：2026-08-04**\n\n---\n\n## 一、今日速览\n\n今日 AI 开源生态最显著的特征是 **AI Agent 工具链与推理引擎的爆发式增长**。`reverse-skill`（+2442 stars）以\"AI 技能路由\"概念登顶热榜，反映出开发者对 Claude Code / Cursor 等多客户端统一管理的需求激增；`airllm`（+1081 stars）和 `ds4`（+385 stars）则延续了本地低成本推理的热门趋势。与此同时，Microsoft 的 AI 入门教程再次走红（+1902 stars），表明 AI 教育内容仍具强大社区吸引力。RAG 与向量数据库赛道继续由 `dify`、`open-webui` 等头部项目主导，`graphify` 等新兴项目以\"无向量存储\"的推理式 RAG 路线开辟新方向。\n\n---\n\n## ...",
-      "created_at": "2026-08-03T22:19:42Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-02",
-      "url": "https://github.com/Augustrains/agents-radar/issues/812",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-02 01:25 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-02\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem continues its explosive convergence around **agent infrastructure** and **agent memory**, with autonomous agents and their supporting tooling dominating today's trending lists. Notably, **memory systems** have emerged as a distinct and rapidly crowding category, with Tenc...",
-      "created_at": "2026-08-02T01:30:07Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
