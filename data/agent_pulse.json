@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T09:24:00.290Z",
+  "generated_at": "2026-08-11T08:58:47.013Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-11",
+      "url": "https://github.com/Augustrains/agents-radar/issues/937",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-11 00:45 UTC\n\n---\n\n# 🤖 AI 开源趋势日报（2026-08-11）\n\n## 一、今日速览\n\n今日 GitHub Trending 榜单中，**AI 智能体生态持续爆发**，占据热榜半壁江山：`prime-agent`（今日新增 2,642 stars）与 `agency-agents`（+1,349）双双登顶，前者主打**自我改进的强化学习编码智能体**，后者则呈现 \"AI 代理机构\" 的规模化协作范式。与此同时，**上下文工程与 RAG 深化**趋势明显——`semantica` 高调亮相（+970），以图原生基础设施重新定义 AI 系统的上下文管理与可问责性；`code-graph-rag` 则把知识图谱与代码仓库结合，解决大型 monorepo 的检索难题。**AI 网关**成为新兴细分方向（firecrawl、Casbin Gateway 等），“上下文即 API” 的产品化思路正在形成。...",
+      "created_at": "2026-08-11T00:49:43Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-08-10",
       "url": "https://github.com/stevenko2002/agents-radar/issues/608",
@@ -121,18 +133,6 @@
       "body": "# AI 开源趋势日报 2026-08-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-06 13:05 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 6 日的 GitHub Trending 及主题搜索数据，经过严格筛选、去重与分类，为您提炼当前 AI 开源生态的核心动向。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-06)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是**“AI Agent 技能化与记忆持久化”**的全面爆发。以 `mattpocock/skills` 和 `obra/superpowers` 为代表的智能体技能库强势登顶 Trending 榜，标志着 AI 编程助手正从“通用对话”转向“调用专家技能”的工程化落地阶段。同时，腾讯等大厂入局 Agent 记忆基础设施，解决了长任务流中的状态丢失痛点。此外，DeepSeek 生态的终端原生 Agent 迎来高增长，基于代码图谱的上下文优化工具成为开发者新宠。\n\n---\n\n#...",
       "created_at": "2026-08-06T13:10:10Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-06",
-      "url": "https://github.com/datnguyenquy94/news-radar/issues/96",
-      "repo": "datnguyenquy94/news-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-06 03:20 UTC\n\n---\n\nThe user wants me to analyze the GitHub AI-related trending repository data from 2026-08-06 and produce a structured report. Let me follow the steps carefully.\n\nStep 1: Filter for AI/ML relevance from the trending list (13 repos) and the topic search results (80 repos). I need to exclude unrelated general tools, frontend frameworks, games, etc.\n\nFrom the trending list (13 re...",
-      "created_at": "2026-08-06T03:39:47Z",
-      "author": "datnguyenquy94",
       "amount": null
     }
   ]
