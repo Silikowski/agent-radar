@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-08-11",
+    "url": "https://github.com/Augustrains/agents-radar/issues/937",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-11 00:45 UTC\n\n---\n\n# 🤖 AI 开源趋势日报（2026-08-11）\n\n## 一、今日速览\n\n今日 GitHub Trending 榜单中，**AI 智能体生态持续爆发**，占据热榜半壁江山：`prime-agent`（今日新增 2,642 stars）与 `agency-agents`（+1,349）双双登顶，前者主打**自我改进的强化学习编码智能体**，后者则呈现 \"AI 代理机构\" 的规模化协作范式。与此同时，**上下文工程与 RAG 深化**趋势明显——`semantica` 高调亮相（+970），以图原生基础设施重新定义 AI 系统的上下文管理与可问责性；`code-graph-rag` 则把知识图谱与代码仓库结合，解决大型 monorepo 的检索难题。**AI 网关**成为新兴细分方向（firecrawl、Casbin Gateway 等），“上下文即 API” 的产品化思路正在形成。...",
+    "created_at": "2026-08-11T00:49:43Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-08-10",
     "url": "https://github.com/stevenko2002/agents-radar/issues/608",
     "repo": "stevenko2002/agents-radar",
@@ -128,18 +140,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API（含 AI 与大数据 / 数据分析 / 数据挖掘趋势） | 生成时间: 2026-08-04 14:49 UTC\n\n---\n\n# AI 开源趋势日报（2026-08-04）\n\n---\n\n## 今日速览\n今日AI开源领域热度高度聚焦AI Agent生态，Trending榜单中Agent相关项目占比超六成，覆盖企业级基础设施、终端编程、实时交互、垂直场景等多个方向；轻量级大模型推理、上下文压缩等技术获得大量关注，大模型落地正加速向低成本、边缘化方向演进；RAG与知识管理基础设施持续迭代，成为补齐Agent核心能力的关键赛道。\n\n---\n\n## 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n1. [firecrawl/pdf-inspector](https://github​.com/firecrawl/pdf-inspector) | ⭐待更新（今日+2524）\n   高性能Rust实现的PDF检测分类与文本提...",
     "created_at": "2026-08-04T14:55:20Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-08-04",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/496",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-03 22:16 UTC\n\n---\n\n# AI 开源趋势日报\n\n**日期：2026-08-04**\n\n---\n\n## 一、今日速览\n\n今日 AI 开源生态最显著的特征是 **AI Agent 工具链与推理引擎的爆发式增长**。`reverse-skill`（+2442 stars）以\"AI 技能路由\"概念登顶热榜，反映出开发者对 Claude Code / Cursor 等多客户端统一管理的需求激增；`airllm`（+1081 stars）和 `ds4`（+385 stars）则延续了本地低成本推理的热门趋势。与此同时，Microsoft 的 AI 入门教程再次走红（+1902 stars），表明 AI 教育内容仍具强大社区吸引力。RAG 与向量数据库赛道继续由 `dify`、`open-webui` 等头部项目主导，`graphify` 等新兴项目以\"无向量存储\"的推理式 RAG 路线开辟新方向。\n\n---\n\n## ...",
-    "created_at": "2026-08-03T22:19:42Z",
     "author": "github-actions[bot]",
     "amount": null
   },
