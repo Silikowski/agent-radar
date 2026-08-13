@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-08-13",
+    "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/906",
+    "repo": "Chestnuts-Sisyphus/gittok",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-13\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 01:04 UTC\n\n---\n\n# AI Open Source Trends Report - 2026-08-13\n\n## 1. Today's Highlights\nThe AI ecosystem is witnessing a massive surge in **Agent Infrastructure** and **Memory Systems**. The top trending projects today revolve around \"Meta-Harnesses\"—platforms that orchestrate multiple AI coding agents and manage shared memory across sessions. This trend is driven by the shift from single-age...",
+    "created_at": "2026-08-13T01:33:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-13",
+    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/819",
+    "repo": "bianzhilong2-ctrl/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 01:08 UTC\n\n---\n\n## 📅 **AI 开源趋势日报**（2026‑08‑13）\n\n### 🌟 今日速览\n- **多智能体协作工具爆炸式增长**——`agency‑agents`、`orca` 和新出现的 `Switchyard` 等项目大幅上涨，反映出社区对构建互操作 Agent 编队的兴趣激增。\n- **小型边缘基础模型崛起**——`needle`（14 MB 模型）和 `Kronos`（金融语言模型）成为明日热门，凸显出将 AI 能力下沉到手机、可穿戴设备和专用硬件的强劲需求。\n- **RAG + Agent 融合成为标准**——`RAGFlow`、`Flowise` 和 `Cognee` 等项目成为关注焦点，表明开发者正在将检索增强功能与自主工作流无缝集成。\n- **AI 原生生产力平台崛起**——`macro`（统一团队工作空间）和 `embabel‑agent`（JVM Agent 框架...",
+    "created_at": "2026-08-13T01:30:49Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-08-11",
     "url": "https://github.com/Augustrains/agents-radar/issues/937",
     "repo": "Augustrains/agents-radar",
