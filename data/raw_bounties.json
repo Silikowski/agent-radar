@@ -1,14 +1,84 @@
 [
   {
-    "title": "📈 AI Open Source Trends 2026-08-13",
-    "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/906",
-    "repo": "Chestnuts-Sisyphus/gittok",
+    "title": "📈 AI 开源趋势日报 2026-08-14",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/325",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
+    "created_at": "2026-08-14T02:27:19Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-08-14",
+    "url": "https://github.com/kky-wollu/agents-radar/issues/490",
+    "repo": "kky-wollu/agents-radar",
     "labels": [
       "trending-en"
     ],
-    "body": "# AI Open Source Trends 2026-08-13\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 01:04 UTC\n\n---\n\n# AI Open Source Trends Report - 2026-08-13\n\n## 1. Today's Highlights\nThe AI ecosystem is witnessing a massive surge in **Agent Infrastructure** and **Memory Systems**. The top trending projects today revolve around \"Meta-Harnesses\"—platforms that orchestrate multiple AI coding agents and manage shared memory across sessions. This trend is driven by the shift from single-age...",
-    "created_at": "2026-08-13T01:33:18Z",
+    "body": "# AI Open Source Trends 2026-08-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 22:49 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-14\n\n---\n\n## 1. Today's Highlights\n\nThe open-source ecosystem is pivoting decisively toward **agent-centric infrastructure**: Anthropic's long-awaited `skills` repository gained traction alongside a wave of \"Agent Skills\" implementations across memory (claude-mem), note-taking (obsidian-skills), and codebases (graphify). **Edge AI** al...",
+    "created_at": "2026-08-13T22:54:22Z",
     "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-08-14",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/685",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 22:15 UTC\n\n---\n\nGot it, let's tackle this report step by step. First, I need to do Step 1: Filter out non-AI projects from the trending list and the topic search.\nFirst, let's look at the 17 trending repos. Let's go one by one:\n1. cathrynlavery/diagram-design: It's for Claude Code diagram types, AI-adjacent but wait, is it core AI? Wait no, wait it's a tool for AI coding agents, right? Wait...",
+    "created_at": "2026-08-13T22:23:16Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-14",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/684",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 22:15 UTC\n\n---\n\n用户现在需要我根据给的2026-08-14的GitHub AI相关数据做一份《AI开源趋势日报》，首先得严格按照要求来，第一步先过滤，第二步分类，第三步输出报告。\n首先第一步过滤，先看Trending榜单的17个，先把非AI的去掉？先看Trending里的：\n首先cathrynlavery/diagram-design？哦是给Claude Code用的图表工具，属于AI相关工具？对，因为是Claude Code的配套，和AI开发相关。然后semantica-agi/semantica，是AGI相关的上下文系统，AI的。anthropics/skills，Agent Skills，Anthropic的，AI智能体相关。cactus-compute/needle，tiny设备的基础模型，属于大模型/训练类。altic-dev/FluidVoice，本地STT加AI增强，属于AI应用？un...",
+    "created_at": "2026-08-13T22:23:16Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-14",
+    "url": "https://github.com/litang9/big_model_radar/issues/360",
+    "repo": "litang9/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 21:00 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 14 日的 GitHub Trending 及主题搜索数据编制。已为您滤除 `holehe` (邮箱 OSINT)、`spiderfoot` (安全侦察) 以及 `manim` (通用数学动画) 等非 AI 核心项目，并对数据进行深度提炼。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-14)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“端侧模型极致压缩”**与**“Agent 技能化/工作空间化”**两大爆发点。Cactus Compute 推出的 14MB 微型基础模型打破了边缘设备部署的硬件桎梏，而以 Anthropic 官方 `skills` 为代表的 Agent 标准化技能生态正在成型。此外，将多个大模型与各类工具统一调度的“全能 AI 工作区”（如 Macro 和 holaOS）获得开发者极力追...",
+    "created_at": "2026-08-13T21:04:50Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "feat(radar): retarget GitHub discovery to hunt one-job brilliance",
+    "url": "https://github.com/iannuttall/swipe/pull/3",
+    "repo": "iannuttall/swipe",
+    "labels": [],
+    "body": "<!-- CURSOR_AGENT_PR_BODY_BEGIN -->\n## Summary\n\nRetarget Swipe Radar's GitHub discovery so it hunts individual, usable items of brilliance instead of agent-harness packs and brand-new vapor.\n\n## Problem\n\n`pnpm swipe radar github` always runs `gh-research skills`, whose eight canned lenses hunt `SKILL.md` + \"agent skill\" + \"AI workflow\" + `topic:ai-agents`. That pond produces:\n- Routers\n- tmux agent-talkers\n- Workflow runtimes\n- 35-agent starter packs\n\nThe editorial contract then rejects that ent...",
+    "created_at": "2026-08-13T14:14:34Z",
+    "author": "iannuttall",
+    "amount": null
+  },
+  {
+    "title": "scan: 2026-08-13 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/511",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery pass for 2026-08-13. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, all `created:>2026-08-06`, sorted by stars) for tools new/trending in the last ~7 days. `gh` CLI isn't available in this environment, so search ran via the GitHub MCP connector instead of `gh api` — same data source, different transport.\n\n**Note on scope:** the environment also lacks the `gh` binary that `refresh-metadata.py`/`verify-insta...",
+    "created_at": "2026-08-13T13:32:33Z",
+    "author": "mattbutlerengineering",
     "amount": null
   },
   {
@@ -141,18 +211,6 @@
     "body": "# AI 开源趋势日报 2026-08-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-06 13:05 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 6 日的 GitHub Trending 及主题搜索数据，经过严格筛选、去重与分类，为您提炼当前 AI 开源生态的核心动向。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-06)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是**“AI Agent 技能化与记忆持久化”**的全面爆发。以 `mattpocock/skills` 和 `obra/superpowers` 为代表的智能体技能库强势登顶 Trending 榜，标志着 AI 编程助手正从“通用对话”转向“调用专家技能”的工程化落地阶段。同时，腾讯等大厂入局 Agent 记忆基础设施，解决了长任务流中的状态丢失痛点。此外，DeepSeek 生态的终端原生 Agent 迎来高增长，基于代码图谱的上下文优化工具成为开发者新宠。\n\n---\n\n#...",
     "created_at": "2026-08-06T13:10:10Z",
     "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-08-06",
-    "url": "https://github.com/datnguyenquy94/news-radar/issues/96",
-    "repo": "datnguyenquy94/news-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-06 03:20 UTC\n\n---\n\nThe user wants me to analyze the GitHub AI-related trending repository data from 2026-08-06 and produce a structured report. Let me follow the steps carefully.\n\nStep 1: Filter for AI/ML relevance from the trending list (13 repos) and the topic search results (80 repos). I need to exclude unrelated general tools, frontend frameworks, games, etc.\n\nFrom the trending list (13 re...",
-    "created_at": "2026-08-06T03:39:47Z",
-    "author": "datnguyenquy94",
     "amount": null
   },
   {
