@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:08:32.131Z",
+  "generated_at": "2026-08-15T08:30:39.258Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,43 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-07-16",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/169",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending",
+        "archived"
+      ],
+      "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 03:12 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on GitHub trending data and AI topic search results from 2026-07-16. Let me carefully analyze the data, filter AI-relevant projects, categorize them, and produce the report.\n\nLet me go through the data:\n\n**Step 1: Filtering**\n\nTrending list (13 repos) - AI related ones:\n1. OpenCut-app/OpenCut - video edi...",
+      "created_at": "2026-07-16T03:19:55Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-15",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/330",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
+      "created_at": "2026-08-15T01:37:26Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-15",
+      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/852",
+      "repo": "bianzhilong2-ctrl/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-15\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-15 00:41 UTC\n\n---\n\nWe need to produce a structured AI Open Source Trends Report in English.\n\nStep 1 filter: select from the combined trending list and topic search results. Exclude non-AI repos (e.g., diagram-design (html), holehe Python maybe security, not AI; need to filter for AI relevance.\n\nWe have two main datasets: trending list (17 repos) and topic search results (~79). Need to filter f...",
+      "created_at": "2026-08-15T00:53:44Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-08-14",
       "url": "https://github.com/96loveslife/big_model_radar/issues/325",
@@ -95,42 +132,6 @@
       "body": "Daily discovery pass for 2026-08-13. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, all `created:>2026-08-06`, sorted by stars) for tools new/trending in the last ~7 days. `gh` CLI isn't available in this environment, so search ran via the GitHub MCP connector instead of `gh api` — same data source, different transport.\n\n**Note on scope:** the environment also lacks the `gh` binary that `refresh-metadata.py`/`verify-insta...",
       "created_at": "2026-08-13T13:32:33Z",
       "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-13",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/819",
-      "repo": "bianzhilong2-ctrl/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 01:08 UTC\n\n---\n\n## 📅 **AI 开源趋势日报**（2026‑08‑13）\n\n### 🌟 今日速览\n- **多智能体协作工具爆炸式增长**——`agency‑agents`、`orca` 和新出现的 `Switchyard` 等项目大幅上涨，反映出社区对构建互操作 Agent 编队的兴趣激增。\n- **小型边缘基础模型崛起**——`needle`（14 MB 模型）和 `Kronos`（金融语言模型）成为明日热门，凸显出将 AI 能力下沉到手机、可穿戴设备和专用硬件的强劲需求。\n- **RAG + Agent 融合成为标准**——`RAGFlow`、`Flowise` 和 `Cognee` 等项目成为关注焦点，表明开发者正在将检索增强功能与自主工作流无缝集成。\n- **AI 原生生产力平台崛起**——`macro`（统一团队工作空间）和 `embabel‑agent`（JVM Agent 框架...",
-      "created_at": "2026-08-13T01:30:49Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-11",
-      "url": "https://github.com/Augustrains/agents-radar/issues/937",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-11 00:45 UTC\n\n---\n\n# 🤖 AI 开源趋势日报（2026-08-11）\n\n## 一、今日速览\n\n今日 GitHub Trending 榜单中，**AI 智能体生态持续爆发**，占据热榜半壁江山：`prime-agent`（今日新增 2,642 stars）与 `agency-agents`（+1,349）双双登顶，前者主打**自我改进的强化学习编码智能体**，后者则呈现 \"AI 代理机构\" 的规模化协作范式。与此同时，**上下文工程与 RAG 深化**趋势明显——`semantica` 高调亮相（+970），以图原生基础设施重新定义 AI 系统的上下文管理与可问责性；`code-graph-rag` 则把知识图谱与代码仓库结合，解决大型 monorepo 的检索难题。**AI 网关**成为新兴细分方向（firecrawl、Casbin Gateway 等），“上下文即 API” 的产品化思路正在形成。...",
-      "created_at": "2026-08-11T00:49:43Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-10",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/608",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 22:16 UTC\n\n---\n\n用户现在需要我根据给的两个数据集做AI开源的日报，首先得先严格按照第一步过滤，先筛掉非AI相关的，然后分类，再写报告。首先先处理第一步过滤，先看Trending里的12个，哪些要排除：\n首先看Trending的：\n1. PrimeIntellect-ai/prime-agent：是RLM agent，coding和自主任务，AI相关，留\n2. vitali87/code-graph-rag：RAG，monorepo代码的，AI相关，留\n3. msitarzewski/agency-agents：AI agency的agent集合，AI相关，留\n4. pranshuparmar/witr：是CLI工具，查进程端口容器的，和AI没关系，排除\n5. google-deepmind/weathernext：气象预测？等下，deepmind的，是AI预测气象的？哦对，是ML相关的？等下看数据里...",
-      "created_at": "2026-08-09T22:22:50Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
