@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-08-16",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/725",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-16\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-15 22:15 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the user's steps: filter, categorize, then make the report.\n\nFirst, Step 1: Filter out non-AI projects from both the trending list and topic search. Let's go through each repo first.\n\nFirst the 13 trending repos:\n- cordiverse/cordis: TypeScript, spatiotemporal composability? Wait no, wait the description says Me...",
+    "created_at": "2026-08-15T22:24:26Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-08-16",
+    "url": "https://github.com/howe12/agents-radar/issues/287",
+    "repo": "howe12/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-16 00:55 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-08-16\n\n---\n\n## 第一步 · 过滤结果\n\n**已排除的非 AI 项目**：public-apis/public-apis（API 列表）、megadose/holehe（邮箱查询 OSINT）、cordiverse/cordis（未明确 AI 场景的时序框架）。\n\n**保留的 AI 相关项目**：从 Trending 13 个中保留 10 个，从主题搜索 145 个中精选各领域代表项目。\n\n---\n\n## 今日速览\n\n今日 Trending 榜单几乎被 **AI Agent 工具链与端侧 LLM 部署**两类项目主导：cactus-compute 的 14MB 端侧基础模型 needle（+547 stars）与 unslothai/unsloth（+434）共同印证了 **\"小而美\"模型在端侧推理和消费级硬件上的回潮**；GitHu...",
+    "created_at": "2026-08-16T00:58:16Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-16",
     "url": "https://github.com/96loveslife/big_model_radar/issues/169",
     "repo": "96loveslife/big_model_radar",
@@ -187,30 +211,6 @@
     ],
     "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
     "created_at": "2026-08-04T06:45:06Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-08-07",
-    "url": "https://github.com/xqicxx/big_model_radar/issues/89",
-    "repo": "xqicxx/big_model_radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-07\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-07 14:16 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending data for AI-related projects and produce a structured report. Let me work through this step by step.\n\n**Step 1: Filter AI-related projects from today's trending**\n\nToday's trending (17 repos):\n1. PrimeIntellect-ai/prime-agent - AI agent ✅\n2. addyosmani/agent-skills - AI coding agents ✅\n3. cloudflare/computer - \"Give your ag...",
-    "created_at": "2026-08-07T14:22:47Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-08-07",
-    "url": "https://github.com/xqicxx/big_model_radar/issues/38",
-    "repo": "xqicxx/big_model_radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-07\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-07 13:11 UTC\n\n---\n\n### AI Open Source Trends Report - 2026-08-07\n\n#### **1. Today's Highlights**\nToday, the GitHub trending list and topic search results highlight a significant surge in interest around AI agents and workflows, with several new projects emerging to support autonomous and multi-agent systems. Notably, `PrimeIntellect-ai/prime-agent` and `mattpocock/skills` are gaining rapid tra...",
-    "created_at": "2026-08-07T13:21:42Z",
     "author": "github-actions[bot]",
     "amount": null
   },
