@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:30:39.258Z",
+  "generated_at": "2026-08-16T08:31:20.382Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-08-16",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/725",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-16\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-15 22:15 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the user's steps: filter, categorize, then make the report.\n\nFirst, Step 1: Filter out non-AI projects from both the trending list and topic search. Let's go through each repo first.\n\nFirst the 13 trending repos:\n- cordiverse/cordis: TypeScript, spatiotemporal composability? Wait no, wait the description says Me...",
+      "created_at": "2026-08-15T22:24:26Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-16",
+      "url": "https://github.com/howe12/agents-radar/issues/287",
+      "repo": "howe12/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-16 00:55 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-08-16\n\n---\n\n## 第一步 · 过滤结果\n\n**已排除的非 AI 项目**：public-apis/public-apis（API 列表）、megadose/holehe（邮箱查询 OSINT）、cordiverse/cordis（未明确 AI 场景的时序框架）。\n\n**保留的 AI 相关项目**：从 Trending 13 个中保留 10 个，从主题搜索 145 个中精选各领域代表项目。\n\n---\n\n## 今日速览\n\n今日 Trending 榜单几乎被 **AI Agent 工具链与端侧 LLM 部署**两类项目主导：cactus-compute 的 14MB 端侧基础模型 needle（+547 stars）与 unslothai/unsloth（+434）共同印证了 **\"小而美\"模型在端侧推理和消费级硬件上的回潮**；GitHu...",
+      "created_at": "2026-08-16T00:58:16Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-07-16",
       "url": "https://github.com/96loveslife/big_model_radar/issues/169",
@@ -110,28 +134,6 @@
       "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 21:00 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 14 日的 GitHub Trending 及主题搜索数据编制。已为您滤除 `holehe` (邮箱 OSINT)、`spiderfoot` (安全侦察) 以及 `manim` (通用数学动画) 等非 AI 核心项目，并对数据进行深度提炼。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-14)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“端侧模型极致压缩”**与**“Agent 技能化/工作空间化”**两大爆发点。Cactus Compute 推出的 14MB 微型基础模型打破了边缘设备部署的硬件桎梏，而以 Anthropic 官方 `skills` 为代表的 Agent 标准化技能生态正在成型。此外，将多个大模型与各类工具统一调度的“全能 AI 工作区”（如 Macro 和 holaOS）获得开发者极力追...",
       "created_at": "2026-08-13T21:04:50Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "feat(radar): retarget GitHub discovery to hunt one-job brilliance",
-      "url": "https://github.com/iannuttall/swipe/pull/3",
-      "repo": "iannuttall/swipe",
-      "labels": [],
-      "body": "<!-- CURSOR_AGENT_PR_BODY_BEGIN -->\n## Summary\n\nRetarget Swipe Radar's GitHub discovery so it hunts individual, usable items of brilliance instead of agent-harness packs and brand-new vapor.\n\n## Problem\n\n`pnpm swipe radar github` always runs `gh-research skills`, whose eight canned lenses hunt `SKILL.md` + \"agent skill\" + \"AI workflow\" + `topic:ai-agents`. That pond produces:\n- Routers\n- tmux agent-talkers\n- Workflow runtimes\n- 35-agent starter packs\n\nThe editorial contract then rejects that ent...",
-      "created_at": "2026-08-13T14:14:34Z",
-      "author": "iannuttall",
-      "amount": null
-    },
-    {
-      "title": "scan: 2026-08-13 daily discovery",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/511",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [
-        "scan"
-      ],
-      "body": "Daily discovery pass for 2026-08-13. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, all `created:>2026-08-06`, sorted by stars) for tools new/trending in the last ~7 days. `gh` CLI isn't available in this environment, so search ran via the GitHub MCP connector instead of `gh api` — same data source, different transport.\n\n**Note on scope:** the environment also lacks the `gh` binary that `refresh-metadata.py`/`verify-insta...",
-      "created_at": "2026-08-13T13:32:33Z",
-      "author": "mattbutlerengineering",
       "amount": null
     }
   ]
