@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-08-17",
+    "url": "https://github.com/howe12/agents-radar/issues/293",
+    "repo": "howe12/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-17 00:53 UTC\n\n---\n\n# 📊 AI 开源趋势日报 · 2026-08-17\n\n---\n\n## ① 今日速览\n\n今日 GitHub Trending 中 **3 个 AI 项目同时登榜**，其中 **cactus-compute/needle（14MB 端侧基础模型）** 与 **unslothai/unsloth（本地大模型训练 UI）** 表现最为亮眼，标志**\"小而美的边缘端模型\"与\"本地化大模型开发\"双线爆发**。主题搜索侧显示 **AI Agent Harness（智能体执行框架）赛道极度拥挤**——\"agent harness\"相关项目扎堆涌现，叠加 Token 压缩、向量数据库等基础设施持续走热，社区正从\"训练模型\"转向\"让 Agent 跑得更省、更稳、更长\"。\n\n---\n\n## ② 各维度热门项目\n\n### 🔧 AI 基础工具（框架 / SDK / 推理引擎 / 开发工具）\n\n| 项目 ...",
+    "created_at": "2026-08-17T00:57:55Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-08-16",
     "url": "https://github.com/stevenko2002/agents-radar/issues/725",
     "repo": "stevenko2002/agents-radar",
@@ -163,18 +175,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-08-11\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-11 00:45 UTC\n\n---\n\n# 🤖 AI 开源趋势日报（2026-08-11）\n\n## 一、今日速览\n\n今日 GitHub Trending 榜单中，**AI 智能体生态持续爆发**，占据热榜半壁江山：`prime-agent`（今日新增 2,642 stars）与 `agency-agents`（+1,349）双双登顶，前者主打**自我改进的强化学习编码智能体**，后者则呈现 \"AI 代理机构\" 的规模化协作范式。与此同时，**上下文工程与 RAG 深化**趋势明显——`semantica` 高调亮相（+970），以图原生基础设施重新定义 AI 系统的上下文管理与可问责性；`code-graph-rag` 则把知识图谱与代码仓库结合，解决大型 monorepo 的检索难题。**AI 网关**成为新兴细分方向（firecrawl、Casbin Gateway 等），“上下文即 API” 的产品化思路正在形成。...",
     "created_at": "2026-08-11T00:49:43Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-08-10",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/608",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 22:16 UTC\n\n---\n\n用户现在需要我根据给的两个数据集做AI开源的日报，首先得先严格按照第一步过滤，先筛掉非AI相关的，然后分类，再写报告。首先先处理第一步过滤，先看Trending里的12个，哪些要排除：\n首先看Trending的：\n1. PrimeIntellect-ai/prime-agent：是RLM agent，coding和自主任务，AI相关，留\n2. vitali87/code-graph-rag：RAG，monorepo代码的，AI相关，留\n3. msitarzewski/agency-agents：AI agency的agent集合，AI相关，留\n4. pranshuparmar/witr：是CLI工具，查进程端口容器的，和AI没关系，排除\n5. google-deepmind/weathernext：气象预测？等下，deepmind的，是AI预测气象的？哦对，是ML相关的？等下看数据里...",
-    "created_at": "2026-08-09T22:22:50Z",
     "author": "github-actions[bot]",
     "amount": null
   },
