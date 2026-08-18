@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:44:54.541Z",
+  "generated_at": "2026-08-18T08:38:33.538Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -16,18 +16,6 @@
   },
   "bounties": [
     {
-      "title": "📈 AI 开源趋势日报 2026-08-17",
-      "url": "https://github.com/howe12/agents-radar/issues/293",
-      "repo": "howe12/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-17 00:53 UTC\n\n---\n\n# 📊 AI 开源趋势日报 · 2026-08-17\n\n---\n\n## ① 今日速览\n\n今日 GitHub Trending 中 **3 个 AI 项目同时登榜**，其中 **cactus-compute/needle（14MB 端侧基础模型）** 与 **unslothai/unsloth（本地大模型训练 UI）** 表现最为亮眼，标志**\"小而美的边缘端模型\"与\"本地化大模型开发\"双线爆发**。主题搜索侧显示 **AI Agent Harness（智能体执行框架）赛道极度拥挤**——\"agent harness\"相关项目扎堆涌现，叠加 Token 压缩、向量数据库等基础设施持续走热，社区正从\"训练模型\"转向\"让 Agent 跑得更省、更稳、更长\"。\n\n---\n\n## ② 各维度热门项目\n\n### 🔧 AI 基础工具（框架 / SDK / 推理引擎 / 开发工具）\n\n| 项目 ...",
-      "created_at": "2026-08-17T00:57:55Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI Open Source Trends 2026-08-16",
       "url": "https://github.com/stevenko2002/agents-radar/issues/725",
       "repo": "stevenko2002/agents-radar",
@@ -36,6 +24,18 @@
       ],
       "body": "# AI Open Source Trends 2026-08-16\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-15 22:15 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the user's steps: filter, categorize, then make the report.\n\nFirst, Step 1: Filter out non-AI projects from both the trending list and topic search. Let's go through each repo first.\n\nFirst the 13 trending repos:\n- cordiverse/cordis: TypeScript, spatiotemporal composability? Wait no, wait the description says Me...",
       "created_at": "2026-08-15T22:24:26Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-17",
+      "url": "https://github.com/howe12/agents-radar/issues/293",
+      "repo": "howe12/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-17 00:53 UTC\n\n---\n\n# 📊 AI 开源趋势日报 · 2026-08-17\n\n---\n\n## ① 今日速览\n\n今日 GitHub Trending 中 **3 个 AI 项目同时登榜**，其中 **cactus-compute/needle（14MB 端侧基础模型）** 与 **unslothai/unsloth（本地大模型训练 UI）** 表现最为亮眼，标志**\"小而美的边缘端模型\"与\"本地化大模型开发\"双线爆发**。主题搜索侧显示 **AI Agent Harness（智能体执行框架）赛道极度拥挤**——\"agent harness\"相关项目扎堆涌现，叠加 Token 压缩、向量数据库等基础设施持续走热，社区正从\"训练模型\"转向\"让 Agent 跑得更省、更稳、更长\"。\n\n---\n\n## ② 各维度热门项目\n\n### 🔧 AI 基础工具（框架 / SDK / 推理引擎 / 开发工具）\n\n| 项目 ...",
+      "created_at": "2026-08-17T00:57:55Z",
       "author": "github-actions[bot]",
       "amount": null
     },
