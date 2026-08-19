@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:38:33.538Z",
+  "generated_at": "2026-08-19T08:39:04.985Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-19",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/776",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-18 22:16 UTC\n\n---\n\n用户现在需要我根据给的2026-08-19的GitHub AI相关数据做《AI开源趋势日报》，首先得严格按照三个步骤来：先过滤，再分类，最后输出报告。\n首先第一步过滤，先看Trending榜里的13个，要排除和AI无关的。Trending里的basecamp/omarchy是Linux系统，agalwood/Motrix是下载工具，NawfalMotii79/PLFM_RADAR是雷达系统，这三个直接排除。剩下的都是AI相关的。然后AI主题搜索里的80个，都是带AI相关topic的，不过要确认有没有跑题的？哦比如那个thedaviddias/Front-End-Checklist是给前端和AI agent用的清单？算不算AI相关？哦对，是给AI agent用的，不过可能属于基础工具？不过先记着，后面分类。\n然后第二步分类，分五个维度：🔧AI基础工具、🤖AI智能体/工作流、📦AI...",
+      "created_at": "2026-08-18T22:23:37Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "scan: 2026-08-18 daily discovery",
+      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/526",
+      "repo": "mattbutlerengineering/ai-tooling",
+      "labels": [
+        "scan"
+      ],
+      "body": "Daily discovery-and-triage pass. `gh` CLI is unavailable in this sandbox (no `gh` binary); GitHub search was done via the `github` MCP server's `search_repositories` instead.\n\n## Searched\n\n- `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:agent-skills`, `topic:code-review`, `topic:llm-observability`, `topic:coding-agent` — all `created:>2026-08-01`..`2026-08-10`, sorted by stars.\n\n## Candidates and dispositions\n\n| Repo | One-liner | Disposition |\n|------...",
+      "created_at": "2026-08-18T13:27:12Z",
+      "author": "mattbutlerengineering",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-08-16",
       "url": "https://github.com/stevenko2002/agents-radar/issues/725",
@@ -109,30 +133,6 @@
       ],
       "body": "# AI Open Source Trends 2026-08-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 22:49 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-14\n\n---\n\n## 1. Today's Highlights\n\nThe open-source ecosystem is pivoting decisively toward **agent-centric infrastructure**: Anthropic's long-awaited `skills` repository gained traction alongside a wave of \"Agent Skills\" implementations across memory (claude-mem), note-taking (obsidian-skills), and codebases (graphify). **Edge AI** al...",
       "created_at": "2026-08-13T22:54:22Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-14",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/685",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 22:15 UTC\n\n---\n\nGot it, let's tackle this report step by step. First, I need to do Step 1: Filter out non-AI projects from the trending list and the topic search.\nFirst, let's look at the 17 trending repos. Let's go one by one:\n1. cathrynlavery/diagram-design: It's for Claude Code diagram types, AI-adjacent but wait, is it core AI? Wait no, wait it's a tool for AI coding agents, right? Wait...",
-      "created_at": "2026-08-13T22:23:16Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-14",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/684",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 22:15 UTC\n\n---\n\n用户现在需要我根据给的2026-08-14的GitHub AI相关数据做一份《AI开源趋势日报》，首先得严格按照要求来，第一步先过滤，第二步分类，第三步输出报告。\n首先第一步过滤，先看Trending榜单的17个，先把非AI的去掉？先看Trending里的：\n首先cathrynlavery/diagram-design？哦是给Claude Code用的图表工具，属于AI相关工具？对，因为是Claude Code的配套，和AI开发相关。然后semantica-agi/semantica，是AGI相关的上下文系统，AI的。anthropics/skills，Agent Skills，Anthropic的，AI智能体相关。cactus-compute/needle，tiny设备的基础模型，属于大模型/训练类。altic-dev/FluidVoice，本地STT加AI增强，属于AI应用？un...",
-      "created_at": "2026-08-13T22:23:16Z",
       "author": "github-actions[bot]",
       "amount": null
     }
