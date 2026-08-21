@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-08-21",
+    "url": "https://github.com/Augustrains/agents-radar/issues/1088",
+    "repo": "Augustrains/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-08-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-21 00:32 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-21\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by a surge in **agent-native tooling**, with developer-centric skills, memory layers, and harness optimizations capturing the most attention. The trending list reveals a clear pivot from \"building models\" to \"orchestrating agents in production,\" highlig...",
+    "created_at": "2026-08-21T00:36:43Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-08-19",
     "url": "https://github.com/stevenko2002/agents-radar/issues/776",
     "repo": "stevenko2002/agents-radar",
@@ -121,30 +133,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI Open Source Trends 2026-08-14",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/685",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-14\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-13 22:15 UTC\n\n---\n\nGot it, let's tackle this report step by step. First, I need to do Step 1: Filter out non-AI projects from the trending list and the topic search.\nFirst, let's look at the 17 trending repos. Let's go one by one:\n1. cathrynlavery/diagram-design: It's for Claude Code diagram types, AI-adjacent but wait, is it core AI? Wait no, wait it's a tool for AI coding agents, right? Wait...",
-    "created_at": "2026-08-13T22:23:16Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-08-14",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/684",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 22:15 UTC\n\n---\n\n用户现在需要我根据给的2026-08-14的GitHub AI相关数据做一份《AI开源趋势日报》，首先得严格按照要求来，第一步先过滤，第二步分类，第三步输出报告。\n首先第一步过滤，先看Trending榜单的17个，先把非AI的去掉？先看Trending里的：\n首先cathrynlavery/diagram-design？哦是给Claude Code用的图表工具，属于AI相关工具？对，因为是Claude Code的配套，和AI开发相关。然后semantica-agi/semantica，是AGI相关的上下文系统，AI的。anthropics/skills，Agent Skills，Anthropic的，AI智能体相关。cactus-compute/needle，tiny设备的基础模型，属于大模型/训练类。altic-dev/FluidVoice，本地STT加AI增强，属于AI应用？un...",
-    "created_at": "2026-08-13T22:23:16Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-08-14",
     "url": "https://github.com/litang9/big_model_radar/issues/360",
     "repo": "litang9/big_model_radar",
@@ -166,18 +154,6 @@
     "body": "Daily discovery pass for 2026-08-13. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, all `created:>2026-08-06`, sorted by stars) for tools new/trending in the last ~7 days. `gh` CLI isn't available in this environment, so search ran via the GitHub MCP connector instead of `gh api` — same data source, different transport.\n\n**Note on scope:** the environment also lacks the `gh` binary that `refresh-metadata.py`/`verify-insta...",
     "created_at": "2026-08-13T13:32:33Z",
     "author": "mattbutlerengineering",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-08-13",
-    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/819",
-    "repo": "bianzhilong2-ctrl/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 01:08 UTC\n\n---\n\n## 📅 **AI 开源趋势日报**（2026‑08‑13）\n\n### 🌟 今日速览\n- **多智能体协作工具爆炸式增长**——`agency‑agents`、`orca` 和新出现的 `Switchyard` 等项目大幅上涨，反映出社区对构建互操作 Agent 编队的兴趣激增。\n- **小型边缘基础模型崛起**——`needle`（14 MB 模型）和 `Kronos`（金融语言模型）成为明日热门，凸显出将 AI 能力下沉到手机、可穿戴设备和专用硬件的强劲需求。\n- **RAG + Agent 融合成为标准**——`RAGFlow`、`Flowise` 和 `Cognee` 等项目成为关注焦点，表明开发者正在将检索增强功能与自主工作流无缝集成。\n- **AI 原生生产力平台崛起**——`macro`（统一团队工作空间）和 `embabel‑agent`（JVM Agent 框架...",
-    "created_at": "2026-08-13T01:30:49Z",
-    "author": "github-actions[bot]",
     "amount": null
   },
   {
