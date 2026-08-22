@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:41:46.547Z",
+  "generated_at": "2026-08-22T08:32:05.500Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-22",
+      "url": "https://github.com/yurtsWunewbie/agent-radar_trial/issues/126",
+      "repo": "yurtsWunewbie/agent-radar_trial",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-22 01:09 UTC\n\n---\n\n好的，这是为你准备的《AI 开源趋势日报》。\n\n---\n\n## 📅 AI 开源趋势日报（2026-08-22）\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“智能体工程化”** 的显著特征。一方面，围绕 Claude Code、Cursor 等 AI 编码代理的 **Skills（技能）框架** 和 **性能优化/上下文管理工具** 异军突起，成为今日增长最快的细分领域，这体现了社区从“能用AI写代码”向“如何高效、稳定地使用AI写代码”的演进。另一方面，**本地优先** 和 **数据隐私** 意识持续增强，从本地优先的 AI Agent 工作区到无需向量库的 RAG 方案，都获得了极高的关注度。同时，AI 正加速向求职、视频生成等垂直应用场景渗透，开源项目正在将 AI 能力转化为具体的生产力工具。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（...",
+      "created_at": "2026-08-22T01:16:41Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-22",
+      "url": "https://github.com/Augustrains/agents-radar/issues/1101",
+      "repo": "Augustrains/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-22\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-22 00:29 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-22\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by a surge in **agent skill/harness frameworks** — lightweight, local-first systems that augment AI coding agents (Claude Code, Codex, Cursor) with memory, skills, and security layers. Notably, `mattpocock/skills` and `obra/superpowers` are both trending hea...",
+      "created_at": "2026-08-22T00:33:27Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-08-21",
       "url": "https://github.com/Augustrains/agents-radar/issues/1088",
@@ -109,30 +133,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
       "created_at": "2026-08-15T01:37:26Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-15",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/852",
-      "repo": "bianzhilong2-ctrl/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-15\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-15 00:41 UTC\n\n---\n\nWe need to produce a structured AI Open Source Trends Report in English.\n\nStep 1 filter: select from the combined trending list and topic search results. Exclude non-AI repos (e.g., diagram-design (html), holehe Python maybe security, not AI; need to filter for AI relevance.\n\nWe have two main datasets: trending list (17 repos) and topic search results (~79). Need to filter f...",
-      "created_at": "2026-08-15T00:53:44Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-14",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/325",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
-      "created_at": "2026-08-14T02:27:19Z",
       "author": "github-actions[bot]",
       "amount": null
     }
