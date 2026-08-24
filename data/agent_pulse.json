@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:31:42.023Z",
+  "generated_at": "2026-08-24T08:49:57.032Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -76,30 +76,6 @@
       "amount": null
     },
     {
-      "title": "scan: 2026-08-18 daily discovery",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/526",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [
-        "scan"
-      ],
-      "body": "Daily discovery-and-triage pass. `gh` CLI is unavailable in this sandbox (no `gh` binary); GitHub search was done via the `github` MCP server's `search_repositories` instead.\n\n## Searched\n\n- `topic:claude-code`, `topic:claude-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:agent-skills`, `topic:code-review`, `topic:llm-observability`, `topic:coding-agent` — all `created:>2026-08-01`..`2026-08-10`, sorted by stars.\n\n## Candidates and dispositions\n\n| Repo | One-liner | Disposition |\n|------...",
-      "created_at": "2026-08-18T13:27:12Z",
-      "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-17",
-      "url": "https://github.com/howe12/agents-radar/issues/293",
-      "repo": "howe12/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-17\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-17 00:53 UTC\n\n---\n\n# 📊 AI 开源趋势日报 · 2026-08-17\n\n---\n\n## ① 今日速览\n\n今日 GitHub Trending 中 **3 个 AI 项目同时登榜**，其中 **cactus-compute/needle（14MB 端侧基础模型）** 与 **unslothai/unsloth（本地大模型训练 UI）** 表现最为亮眼，标志**\"小而美的边缘端模型\"与\"本地化大模型开发\"双线爆发**。主题搜索侧显示 **AI Agent Harness（智能体执行框架）赛道极度拥挤**——\"agent harness\"相关项目扎堆涌现，叠加 Token 压缩、向量数据库等基础设施持续走热，社区正从\"训练模型\"转向\"让 Agent 跑得更省、更稳、更长\"。\n\n---\n\n## ② 各维度热门项目\n\n### 🔧 AI 基础工具（框架 / SDK / 推理引擎 / 开发工具）\n\n| 项目 ...",
-      "created_at": "2026-08-17T00:57:55Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-07-16",
       "url": "https://github.com/96loveslife/big_model_radar/issues/169",
       "repo": "96loveslife/big_model_radar",
@@ -133,6 +109,30 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
       "created_at": "2026-08-14T02:27:19Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-14",
+      "url": "https://github.com/litang9/big_model_radar/issues/360",
+      "repo": "litang9/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-13 21:00 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 14 日的 GitHub Trending 及主题搜索数据编制。已为您滤除 `holehe` (邮箱 OSINT)、`spiderfoot` (安全侦察) 以及 `manim` (通用数学动画) 等非 AI 核心项目，并对数据进行深度提炼。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-14)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“端侧模型极致压缩”**与**“Agent 技能化/工作空间化”**两大爆发点。Cactus Compute 推出的 14MB 微型基础模型打破了边缘设备部署的硬件桎梏，而以 Anthropic 官方 `skills` 为代表的 Agent 标准化技能生态正在成型。此外，将多个大模型与各类工具统一调度的“全能 AI 工作区”（如 Macro 和 holaOS）获得开发者极力追...",
+      "created_at": "2026-08-13T21:04:50Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-10",
+      "url": "https://github.com/litang9/big_model_radar/issues/344",
+      "repo": "litang9/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 20:50 UTC\n\n---\n\n这是一份为您定制的《AI 开源趋势日报》（2026-08-10）。\n\n经过对今日 GitHub Trending 和 AI 主题库的深度过滤与清洗，已剔除 `witr` (系统追踪)、`authentik` (身份验证) 和 `t3code` (前端框架) 等非 AI 核心项目。以下是深度的分类与趋势分析报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-10)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“Coding Agent 职业化与技能化”**的爆发趋势。Trending 榜单被 AI 编程智能体及其配套的“生产级技能”占据，预示着开发者正将注意力从基础模型对话转移到**长时间自主执行工作流**上。同时，**代码图谱 RAG** 和 **轻量级记忆模块** 成为提升 Agent 准确率的基础设施刚需。此外，在应用层，零成本运行的垂直场景 Agent（...",
+      "created_at": "2026-08-09T20:54:10Z",
       "author": "github-actions[bot]",
       "amount": null
     }
