@@ -48,18 +48,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-08-19",
-    "url": "https://github.com/stevenko2002/agents-radar/issues/776",
-    "repo": "stevenko2002/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-18 22:16 UTC\n\n---\n\n用户现在需要我根据给的2026-08-19的GitHub AI相关数据做《AI开源趋势日报》，首先得严格按照三个步骤来：先过滤，再分类，最后输出报告。\n首先第一步过滤，先看Trending榜里的13个，要排除和AI无关的。Trending里的basecamp/omarchy是Linux系统，agalwood/Motrix是下载工具，NawfalMotii79/PLFM_RADAR是雷达系统，这三个直接排除。剩下的都是AI相关的。然后AI主题搜索里的80个，都是带AI相关topic的，不过要确认有没有跑题的？哦比如那个thedaviddias/Front-End-Checklist是给前端和AI agent用的清单？算不算AI相关？哦对，是给AI agent用的，不过可能属于基础工具？不过先记着，后面分类。\n然后第二步分类，分五个维度：🔧AI基础工具、🤖AI智能体/工作流、📦AI...",
-    "created_at": "2026-08-18T22:23:37Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-16",
     "url": "https://github.com/96loveslife/big_model_radar/issues/169",
     "repo": "96loveslife/big_model_radar",

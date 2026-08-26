@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T08:44:00.953Z",
+  "generated_at": "2026-08-26T08:45:40.565Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -64,18 +64,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-08-19",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/776",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-18 22:16 UTC\n\n---\n\n用户现在需要我根据给的2026-08-19的GitHub AI相关数据做《AI开源趋势日报》，首先得严格按照三个步骤来：先过滤，再分类，最后输出报告。\n首先第一步过滤，先看Trending榜里的13个，要排除和AI无关的。Trending里的basecamp/omarchy是Linux系统，agalwood/Motrix是下载工具，NawfalMotii79/PLFM_RADAR是雷达系统，这三个直接排除。剩下的都是AI相关的。然后AI主题搜索里的80个，都是带AI相关topic的，不过要确认有没有跑题的？哦比如那个thedaviddias/Front-End-Checklist是给前端和AI agent用的清单？算不算AI相关？哦对，是给AI agent用的，不过可能属于基础工具？不过先记着，后面分类。\n然后第二步分类，分五个维度：🔧AI基础工具、🤖AI智能体/工作流、📦AI...",
-      "created_at": "2026-08-18T22:23:37Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-07-16",
       "url": "https://github.com/96loveslife/big_model_radar/issues/169",
       "repo": "96loveslife/big_model_radar",
@@ -133,6 +121,18 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-09 20:50 UTC\n\n---\n\n这是一份为您定制的《AI 开源趋势日报》（2026-08-10）。\n\n经过对今日 GitHub Trending 和 AI 主题库的深度过滤与清洗，已剔除 `witr` (系统追踪)、`authentik` (身份验证) 和 `t3code` (前端框架) 等非 AI 核心项目。以下是深度的分类与趋势分析报告：\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-10)\n\n## 1. 今日速览\n今日 AI 开源生态呈现**“Coding Agent 职业化与技能化”**的爆发趋势。Trending 榜单被 AI 编程智能体及其配套的“生产级技能”占据，预示着开发者正将注意力从基础模型对话转移到**长时间自主执行工作流**上。同时，**代码图谱 RAG** 和 **轻量级记忆模块** 成为提升 Agent 准确率的基础设施刚需。此外，在应用层，零成本运行的垂直场景 Agent（...",
       "created_at": "2026-08-09T20:54:10Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-08-04",
+      "url": "https://github.com/huang-yi-dae/agents-radar/issues/178",
+      "repo": "huang-yi-dae/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
+      "created_at": "2026-08-04T06:45:06Z",
       "author": "github-actions[bot]",
       "amount": null
     }
