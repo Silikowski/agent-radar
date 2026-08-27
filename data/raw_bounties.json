@@ -1,5 +1,18 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-07-28",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/232",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending",
+      "archived"
+    ],
+    "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
+    "created_at": "2026-07-28T03:03:23Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-08-23",
     "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/947",
     "repo": "bianzhilong2-ctrl/agents-radar",
@@ -154,18 +167,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-02 04:01 UTC\n\n---\n\n<think>The user wants me to generate a structured AI open-source trend report based on GitHub trending data from 2026-07-02. Let me work through this carefully.\n\n**Step 1: Filtering AI-related projects from Trending (20 repos)**\n\nLet me go through each trending repo:\n\n1. **msitarzewski/agency-agents** [Shell] (+2114) - AI agency with specialized agents → ✅ AI Agent\n2. **usestrix/strix** [Python...",
     "created_at": "2026-07-02T04:08:16Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-07-28",
-    "url": "https://github.com/96loveslife/big_model_radar/issues/232",
-    "repo": "96loveslife/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
-    "created_at": "2026-07-28T03:03:23Z",
     "author": "github-actions[bot]",
     "amount": null
   },
