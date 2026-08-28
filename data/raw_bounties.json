@@ -1,5 +1,17 @@
 [
   {
+    "title": "scan: 2026-08-28 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/562",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery pass. Sources: `gh`/GitHub search (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, created in the last ~7 days, sorted by stars).\n\n## Candidates found\n\n| Repo | Stars | Disposition |\n|------|-------|-------------|\n| [pinoox/neuromesh](https://github.com/pinoox/neuromesh) | 72 | **added** — Code Understanding; leaves at `discovery-log` (P2, challenges `serena`) |\n| [tt-a1i/simplify-codebase](https://github.com/tt-a1i/simplif...",
+    "created_at": "2026-08-28T13:23:14Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-28",
     "url": "https://github.com/96loveslife/big_model_radar/issues/232",
     "repo": "96loveslife/big_model_radar",
@@ -45,18 +57,6 @@
     ],
     "body": "# AI Open Source Trends 2026-08-22\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-22 00:29 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-22\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by a surge in **agent skill/harness frameworks** — lightweight, local-first systems that augment AI coding agents (Claude Code, Codex, Cursor) with memory, skills, and security layers. Notably, `mattpocock/skills` and `obra/superpowers` are both trending hea...",
     "created_at": "2026-08-22T00:33:27Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-08-21",
-    "url": "https://github.com/Augustrains/agents-radar/issues/1088",
-    "repo": "Augustrains/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-08-21\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-21 00:32 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-21\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by a surge in **agent-native tooling**, with developer-centric skills, memory layers, and harness optimizations capturing the most attention. The trending list reveals a clear pivot from \"building models\" to \"orchestrating agents in production,\" highlig...",
-    "created_at": "2026-08-21T00:36:43Z",
     "author": "github-actions[bot]",
     "amount": null
   },
