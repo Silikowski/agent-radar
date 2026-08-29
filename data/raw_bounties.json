@@ -1,17 +1,5 @@
 [
   {
-    "title": "scan: 2026-08-28 daily discovery",
-    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/562",
-    "repo": "mattbutlerengineering/ai-tooling",
-    "labels": [
-      "scan"
-    ],
-    "body": "Daily discovery pass. Sources: `gh`/GitHub search (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, created in the last ~7 days, sorted by stars).\n\n## Candidates found\n\n| Repo | Stars | Disposition |\n|------|-------|-------------|\n| [pinoox/neuromesh](https://github.com/pinoox/neuromesh) | 72 | **added** — Code Understanding; leaves at `discovery-log` (P2, challenges `serena`) |\n| [tt-a1i/simplify-codebase](https://github.com/tt-a1i/simplif...",
-    "created_at": "2026-08-28T13:23:14Z",
-    "author": "mattbutlerengineering",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-07-28",
     "url": "https://github.com/96loveslife/big_model_radar/issues/232",
     "repo": "96loveslife/big_model_radar",
