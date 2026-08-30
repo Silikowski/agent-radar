@@ -13,18 +13,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-08-23",
-    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/947",
-    "repo": "bianzhilong2-ctrl/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-23 00:43 UTC\n\n---\n\n**AI 开源趋势日报**  \n\n---\n\n### 1. 今日速览  \n- 今天的 GitHub Trending 中，**AI 编码助手**、**多智能体工作流**以及**向量检索**三大方向呈爆发式增长。  \n- 新晋的 **Mojo**语言和 **sub2api**多模型订阅平台首次登上热榜，显示出社区对**轻量化推理**和**成本分摊**的强烈关注。  \n- 早在前段时间发布的大模型（如 Claude‑3、Gemini）仍在带动上游框架和推理引擎的迭代，导致相关项目的 star 增速显著。  \n\n---\n\n### 2. 各维度热门项目  \n\n#### 🔧 AI 基础工具  \n| 项目 | Stars (总/今天) | 简述 |\n|------|----------------|------|\n| [openai/codex](https://github​.com/open...",
-    "created_at": "2026-08-23T01:01:52Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-08-22",
     "url": "https://github.com/yurtsWunewbie/agent-radar_trial/issues/126",
     "repo": "yurtsWunewbie/agent-radar_trial",
