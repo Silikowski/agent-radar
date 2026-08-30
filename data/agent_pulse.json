@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:40:47.825Z",
+  "generated_at": "2026-08-30T13:38:46.155Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -25,18 +25,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
       "created_at": "2026-07-28T03:03:23Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-23",
-      "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/947",
-      "repo": "bianzhilong2-ctrl/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-23 00:43 UTC\n\n---\n\n**AI 开源趋势日报**  \n\n---\n\n### 1. 今日速览  \n- 今天的 GitHub Trending 中，**AI 编码助手**、**多智能体工作流**以及**向量检索**三大方向呈爆发式增长。  \n- 新晋的 **Mojo**语言和 **sub2api**多模型订阅平台首次登上热榜，显示出社区对**轻量化推理**和**成本分摊**的强烈关注。  \n- 早在前段时间发布的大模型（如 Claude‑3、Gemini）仍在带动上游框架和推理引擎的迭代，导致相关项目的 star 增速显著。  \n\n---\n\n### 2. 各维度热门项目  \n\n#### 🔧 AI 基础工具  \n| 项目 | Stars (总/今天) | 简述 |\n|------|----------------|------|\n| [openai/codex](https://github​.com/open...",
-      "created_at": "2026-08-23T01:01:52Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -134,6 +122,18 @@
       ],
       "body": "# AI Open Source Trends 2026-08-04\n\n> Sources: GitHub Trending + GitHub Search API (AI, big data, data analysis, data mining trends) | Generated: 2026-08-04 06:36 UTC\n\n---\n\nGot it, let's tackle this step by step. First, I need to follow the instructions exactly: filter, categorize, then output the report.\nFirst, Step 1: Filter out non-AI/ML related repos from the trending list first. Let's look at the 16 trending repos:\n1. lyogavin/airllm: AI inference, yes.\n2. zhaoxuya520/reverse-skill: Wait, i...",
       "created_at": "2026-08-04T06:45:06Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-06",
+      "url": "https://github.com/litang9/big_model_radar/issues/324",
+      "repo": "litang9/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-06 13:05 UTC\n\n---\n\n这份《AI 开源趋势日报》基于 2026 年 8 月 6 日的 GitHub Trending 及主题搜索数据，经过严格筛选、去重与分类，为您提炼当前 AI 开源生态的核心动向。\n\n---\n\n# 📰 AI 开源趋势日报 (2026-08-06)\n\n## 1. 今日速览\n今日 GitHub AI 领域最显著的动向是**“AI Agent 技能化与记忆持久化”**的全面爆发。以 `mattpocock/skills` 和 `obra/superpowers` 为代表的智能体技能库强势登顶 Trending 榜，标志着 AI 编程助手正从“通用对话”转向“调用专家技能”的工程化落地阶段。同时，腾讯等大厂入局 Agent 记忆基础设施，解决了长任务流中的状态丢失痛点。此外，DeepSeek 生态的终端原生 Agent 迎来高增长，基于代码图谱的上下文优化工具成为开发者新宠。\n\n---\n\n#...",
+      "created_at": "2026-08-06T13:10:10Z",
       "author": "github-actions[bot]",
       "amount": null
     }
