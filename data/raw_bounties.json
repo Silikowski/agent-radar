@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-09-01",
+    "url": "https://github.com/boom7sss/agents-radar/issues/681",
+    "repo": "boom7sss/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-01 12:03 UTC\n\n---\n\n## 《AI 开源趋势日报》— 2026-09-01\n\n---\n\n### 一、今日速览\n\n今日 AI 开源生态呈现出鲜明的“智能体工具链”主导特征：从智能体操作系统（ECC）、科研 Agent 技能库（scientific-agent-skills）到多智能体交互课堂（OpenMAIC），大量项目围绕 Agent 的开发效率与能力扩展展开。值得关注的是，面向垂直领域（科研、专利、教育）的 Agent 技能包集中登榜，而“技能（Skills）”正成为继 Prompt 之后的新一代标准化交付物。大模型训练入门项目（minimind）与本地化 AI 应用（VoiceStudio）同样持续获得高关注度，反映了社区在“模型能力普及”与“AI 应用私有化”两条主线上的并行探索。\n\n---\n\n### 二、各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n...",
+    "created_at": "2026-09-01T12:06:40Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-07-28",
     "url": "https://github.com/96loveslife/big_model_radar/issues/232",
     "repo": "96loveslife/big_model_radar",
