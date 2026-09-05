@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-09-05",
+    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/1126",
+    "repo": "bianzhilong2-ctrl/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-09-05\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-05 02:04 UTC\n\n---\n\nHere's a thinking process:\n\n1.  **Analyze User Request:**\n   - User wants a structured AI Open Source Trends Report\n   - Based on provided GitHub trending data (2026-09-05) and AI topic search results\n   - Step 1: Filter for AI relevance, exclude non-AI projects\n   - Step 2: Categorize into specific categories\n   - Step 3: Output report with 4 sections\n   - Style: English, p...",
+    "created_at": "2026-09-05T02:13:00Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-09-04",
     "url": "https://github.com/boom7sss/agents-radar/issues/705",
     "repo": "boom7sss/agents-radar",
@@ -8,30 +20,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-09-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-04 11:44 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-04）\n\n\n## 一、今日速览\n\n今日 AI 开源社区的热度明显向 **AI Agent 的\"外围支撑层\"** 集中：Agent Skills 体系（prompt/技能包）、上下文记忆管理、本地推理服务成为三大焦点。mattpocock/skills 与 anthropics/skills 双双登榜，标志着\"技能即代码\"的工程化生态正在加速成型。与此同时，google-research/timesfm 以日增 1,618 stars 印证了时序基础模型作为独立赛道的崛起。值得注意的还有一条暗线——多家机构发布 Agent 提示词压缩与\"去 AI 味\"技能（caveman、humanizer），说明生产级 Agent 应用正进入\"成本优化与拟人化\"的精细化阶段。\n\n\n## 二、各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推理引擎...",
     "created_at": "2026-09-04T11:47:07Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-09-04",
-    "url": "https://github.com/duanyytop/agents-radar/issues/3093",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-09-04\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-04 00:19 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-04**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric tooling and infrastructure, with *agent skills*, *memory layers*, and *context optimization* emerging as dominant themes. Projects like **affaan-m/ECC**, **NousResearch/hermes-agent**, and **JuliusBrussee/caveman** are captur...",
-    "created_at": "2026-09-04T00:24:26Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-09-04",
-    "url": "https://github.com/duanyytop/agents-radar/issues/3092",
-    "repo": "duanyytop/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-09-04\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-04 00:19 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-04**\n\n---\n\n## **1. 今日亮点**\n\nAI 开源生态正迎来以“智能体”为中心的工具与基础设施爆发，**智能体技能**、**记忆层**和**上下文优化**成为主导主题。项目如 **affaan-m/ECC**、**NousResearch/hermes-agent** 以及 **JuliusBrussee/caveman** 因能够打造更智能、更轻量、更自主的 AI 编码智能体（尤其适用于 Claude Code 及类似 CLI 环境）而引发广泛关注。**f/prompts.chat** 的迅猛增长（新增 168 颗星）反映出社区对提示词整理和自托管 LLM 工作流的需求持续上升。与此同时，**google-research/timesfm** 作为时间序列预测领域的重大基础模型发布，凸显了领域专用 LLM 的日趋成熟。\n...",
-    "created_at": "2026-09-04T00:24:25Z",
     "author": "github-actions[bot]",
     "amount": null
   },
