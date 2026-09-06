@@ -1,5 +1,41 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-09-06",
+    "url": "https://github.com/howe12/agents-radar/issues/441",
+    "repo": "howe12/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-06 02:23 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-09-06\n\n---\n\n## 第一步：筛选结果\n\n**Trending 榜单非 AI 项目（已排除）：**\n- `fmtlib/fmt` — C++ 格式化库\n- `BraveOPotato/FckSignups` — 无注册工具清单\n- `bikini/exploitarium` — 漏洞利用归档\n- `nvm-sh/nvm` — Node 版本管理\n\n**剩余 Trending 榜单 AI 相关项目：12 个**\n\n**AI 主题搜索结果：146 个仓库全部保留**（均来自 ai-agent / llm / ml / rag / robotics / embodied-ai / vector-db / rl / ros / llm-model / robot-learning 主题标签）。\n\n---\n\n## 第二步：分类结果\n\n> 注：一个项...",
+    "created_at": "2026-09-06T02:30:52Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-09-06",
+    "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/1140",
+    "repo": "bianzhilong2-ctrl/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-09-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-06 01:59 UTC\n\n---\n\n# AI Open Source Ecosystem Daily Trends Report\n**Date: 2026-09-06**\n\n---\n\n## 1. Today's Highlights\n\nThe AI open-source landscape today is overwhelmingly dominated by the **Agent Skills / Agent Harness** meta-layer — 8 of the top 16 trending repositories are skill libraries, harness systems, or optimization frameworks targeting Claude Code, Codex, and other coding agents. Thi...",
+    "created_at": "2026-09-06T02:07:11Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "scan: 2026-09-05 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/586",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery-and-triage pass. GitHub searches: `topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, each `created:>2026-08-29`, sorted by stars; general keyword sweeps for coding-agent tooling. Dedup against `CATALOG.md` by repo slug and display name (case-insensitive).\n\n## Candidates found\n\n| Candidate | One-liner | Disposition |\n|---|---|---|\n| [2akouwu/reverify](https://github.com/2akouwu/reverify) | MCP server + CLI forcing agent claims ...",
+    "created_at": "2026-09-05T13:23:17Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-09-05",
     "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/1126",
     "repo": "bianzhilong2-ctrl/agents-radar",
