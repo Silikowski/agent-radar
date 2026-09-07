@@ -1,5 +1,17 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-09-07",
+    "url": "https://github.com/boom7sss/agents-radar/issues/728",
+    "repo": "boom7sss/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-07\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-07 13:01 UTC\n\n---\n\n## AI 开源趋势日报（2026-09-07）\n\n### 1. 今日速览\n\n今日 AI 开源生态呈现 **AI Agent 工具链深度优化** 与 **头部框架持续稳态增长** 双主线格局。Trending 榜中 **Agent 性能优化与上下文管理** 类项目集中爆发（ECC、context-mode、headroom 等），今日新增 Stars 合计超 2,600，表明社区正聚焦于解决 Agent 在生产环境中的效率与成本痛点。AI 相关性过滤后，Trending 榜 14 个项目中有 **11 个与 AI 直接相关**，占比近 8 成，其中开源无头浏览器（lightpanda、camofox）首次成规模亮相，指向 **AI 代理浏览器专用化** 方向。基础层重点项目（AutoGPT、AutoHedge、deer-flow、ruflo）均围绕 **多智能体编排** 展开，LLM...",
+    "created_at": "2026-09-07T13:04:26Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-09-06",
     "url": "https://github.com/howe12/agents-radar/issues/441",
     "repo": "howe12/agents-radar",
