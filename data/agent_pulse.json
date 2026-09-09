@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:40:57.401Z",
+  "generated_at": "2026-09-09T12:47:46.387Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-09-09",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/146",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-09-09\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-09 00:33 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-09**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing explosive momentum around *agent orchestration*, *context optimization*, and *skill-based agentic workflows*. Projects like **affaan-m/ECC** and **mksglu/context-mode** are driving a new wave of performance engineering for AI coding agents, reducing ...",
+      "created_at": "2026-09-09T00:37:38Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-09",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/145",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-09 00:33 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-09**\n\n---\n\n## **1. 今日亮点**\n\nAI 开源生态正围绕 *代理编排*、*上下文优化* 和 *基于技能的代理工作流* 迎来爆发式增长。像 **affaan-m/ECC** 与 **mksglu/context-mode** 这样的项目正在推动新一代 AI 编码代理的性能工程，将令牌使用量降低高达 98%，同时显著提升可靠性。**MCP（多代理通信协议）** 作为统一标准的崛起在热门仓库中表现明显，平台如 **lobehub/lobehub**、**n8n-io/n8n** 以及 **langgenius/dify** 正在构建全栈代理运营体系。此外，**Claude Code 特定工具链** 的兴起——包括技能、记忆层和浏览器自动化——标志着一种向专业化、高性能 AI 开发环境的转变，专为高级开发者量身打造。\n\n---...",
+      "created_at": "2026-09-09T00:37:38Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-09-07",
       "url": "https://github.com/boom7sss/agents-radar/issues/728",
@@ -88,18 +112,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-09-01",
-      "url": "https://github.com/boom7sss/agents-radar/issues/681",
-      "repo": "boom7sss/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-01\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-01 12:03 UTC\n\n---\n\n## 《AI 开源趋势日报》— 2026-09-01\n\n---\n\n### 一、今日速览\n\n今日 AI 开源生态呈现出鲜明的“智能体工具链”主导特征：从智能体操作系统（ECC）、科研 Agent 技能库（scientific-agent-skills）到多智能体交互课堂（OpenMAIC），大量项目围绕 Agent 的开发效率与能力扩展展开。值得关注的是，面向垂直领域（科研、专利、教育）的 Agent 技能包集中登榜，而“技能（Skills）”正成为继 Prompt 之后的新一代标准化交付物。大模型训练入门项目（minimind）与本地化 AI 应用（VoiceStudio）同样持续获得高关注度，反映了社区在“模型能力普及”与“AI 应用私有化”两条主线上的并行探索。\n\n---\n\n### 二、各维度热门项目\n\n#### 🔧 AI 基础工具（框架、SDK、推理引擎、开发工具、CLI）\n...",
-      "created_at": "2026-09-01T12:06:40Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-07-28",
       "url": "https://github.com/96loveslife/big_model_radar/issues/232",
       "repo": "96loveslife/big_model_radar",
@@ -121,18 +133,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-22\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-22 01:09 UTC\n\n---\n\n好的，这是为你准备的《AI 开源趋势日报》。\n\n---\n\n## 📅 AI 开源趋势日报（2026-08-22）\n\n### 1. 今日速览\n\n今日 AI 开源社区呈现出 **“智能体工程化”** 的显著特征。一方面，围绕 Claude Code、Cursor 等 AI 编码代理的 **Skills（技能）框架** 和 **性能优化/上下文管理工具** 异军突起，成为今日增长最快的细分领域，这体现了社区从“能用AI写代码”向“如何高效、稳定地使用AI写代码”的演进。另一方面，**本地优先** 和 **数据隐私** 意识持续增强，从本地优先的 AI Agent 工作区到无需向量库的 RAG 方案，都获得了极高的关注度。同时，AI 正加速向求职、视频生成等垂直应用场景渗透，开源项目正在将 AI 能力转化为具体的生产力工具。\n\n### 2. 各维度热门项目\n\n#### 🔧 AI 基础工具（...",
       "created_at": "2026-08-22T01:16:41Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-08-22",
-      "url": "https://github.com/Augustrains/agents-radar/issues/1101",
-      "repo": "Augustrains/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-08-22\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-08-22 00:29 UTC\n\n---\n\n# AI Open Source Trends Report — 2026-08-22\n\n## 1. Today's Highlights\n\nThe AI open-source ecosystem today is dominated by a surge in **agent skill/harness frameworks** — lightweight, local-first systems that augment AI coding agents (Claude Code, Codex, Cursor) with memory, skills, and security layers. Notably, `mattpocock/skills` and `obra/superpowers` are both trending hea...",
-      "created_at": "2026-08-22T00:33:27Z",
       "author": "github-actions[bot]",
       "amount": null
     }
