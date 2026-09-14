@@ -1,5 +1,30 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-08-15",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/330",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending",
+      "archived"
+    ],
+    "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
+    "created_at": "2026-08-15T01:37:26Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-09-14",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/489",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
+    "created_at": "2026-09-14T04:23:24Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-09-13",
     "url": "https://github.com/boom7sss/agents-radar/issues/777",
     "repo": "boom7sss/agents-radar",
@@ -71,18 +96,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-09-07",
-    "url": "https://github.com/boom7sss/agents-radar/issues/728",
-    "repo": "boom7sss/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-09-07\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-07 13:01 UTC\n\n---\n\n## AI 开源趋势日报（2026-09-07）\n\n### 1. 今日速览\n\n今日 AI 开源生态呈现 **AI Agent 工具链深度优化** 与 **头部框架持续稳态增长** 双主线格局。Trending 榜中 **Agent 性能优化与上下文管理** 类项目集中爆发（ECC、context-mode、headroom 等），今日新增 Stars 合计超 2,600，表明社区正聚焦于解决 Agent 在生产环境中的效率与成本痛点。AI 相关性过滤后，Trending 榜 14 个项目中有 **11 个与 AI 直接相关**，占比近 8 成，其中开源无头浏览器（lightpanda、camofox）首次成规模亮相，指向 **AI 代理浏览器专用化** 方向。基础层重点项目（AutoGPT、AutoHedge、deer-flow、ruflo）均围绕 **多智能体编排** 展开，LLM...",
-    "created_at": "2026-09-07T13:04:26Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "scan: 2026-09-05 daily discovery",
     "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/586",
     "repo": "mattbutlerengineering/ai-tooling",
@@ -129,18 +142,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-07-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-16 03:12 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on GitHub trending data and AI topic search results from 2026-07-16. Let me carefully analyze the data, filter AI-relevant projects, categorize them, and produce the report.\n\nLet me go through the data:\n\n**Step 1: Filtering**\n\nTrending list (13 repos) - AI related ones:\n1. OpenCut-app/OpenCut - video edi...",
     "created_at": "2026-07-16T03:19:55Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-08-15",
-    "url": "https://github.com/96loveslife/big_model_radar/issues/330",
-    "repo": "96loveslife/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
-    "created_at": "2026-08-15T01:37:26Z",
     "author": "github-actions[bot]",
     "amount": null
   },
