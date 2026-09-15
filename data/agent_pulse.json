@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:49:04.452Z",
+  "generated_at": "2026-09-15T13:15:17.456Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-15",
+      "url": "https://github.com/howe12/agents-radar/issues/504",
+      "repo": "howe12/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-15 02:54 UTC\n\n---\n\n#  AI 开源趋势日报 · 2026-09-15\n\n---\n\n## 第一步：AI 相关性筛选\n\n**Trending 榜单（20个）筛除 5 个非 AI 项目：**\n- ❌ `localsend/localsend`（AirDrop 替代）\n- ❌ `dani-garcia/vaultwarden`（密码管理器）\n- ❌ `ever-co/ever-gauzy`（ERP/CRM）\n- ❌ `reconurge/flowsint`（传统安全调查）\n- ❌ `peetzweg/opendisplay`（显示器扩展）\n\n**保留 15 个 AI/ML 项目进入分析。**\n\n---\n\n## 今日速览\n\n今日 GitHub 趋势被 **AI Agent 生态**全面主导：围绕 Claude Code / Codex / Cursor 的\"插件、技能、上下文\"类项目密集登榜（agent-ski...",
+      "created_at": "2026-09-15T03:00:14Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-08-15",
       "url": "https://github.com/96loveslife/big_model_radar/issues/330",
@@ -121,19 +133,6 @@
       "body": "Daily discovery-and-triage pass. GitHub searches: `topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, each `created:>2026-08-29`, sorted by stars; general keyword sweeps for coding-agent tooling. Dedup against `CATALOG.md` by repo slug and display name (case-insensitive).\n\n## Candidates found\n\n| Candidate | One-liner | Disposition |\n|---|---|---|\n| [2akouwu/reverify](https://github.com/2akouwu/reverify) | MCP server + CLI forcing agent claims ...",
       "created_at": "2026-09-05T13:23:17Z",
       "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-07-28",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/232",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-07-28\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-07-28 02:54 UTC\n\n---\n\n<think>Let me analyze this data carefully. I need to:\n\n1. Filter AI/ML related projects from both the Trending list and the topic search results\n2. Categorize them into 5 dimensions\n3. Generate a structured report\n\nLet me start by filtering:\n\n**From Trending (15 repos):**\n1. bitchat - bluetooth mesh chat → NOT AI\n2. amnezia-vpn - VPN client → NOT AI\n3. moeru-ai/airi - Self-hosted Grok Companion...",
-      "created_at": "2026-07-28T03:03:23Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
