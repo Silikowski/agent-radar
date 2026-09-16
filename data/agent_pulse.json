@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:15:17.456Z",
+  "generated_at": "2026-09-16T13:13:45.062Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,40 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-16",
+      "url": "https://github.com/boom7sss/agents-radar/issues/799",
+      "repo": "boom7sss/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-16 12:07 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-16）\n\n## 一、今日速览\n\n今日 AI 开源热点高度集中在**「Agent 技能（Skills）+ 上下文/记忆优化」**这一新赛道：Cloudflare、Anthropic、微软前工程师（addyosmani）同日上榜各自的 agent skill 仓库，说明「技能即插件」正成为 coding agent 生态的标准扩展方式。与此同时，**降低 token 成本与本地化部署**成为主线——colibri 在消费级硬件上跑前沿 MoE、caveman 与 headroom 通过压缩上下文削减 token，直击推理成本痛点。RAG/知识库侧则从「向量检索」向「结构化知识图谱 + 持久记忆」演进。企业级玩家持续入场，阿里、腾讯同日推出代码审查与知识平台产品。\n\n---\n\n## 二、各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、推...",
+      "created_at": "2026-09-16T12:09:49Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "Open Source Radar — 2026-09-16",
+      "url": "https://github.com/sourav-ojha/open-source-radar/issues/24",
+      "repo": "sourav-ojha/open-source-radar",
+      "labels": [],
+      "body": "# Open Source Radar — 2026-09-16\n_Rotation slot 1 — AI agents, MCP, coding productivity_\n\n## Executive Summary\nToday's discovery pass surfaced a small number of genuinely differentiated finds inside\na very noisy AI-agent-tooling landscape (dozens of near-identical memory/gateway/agent\norchestration repos again dominated raw search results — the same saturated waves flagged\non prior runs). The standouts split into two useful clusters: agent-native project state\n(Beads' dependency-graph task track...",
+      "created_at": "2026-09-16T06:40:24Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-16",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/1256",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-16\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-15 22:15 UTC\n\n---\n\n# AI开源趋势日报（2026-09-16）\n\n---\n\n## 1. 今日速览\n\n1. **AI Agent 热度持热**：多款Agent框架与工具连日登榜，社区聚焦本地化、数据隐私及多模态协作能力。  \n2. **轻量化推理崛起**：C/C++/Rust语言的MoE模型部署工具（如Colibri）引发广泛关注，低资源环境下的AI落地可能加速。  \n3. **RAG生态深化**：向量数据库与检索增强技术持续迭代，MCP协议逐渐成为Agent核心能力的标准化接口。  \n4. **垂直场景AI破局**：语音合成（VoiceStudio）、本地办公（LibreChat、Dify）等工具正加速向消费级与企业级场景渗透。\n\n---\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具\n- **[alibaba/open-code-review](https://github​.com/...",
+      "created_at": "2026-09-15T22:24:25Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-09-15",
       "url": "https://github.com/howe12/agents-radar/issues/504",
@@ -99,40 +133,6 @@
       "body": "# AI 开源趋势日报 2026-09-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-12 13:09 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-12）\n\n## 1. 今日速览\n\n今日热榜呈现两个清晰信号：一是 **Agent 基础设施的\"降本增效\"竞赛**正式登台，`caveman`（砍掉 65% token）、`headroom`（压缩工具输出与 RAG 块）、`claude-mem`（跨会话持久上下文）在同一日被推到主题榜前列，社区开始从\"造 Agent\"转向\"让 Agent 跑得起、记得住\"。二是 **垂直场景 Agent 密集落地**：数学建模（MathModelAgent）、量化交易（CloddsBot）、渗透测试（pentagi、Claude-Red）、求职（career-ops）、股票分析（daily_stock_analysis）在同一批次出现，说明 Agent 已从通用对话走向\"可交付成果\"的行业工具。此外，`asgeirtj/system_prompts_leaks...",
       "created_at": "2026-09-12T13:11:35Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-10",
-      "url": "https://github.com/boom7sss/agents-radar/issues/754",
-      "repo": "boom7sss/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-10\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-10 10:02 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-10）\n\n## 1. 今日速览\n\n今日热榜几乎被「Agent 效能层」占领：从输出风格（i-have-adhd）、技能框架（superpowers）、上下文压缩（caveman、headroom）到记忆与工程方法论（ECC、claude-mem），围绕 Claude Code / Codex 等编码 Agent 的「外壳优化」形成了明显的集群爆发。与此同时，Agent 能力正加速向垂直专业场景渗透，CAD/CAE/CAM、图表设计、金融交易、求职等领域的 Agent Skills 集中登榜。传统基础设施（TensorFlow、PyTorch、scikit-learn、Ollama）仍是长期基石，但今日增量热度明显偏向「轻量、即插即用的 Agent 技能与上下文治理」。\n\n## 2. 各维度热门项目\n\n### 🔧 AI 基础工具（框架、SDK、...",
-      "created_at": "2026-09-10T10:05:59Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "Agent sandboxing (4.9): include isolation through allowed services",
-      "url": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/pull/218",
-      "repo": "OWASP/www-project-ai-security-and-privacy-guide",
-      "labels": [],
-      "body": "## Change\n\nAgents may be allowed to use shared services such as package repositories and caches. Without appropriate restrictions, those services can let agents exchange data or access networks they should not be able to reach.\n\nThis PR adds guidance to section 4.9 on restricting access through shared services and checking those restrictions after recovery. An example from OpenAI’s Hugging Face incident postmortem shows how agents used a package service for unauthorised internet access and commu...",
-      "created_at": "2026-09-09T23:09:03Z",
-      "author": "zachary-satterly",
-      "amount": null
-    },
-    {
-      "title": "scan: 2026-09-05 daily discovery",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/586",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [
-        "scan"
-      ],
-      "body": "Daily discovery-and-triage pass. GitHub searches: `topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, each `created:>2026-08-29`, sorted by stars; general keyword sweeps for coding-agent tooling. Dedup against `CATALOG.md` by repo slug and display name (case-insensitive).\n\n## Candidates found\n\n| Candidate | One-liner | Disposition |\n|---|---|---|\n| [2akouwu/reverify](https://github.com/2akouwu/reverify) | MCP server + CLI forcing agent claims ...",
-      "created_at": "2026-09-05T13:23:17Z",
-      "author": "mattbutlerengineering",
       "amount": null
     }
   ]
