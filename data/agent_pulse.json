@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:13:45.062Z",
+  "generated_at": "2026-09-17T13:08:27.397Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-09-17",
+      "url": "https://github.com/stevenko2002/agents-radar/issues/1274",
+      "repo": "stevenko2002/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-09-17\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-16 22:15 UTC\n\n---\n\nI'll parse through the data and filter for AI-related repos (both Trending and Topic Search). Then categorize according to the categories.\n\nLet's start with the \"GitHub Today's Trending (21 repositories)\" list. I'll pick those clearly AI/ML related.\n\nFrom trending list:\n- alibaba/open-code-review: Hybrid architecture code review tool, deterministic pipelines + LLM Agent. AI ...",
+      "created_at": "2026-09-16T22:30:32Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-09-16",
       "url": "https://github.com/boom7sss/agents-radar/issues/799",
@@ -120,18 +132,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
       "created_at": "2026-09-13T04:15:22Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-12",
-      "url": "https://github.com/boom7sss/agents-radar/issues/770",
-      "repo": "boom7sss/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-12 13:09 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-12）\n\n## 1. 今日速览\n\n今日热榜呈现两个清晰信号：一是 **Agent 基础设施的\"降本增效\"竞赛**正式登台，`caveman`（砍掉 65% token）、`headroom`（压缩工具输出与 RAG 块）、`claude-mem`（跨会话持久上下文）在同一日被推到主题榜前列，社区开始从\"造 Agent\"转向\"让 Agent 跑得起、记得住\"。二是 **垂直场景 Agent 密集落地**：数学建模（MathModelAgent）、量化交易（CloddsBot）、渗透测试（pentagi、Claude-Red）、求职（career-ops）、股票分析（daily_stock_analysis）在同一批次出现，说明 Agent 已从通用对话走向\"可交付成果\"的行业工具。此外，`asgeirtj/system_prompts_leaks...",
-      "created_at": "2026-09-12T13:11:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
