@@ -1,5 +1,29 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-09-19",
+    "url": "https://github.com/duanyytop/agents-radar/issues/3343",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-09-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-19 00:35 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-19**\n\n---\n\n### **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric development, with tools like **Claude Code**, **Tencent’s BrowserSkill**, and **affaan-m/ECC** leading explosive growth—each gaining over 950 new stars today. A clear trend toward *agent orchestration*, *context persistence*...",
+    "created_at": "2026-09-19T00:45:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-09-19",
+    "url": "https://github.com/duanyytop/agents-radar/issues/3342",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-19 00:35 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-19**\n\n---\n\n### **1. 今日亮点**\n\nAI 开源生态正迎来以“智能体”为中心的开发浪潮，**Claude Code**、**腾讯的 BrowserSkill** 以及 **affaan-m/ECC** 等工具呈现爆发式增长——今日均新增超过 950 颗星。一个清晰的趋势正在形成：*智能体编排*、*上下文持久化* 和 *浏览器自动化*，这背后是智能体编程工作流兴起的驱动。值得注意的是，**alibaba/open-code-review** 与 **Fission-AI/OpenSpec** 突显了对安全、确定性及规范驱动型 AI 编程实践日益增长的需求。与此同时，**SuperMemoryAI/supermemory** 与 **thedotmack/claude-mem** 则表明，具备持久记忆能力的智能体正受到越来...",
+    "created_at": "2026-09-19T00:45:21Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-09-18",
     "url": "https://github.com/stevenko2002/agents-radar/issues/1294",
     "repo": "stevenko2002/agents-radar",
