@@ -1,25 +1,37 @@
 [
   {
-    "title": "📈 AI Open Source Trends 2026-09-19",
-    "url": "https://github.com/duanyytop/agents-radar/issues/3343",
-    "repo": "duanyytop/agents-radar",
+    "title": "📈 AI 开源趋势日报 2026-09-20",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/520",
+    "repo": "96loveslife/big_model_radar",
     "labels": [
-      "trending-en"
+      "trending"
     ],
-    "body": "# AI Open Source Trends 2026-09-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-19 00:35 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-19**\n\n---\n\n### **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric development, with tools like **Claude Code**, **Tencent’s BrowserSkill**, and **affaan-m/ECC** leading explosive growth—each gaining over 950 new stars today. A clear trend toward *agent orchestration*, *context persistence*...",
-    "created_at": "2026-09-19T00:45:21Z",
+    "body": "# AI 开源趋势日报 2026-09-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-20 04:22 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending AI repositories from 2026-09-20 and produce a structured daily report. Let me go through the data carefully.\n\n**Step 1: Filter AI-related projects from Trending list (15 repos)**\n\n1. cloudflare/security-audit-skill [JavaScript] +3155 today - \"A coding-agent skill for multi-phase security audits\" - AI-related (coding agent skill) ✅\n2. trycua/cu...",
+    "created_at": "2026-09-20T04:25:21Z",
     "author": "github-actions[bot]",
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-09-19",
-    "url": "https://github.com/duanyytop/agents-radar/issues/3342",
+    "title": "📈 AI Open Source Trends 2026-09-20",
+    "url": "https://github.com/duanyytop/agents-radar/issues/3380",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-09-20\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-20 00:27 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-20**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing explosive momentum in **agent-centric tooling and infrastructure**, with projects enabling autonomous workflows, persistent memory, and secure execution environments gaining rapid adoption. Notably, **Claude Code** and **Anthropic’s plugin ecosystem*...",
+    "created_at": "2026-09-20T00:31:07Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-09-20",
+    "url": "https://github.com/duanyytop/agents-radar/issues/3379",
     "repo": "duanyytop/agents-radar",
     "labels": [
       "trending"
     ],
-    "body": "# AI 开源趋势日报 2026-09-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-19 00:35 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-19**\n\n---\n\n### **1. 今日亮点**\n\nAI 开源生态正迎来以“智能体”为中心的开发浪潮，**Claude Code**、**腾讯的 BrowserSkill** 以及 **affaan-m/ECC** 等工具呈现爆发式增长——今日均新增超过 950 颗星。一个清晰的趋势正在形成：*智能体编排*、*上下文持久化* 和 *浏览器自动化*，这背后是智能体编程工作流兴起的驱动。值得注意的是，**alibaba/open-code-review** 与 **Fission-AI/OpenSpec** 突显了对安全、确定性及规范驱动型 AI 编程实践日益增长的需求。与此同时，**SuperMemoryAI/supermemory** 与 **thedotmack/claude-mem** 则表明，具备持久记忆能力的智能体正受到越来...",
-    "created_at": "2026-09-19T00:45:21Z",
+    "body": "# AI 开源趋势日报 2026-09-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-20 00:27 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-20**\n\n---\n\n## **1. 今日亮点**\n\n当前 AI 开源生态正迎来以**代理为中心的工具与基础设施**的爆发式增长，支持自主工作流、持久记忆和安全执行环境的项目正迅速获得采纳。尤为突出的是 **Claude Code** 与 **Anthropic 的插件生态系统**，正推动智能体开发工具的热潮；同时，**RAG 与向量数据库** 的创新正朝着轻量化、保护隐私且可自托管的方向演进。**终端原生 AI 代理**（如 `cactus-compute/needle`、`esengine/DeepSeek-Reasonix`）的兴起，标志着向低延迟、设备端智能的转变。与此同时，由社区驱动的代理框架如 `Hermes-Agent` 与 `NanoBot`，也反映出市场对模块化、可扩展且本地部署的 AI 系统日益增长的需求。\n\n---...",
+    "created_at": "2026-09-20T00:31:07Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -119,18 +131,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-09-13",
-    "url": "https://github.com/boom7sss/agents-radar/issues/777",
-    "repo": "boom7sss/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 12:19 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-13）\n\n## 一、今日速览\n\n今日 GitHub 热榜的 AI 相关度呈现明显的\"应用层爆发\"特征：**语音生成**（VoiceStudio，+2546）、**空间情报可视化**（gods-eye-view，+2898）与**边缘端大模型推理**（colibri，+652）三条线同时冲高，说明社区注意力正从\"模型能力\"转向\"可用、可自托管、可落地的成品\"。与此同时，**Agent 技能生态**（agent-skills、Claude-Red、OpenMontage）密集登榜，围绕 Claude Code / Cursor / Copilot 的\"技能注册表 + 垂直技能库\"正在形成新的分发层。主题搜索结果则显示基础设施层格局已基本固化：Transformers、TensorFlow、PyTorch、Ollama、LangChain 等长青项目...",
-    "created_at": "2026-09-13T12:24:42Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "📈 AI 开源趋势日报 2026-08-14",
     "url": "https://github.com/96loveslife/big_model_radar/issues/325",
     "repo": "96loveslife/big_model_radar",
@@ -152,18 +152,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
     "created_at": "2026-09-13T04:15:22Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-09-12",
-    "url": "https://github.com/boom7sss/agents-radar/issues/770",
-    "repo": "boom7sss/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-09-12\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-12 13:09 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-12）\n\n## 1. 今日速览\n\n今日热榜呈现两个清晰信号：一是 **Agent 基础设施的\"降本增效\"竞赛**正式登台，`caveman`（砍掉 65% token）、`headroom`（压缩工具输出与 RAG 块）、`claude-mem`（跨会话持久上下文）在同一日被推到主题榜前列，社区开始从\"造 Agent\"转向\"让 Agent 跑得起、记得住\"。二是 **垂直场景 Agent 密集落地**：数学建模（MathModelAgent）、量化交易（CloddsBot）、渗透测试（pentagi、Claude-Red）、求职（career-ops）、股票分析（daily_stock_analysis）在同一批次出现，说明 Agent 已从通用对话走向\"可交付成果\"的行业工具。此外，`asgeirtj/system_prompts_leaks...",
-    "created_at": "2026-09-12T13:11:35Z",
     "author": "github-actions[bot]",
     "amount": null
   },
