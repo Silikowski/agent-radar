@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:26:24.062Z",
+  "generated_at": "2026-09-24T13:21:26.240Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -37,30 +37,6 @@
       "body": "# AI 开源趋势日报 2026-09-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-23 02:28 UTC\n\n---\n\nHere's a thinking process:\n\n1.  **Understand the Goal**: The user wants me to act as a technical analyst focused on the AI open source ecosystem. I need to process given GitHub data (Trending + AI topic search) for a specific date (2026-09-23), filter AI-related projects, categorize them, and generate a structured \"AI Open Source Trend Daily\" report.\n\n2.  **Analyze the Input Data**:\n   - **Tren...",
       "created_at": "2026-09-23T02:45:28Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-23",
-      "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/1486",
-      "repo": "Chestnuts-Sisyphus/gittok",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-22 22:31 UTC\n\n---\n\n# 📊 AI 开源趋势日报 (2026-09-23)\n\n作为专注于 AI 开源生态的技术分析师，我为您对今日的 GitHub AI 相关热门仓库进行了严格的筛选、分类与深度趋势分析。\n\n---\n\n## 一、 今日速览\n今日 GitHub AI 开源生态呈现出**“多智能体（Multi-Agent）走向生产与桌面化、大厂加速开源原生 Agent 基础设施”**的鲜明态势。Google 官方入局推出 Agent 编排运行时 `google/ax` 并空降热榜前列，标志着云巨头对 Agent 运行时标准争夺的白热化。同时，面向个人开发者的多智能体集成环境（如 `stablyai/orca`）和跨平台全功能执行 Agent（如 `openclaw/openclaw`）继续受到极高关注，表明 AI 应用层正从单一的“Chat”对话框形态，全面迈向“Fleet of Agents（智能体集群协...",
-      "created_at": "2026-09-22T22:44:51Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "scan: 2026-09-22 daily discovery",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/629",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [
-        "scan"
-      ],
-      "body": "Daily discovery pass for 2026-09-22. Searched GitHub (`topic:claude-skills`, `topic:claude-code`, `topic:mcp-server`, `topic:agent-skills`, `topic:ai-agents`, all `created:>2026-09-14`, sorted by stars) plus dedup against `CATALOG.md` by repo slug and display name.\n\n**Note on search noise:** this week's results are dominated by a coordinated promotional wave — dozens of repos across unrelated-looking accounts, all created within days of each other, all centered on a product called \"Jev\"/\"TypeSaf...",
-      "created_at": "2026-09-22T13:16:01Z",
-      "author": "mattbutlerengineering",
       "amount": null
     },
     {
@@ -131,6 +107,31 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
       "created_at": "2026-08-15T01:37:26Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-14",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/489",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
+      "created_at": "2026-09-14T04:23:24Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-08-14",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/325",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending",
+        "archived"
+      ],
+      "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
+      "created_at": "2026-08-14T02:27:19Z",
       "author": "github-actions[bot]",
       "amount": null
     }
