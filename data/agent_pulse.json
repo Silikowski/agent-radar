@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:21:26.240Z",
+  "generated_at": "2026-09-25T13:21:44.863Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,30 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI Open Source Trends 2026-09-25",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/384",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-09-25\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-25 00:46 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-25**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric tooling and infrastructure, with *agent memory*, *token optimization*, and *local-first agent orchestration* emerging as dominant themes. Notably, **vectorize-io/hindsight** and **google/ax** are capturing massive attention f...",
+      "created_at": "2026-09-25T00:49:36Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-25",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/383",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-25 00:46 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-25**\n\n---\n\n## **1. 今日亮点**\n\n当前的 AI 开源生态正迎来以“智能体”为中心的工具与基础设施爆发，其中 *智能体记忆*、*令牌优化* 和 *本地优先的智能体编排* 成为最突出的主题。值得注意的是，**vectorize-io/hindsight** 与 **google/ax** 因其支持持久化、基于学习的智能体记忆和生产级的智能体编排能力而获得广泛关注。以 *Claude Code* 为核心的工具如 **affaan-m/ECC**、**thedotmack/claude-mem** 以及 **rtk-ai/rtk** 的兴起，标志着智能体效率与上下文保留能力的生态系统日趋成熟。与此同时，**rohitg00/ai-engineering-from-scratch** 与 **jingyaogong/minim...",
+      "created_at": "2026-09-25T00:49:36Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "📈 AI Open Source Trends 2026-09-23",
       "url": "https://github.com/bianzhilong2-ctrl/agents-radar/issues/1275",
@@ -60,30 +84,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-09-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-20 04:22 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending AI repositories from 2026-09-20 and produce a structured daily report. Let me go through the data carefully.\n\n**Step 1: Filter AI-related projects from Trending list (15 repos)**\n\n1. cloudflare/security-audit-skill [JavaScript] +3155 today - \"A coding-agent skill for multi-phase security audits\" - AI-related (coding agent skill) ✅\n2. trycua/cu...",
       "created_at": "2026-09-20T04:25:21Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-09-18",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/1294",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-09-18\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-17 22:16 UTC\n\n---\n\nWe need to produce a structured AI open source trends report based on the data given. The user wants:\n\n- Step1: Filter for AI relevance: From both trending repositories and AI topic search, select projects clearly related to AI/ML. Exclude unrelated general tools, frontend frameworks, games, etc. Skip non-AI trending repos.\n\n- Step2: Categorize filtered projects into categor...",
-      "created_at": "2026-09-17T22:26:00Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-09-17",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/1274",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-09-17\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-16 22:15 UTC\n\n---\n\nI'll parse through the data and filter for AI-related repos (both Trending and Topic Search). Then categorize according to the categories.\n\nLet's start with the \"GitHub Today's Trending (21 repositories)\" list. I'll pick those clearly AI/ML related.\n\nFrom trending list:\n- alibaba/open-code-review: Hybrid architecture code review tool, deterministic pipelines + LLM Agent. AI ...",
-      "created_at": "2026-09-16T22:30:32Z",
       "author": "github-actions[bot]",
       "amount": null
     },
