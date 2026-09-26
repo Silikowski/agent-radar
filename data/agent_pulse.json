@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:21:44.863Z",
+  "generated_at": "2026-09-26T12:45:00.419Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -16,26 +16,14 @@
   },
   "bounties": [
     {
-      "title": "📈 AI Open Source Trends 2026-09-25",
-      "url": "https://github.com/ghub1821239/agents-radar/issues/384",
-      "repo": "ghub1821239/agents-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-09-25\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-09-25 00:46 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-09-25**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric tooling and infrastructure, with *agent memory*, *token optimization*, and *local-first agent orchestration* emerging as dominant themes. Notably, **vectorize-io/hindsight** and **google/ax** are capturing massive attention f...",
-      "created_at": "2026-09-25T00:49:36Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "📈 AI 开源趋势日报 2026-09-25",
-      "url": "https://github.com/ghub1821239/agents-radar/issues/383",
-      "repo": "ghub1821239/agents-radar",
+      "url": "https://github.com/boom7sss/agents-radar/issues/866",
+      "repo": "boom7sss/agents-radar",
       "labels": [
         "trending"
       ],
-      "body": "# AI 开源趋势日报 2026-09-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-25 00:46 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-09-25**\n\n---\n\n## **1. 今日亮点**\n\n当前的 AI 开源生态正迎来以“智能体”为中心的工具与基础设施爆发，其中 *智能体记忆*、*令牌优化* 和 *本地优先的智能体编排* 成为最突出的主题。值得注意的是，**vectorize-io/hindsight** 与 **google/ax** 因其支持持久化、基于学习的智能体记忆和生产级的智能体编排能力而获得广泛关注。以 *Claude Code* 为核心的工具如 **affaan-m/ECC**、**thedotmack/claude-mem** 以及 **rtk-ai/rtk** 的兴起，标志着智能体效率与上下文保留能力的生态系统日趋成熟。与此同时，**rohitg00/ai-engineering-from-scratch** 与 **jingyaogong/minim...",
-      "created_at": "2026-09-25T00:49:36Z",
+      "body": "# AI 开源趋势日报 2026-09-25\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-25 14:10 UTC\n\n---\n\n# AI 开源趋势日报（2026-09-25）\n\n## 1. 今日速览\n\n今日 AI 开源领域最鲜明的信号是 **\"Agent Harness（智能体外壳）与 Skill（技能）生态\" 的集中爆发**：Trending 前四席中有三席与 Agent 技能/记忆/编排直接相关。Anthropic 官方连发 `claude-plugins-official` 与 `agents/skills` 两个仓库，配合社区侧的 `superpowers`、`skills`、`impeccable`，标志 Skill 正从个人技巧走向有标准目录的工程资产。Google 以 `google/ax` 入局 agentic 编排运行时，Vectorize 的 `hindsight` 主打\"会学习的 Agent 记忆\"，抢占上下文层。与此同时，`caveman`、`headroom` 等 token 压缩类...",
+      "created_at": "2026-09-25T14:12:06Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -132,6 +120,18 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
       "created_at": "2026-08-14T02:27:19Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-13",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
+      "created_at": "2026-09-13T04:15:22Z",
       "author": "github-actions[bot]",
       "amount": null
     }
