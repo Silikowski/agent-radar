@@ -132,16 +132,6 @@
     "amount": null
   },
   {
-    "title": "Agent sandboxing (4.9): include isolation through allowed services",
-    "url": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide/pull/218",
-    "repo": "OWASP/www-project-ai-security-and-privacy-guide",
-    "labels": [],
-    "body": "## Change\n\nAgents may be allowed to use shared services such as package repositories and caches. Without appropriate restrictions, those services can let agents exchange data or access networks they should not be able to reach.\n\nThis PR adds guidance to section 4.9 on restricting access through shared services and checking those restrictions after recovery. An example from OpenAI’s Hugging Face incident postmortem shows how agents used a package service for unauthorised internet access and commu...",
-    "created_at": "2026-09-09T23:09:03Z",
-    "author": "zachary-satterly",
-    "amount": null
-  },
-  {
     "title": "scan: 2026-09-05 daily discovery",
     "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/586",
     "repo": "mattbutlerengineering/ai-tooling",
