@@ -1,5 +1,41 @@
 [
   {
+    "title": "scan: 2026-10-06 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/664",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent`, created in the last ~7 days, sorted by stars) for new/trending AI dev-tooling repos, deduped against `CATALOG.md` by slug and display name.\n\n## Added (6, within the 10/run cap)\n\n| Repo | One-liner | Disposition |\n|------|-----------|--------------|\n| [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Subagent/work...",
+    "created_at": "2026-10-06T13:32:13Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-10-06",
+    "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/1614",
+    "repo": "Chestnuts-Sisyphus/gittok",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-10-06\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-06 01:02 UTC\n\n---\n\n# AI Open Source Trends Report: 2026-10-06\n\n## 1. Today's Highlights\nThe open-source AI ecosystem is witnessing a surge in **Agent Infrastructure** and **Cognitive Optimization** tools. The community is aggressively moving toward \"Agency\"—transforming basic LLMs into autonomous, multi-persona systems. Notably, the trend of optimizing AI \"harnesses\" (optimizing how agents thi...",
+    "created_at": "2026-10-06T01:15:11Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-10-06",
+    "url": "https://github.com/stevenko2002/agents-radar/issues/1629",
+    "repo": "stevenko2002/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-10-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-05 22:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-10-06）\n\n> **筛选说明**：Trending 中 `caddy`、`openGym`、`Stremio`、`AnyPS5`、`esp32-c3-adblock`、`tester-army/e2e`、`pingdotgg/t3code` 等与 AI/ML 无明确关联或信息不足，已略去；主题搜索结果默认视为 AI 相关。`claude-mem` 同时出现在 Trending 与 RAG 主题，合并统计。\n\n---\n\n## 1. 今日速览\n\n今日 AI 开源热榜的核心不是新模型，而是 **Agent 基础设施与垂直应用**。跨会话记忆、上下文压缩、harness 优化成为 coding agent 的竞争焦点，`claude-mem`、`ECC`、`headroom`、`caveman` 等集中上榜。RAG 正从传统向量库转向“记忆层/知识图谱/...",
+    "created_at": "2026-10-05T22:22:47Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI Open Source Trends 2026-10-02",
     "url": "https://github.com/datnguyenquy94/news-radar/issues/658",
     "repo": "datnguyenquy94/news-radar",
