@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:19:29.967Z",
+  "generated_at": "2026-10-09T15:03:13.588Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-10-09",
+      "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/1638",
+      "repo": "Chestnuts-Sisyphus/gittok",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-10-09\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-09 00:02 UTC\n\n---\n\n# 📊 AI 开源趋势日报 (2026-10-09)\n\n---\n\n## 📌 第一步：AI 相关性筛选说明\n\n在今日的原始数据中，经过严格过滤：\n* **已剔除**：非 AI 领域的通用项目，如 `boykopovar/AnyPS5`（游戏逆向/系统移植）、`storytold/artcraft`（图形艺术创作引擎）、`public-apis`、`donnemartin/system-design-primer`、`vinta/awesome-python` 及 `awesome-selfhosted`。\n* **已保留**：明确聚焦于 AI 逆向工程、Agent 技能组、全平台 AI 操作及智能体开发方法论的核心项目。\n\n---\n\n## 🚀 第二 & 第三步：AI 开源趋势报告\n\n### 1. 今日速览\n今日 GitHub AI 开源生态呈现出从“单兵大模型”向“原生 Agen...",
+      "created_at": "2026-10-09T00:12:23Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "scan: 2026-10-06 daily discovery",
       "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/664",
@@ -36,30 +48,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-10-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-05 22:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-10-06）\n\n> **筛选说明**：Trending 中 `caddy`、`openGym`、`Stremio`、`AnyPS5`、`esp32-c3-adblock`、`tester-army/e2e`、`pingdotgg/t3code` 等与 AI/ML 无明确关联或信息不足，已略去；主题搜索结果默认视为 AI 相关。`claude-mem` 同时出现在 Trending 与 RAG 主题，合并统计。\n\n---\n\n## 1. 今日速览\n\n今日 AI 开源热榜的核心不是新模型，而是 **Agent 基础设施与垂直应用**。跨会话记忆、上下文压缩、harness 优化成为 coding agent 的竞争焦点，`claude-mem`、`ECC`、`headroom`、`caveman` 等集中上榜。RAG 正从传统向量库转向“记忆层/知识图谱/...",
       "created_at": "2026-10-05T22:22:47Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI Open Source Trends 2026-10-02",
-      "url": "https://github.com/datnguyenquy94/news-radar/issues/658",
-      "repo": "datnguyenquy94/news-radar",
-      "labels": [
-        "trending-en"
-      ],
-      "body": "# AI Open Source Trends 2026-10-02\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-02 05:15 UTC\n\n---\n\nLet me analyze the data and filter for AI-relevant projects, then categorize them and generate the report.\n\nFirst, let me go through all the repositories and identify which are AI/ML related:\n\n**Trending List (13 repos):**\n1. DietrichGebert/ponytail - \"Makes your AI agent think like the laziest senior dev in the room\" - AI agent tool ✓\n2. mattpocock/skills - \"Skills for Real...",
-      "created_at": "2026-10-02T05:32:11Z",
-      "author": "datnguyenquy94",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-10-02",
-      "url": "https://github.com/howe12/agents-radar/issues/633",
-      "repo": "howe12/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-10-02\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-02 03:34 UTC\n\n---\n\n# 🚀 AI 开源趋势日报 · 2026-10-02\n\n---\n\n## 今日速览\n\n今天的 GitHub Trending 几乎被 AI Agent 相关项目\"占领\"：从 NVIDIA 推出的 Agent 安全运行时 OpenShell（+2456 stars），到 mvschwarz/openrig 编排 Claude Code/Codex 多智能体团队，再到 mksglu/context-mode 对 Agent 上下文窗口做 98% 压缩优化——**AI Coding Agent 已从\"单兵工具\"迈入\"运行时+技能 + 上下文工程\"阶段，社区关注点从\"能不能用\"转向\"如何安全、可控、高效地规模化使用\"。** 同时，SIGGRAPH Asia 2026 的 UniMate 提示**多骨架动画大模型**正成为生成式 AI 的下一个垂直热点。\n\n---\n\n## 各维度热门项目\n\n#...",
-      "created_at": "2026-10-02T03:44:16Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -132,6 +120,18 @@
       ],
       "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
       "created_at": "2026-08-14T02:27:19Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-13",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
+      "created_at": "2026-09-13T04:15:22Z",
       "author": "github-actions[bot]",
       "amount": null
     }
