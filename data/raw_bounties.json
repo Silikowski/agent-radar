@@ -1,13 +1,11 @@
 [
   {
-    "title": "📈 AI Open Source Trends 2026-10-11",
-    "url": "https://github.com/Chestnuts-Sisyphus/gittok/issues/1663",
-    "repo": "Chestnuts-Sisyphus/gittok",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-10-11\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-10 23:06 UTC\n\n---\n\n# AI Open Source Trends Report (October 11, 2026)\n\n---\n\n## 1. Today's Highlights\nToday's GitHub trending ecosystem is heavily dominated by the rapid maturation of **AI coding agents** and standardized **agent skill frameworks**. Projects providing production-grade engineering extensions, structural memory, and developer-centric workflows (such as Claude Code and Codex integr...",
-    "created_at": "2026-10-10T23:15:43Z",
+    "title": "related-projects: GitHub scan 2026-10-11",
+    "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/23",
+    "repo": "pengqianhan/AI-Human-Research-OS",
+    "labels": [],
+    "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-08-12, at least 50 stars (100 and a research topic for skill repos), not archived or a fork, not already listed; ranked by number of matched queries, then stars. Descriptions are the repos' own GitHub descriptions...",
+    "created_at": "2026-10-11T22:58:39Z",
     "author": "github-actions[bot]",
     "amount": null
   },
