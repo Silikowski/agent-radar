@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:29:49.982Z",
+  "generated_at": "2026-10-13T15:39:36.029Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,43 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-13",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending",
+        "archived"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
+      "created_at": "2026-09-13T04:15:22Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI Open Source Trends 2026-10-13",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/656",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending-en"
+      ],
+      "body": "# AI Open Source Trends 2026-10-13\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-13 03:09 UTC\n\n---\n\n# **AI Open Source Trends Report**  \n*2026-10-13*\n\n---\n\n## **Step 1: Filtered AI-Relevant Projects**\n\nFrom the GitHub trending and topic search data, we filtered out non-AI projects (e.g., general web tools, UI libraries, games, ML frameworks without AI focus). Only projects with clear AI/ML purpose—especially in agent systems, RAG, LLM inference, workflow automation, and AI...",
+      "created_at": "2026-10-13T03:14:00Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-10-13",
+      "url": "https://github.com/ghub1821239/agents-radar/issues/655",
+      "repo": "ghub1821239/agents-radar",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-10-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-13 03:09 UTC\n\n---\n\n# **AI 开源趋势报告**  \n*2026-10-13*\n\n---\n\n## **步骤 1：筛选与 AI 相关的项目**\n\n从 GitHub 趋势和话题搜索数据中，我们剔除了非 AI 项目（如通用网络工具、UI 库、游戏、无明确 AI 重点的机器学习框架）。仅保留具有清晰 AI/ML 目标——尤其在代理系统、RAG、LLM 推理、工作流自动化及 AI 驱动工具链方面的项目。\n\n---\n\n## **步骤 2 与 3：分类与分析**\n\n---\n\n### **1. 今日亮点**\n\n当前的 AI 开源生态正迎来以**代理为中心的基础设施**的爆发式增长，背后是智能、自主工作流的强劲需求。*morluto/rea* 和 *n8n-io/n8n* 等项目迅速走红，因其支持逆向工程与多代理编排。一个关键趋势是 **MCP（多代理通信协议）** 正成为基础标准，目前已有超过 100 个仓库被标记为...",
+      "created_at": "2026-10-13T03:13:59Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "related-projects: GitHub scan 2026-10-11",
       "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/23",
@@ -35,18 +72,6 @@
       "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent`, created in the last ~7 days, sorted by stars) for new/trending AI dev-tooling repos, deduped against `CATALOG.md` by slug and display name.\n\n## Added (6, within the 10/run cap)\n\n| Repo | One-liner | Disposition |\n|------|-----------|--------------|\n| [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Subagent/work...",
       "created_at": "2026-10-06T13:32:13Z",
       "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-10-06",
-      "url": "https://github.com/stevenko2002/agents-radar/issues/1629",
-      "repo": "stevenko2002/agents-radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-10-06\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-05 22:15 UTC\n\n---\n\n# AI 开源趋势日报（2026-10-06）\n\n> **筛选说明**：Trending 中 `caddy`、`openGym`、`Stremio`、`AnyPS5`、`esp32-c3-adblock`、`tester-army/e2e`、`pingdotgg/t3code` 等与 AI/ML 无明确关联或信息不足，已略去；主题搜索结果默认视为 AI 相关。`claude-mem` 同时出现在 Trending 与 RAG 主题，合并统计。\n\n---\n\n## 1. 今日速览\n\n今日 AI 开源热榜的核心不是新模型，而是 **Agent 基础设施与垂直应用**。跨会话记忆、上下文压缩、harness 优化成为 coding agent 的竞争焦点，`claude-mem`、`ECC`、`headroom`、`caveman` 等集中上榜。RAG 正从传统向量库转向“记忆层/知识图谱/...",
-      "created_at": "2026-10-05T22:22:47Z",
-      "author": "github-actions[bot]",
       "amount": null
     },
     {
@@ -105,31 +130,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
       "created_at": "2026-09-14T04:23:24Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-14",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/325",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-14 02:22 UTC\n\n---\n\n<think>Let me analyze the data carefully and create a comprehensive AI open-source trends daily report.\n\n## Step 1: Filtering - Identify AI/ML related projects\n\n### From Trending (17 repos):\n1. **cathrynlavery/diagram-design** - AI-related (29 editorial diagram types for Claude Code) ✅\n2. **semantica-agi/semantica** - AI-related (Graph-Native Infrastructure for Context and Accountable AI System...",
-      "created_at": "2026-08-14T02:27:19Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-13",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
-      "created_at": "2026-09-13T04:15:22Z",
       "author": "github-actions[bot]",
       "amount": null
     }
