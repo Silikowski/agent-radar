@@ -1,5 +1,49 @@
 [
   {
+    "title": "[GitHub Trending] 2026-10-19",
+    "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/34",
+    "repo": "farijarifriyanto-debug/switchboard",
+    "labels": [],
+    "body": "# GitHub repository watch — week of 2026-10-19\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+    "created_at": "2026-10-19T05:31:57Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-10-19",
+    "url": "https://github.com/845421145-lang/agents-radar/issues/526",
+    "repo": "845421145-lang/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-10-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-19 00:24 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-10-19**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing explosive momentum around **local-first, agent-driven workflows**, with projects enabling users to run intelligent agents entirely on-device. The rise of *AI job search agents* and *voice cloning tools* highlights growing demand for privacy-preservin...",
+    "created_at": "2026-10-19T00:28:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-10-19",
+    "url": "https://github.com/845421145-lang/agents-radar/issues/525",
+    "repo": "845421145-lang/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-10-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-19 00:24 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-10-19**\n\n---\n\n## **1. 今日亮点**\n\nAI 开源生态正迎来以**本地优先、代理驱动工作流**为核心的爆发式增长，各类项目使用户能够在设备端完全运行智能代理。*AI 求职代理*与*语音克隆工具*的兴起，凸显了对隐私保护、自托管生产力解决方案日益增长的需求。值得注意的是，**VoiceStudio** 今日新增 +2,082 颗星——反映出社区对全本地语音 AI 的强烈兴趣。与此同时，**Claude Code 插件**、**代理记忆系统**以及**多代理编排框架**正逐渐成为下一代 AI 开发的基础架构。\n\n---\n\n## **2. 各类别顶级项目**\n\n### 🔧 AI 基础设施\n\n| 项目 | 语言 | 星数（总计 / 今日） | 摘要 |\n| :--- | :--- | ---: | :--- |\n| [anthr...",
+    "created_at": "2026-10-19T00:28:18Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "related-projects: GitHub scan 2026-10-18",
+    "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/29",
+    "repo": "pengqianhan/AI-Human-Research-OS",
+    "labels": [],
+    "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-08-19, at least 50 stars (100 and a research topic for skill repos), not archived or a fork, not already listed; ranked by number of matched query groups (synonymous queries count once), then stars. Descriptions a...",
+    "created_at": "2026-10-18T21:33:58Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-10-18",
     "url": "https://github.com/96loveslife/big_model_radar/issues/660",
     "repo": "96loveslife/big_model_radar",
@@ -8,30 +52,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-10-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-18 03:56 UTC\n\n---\n\n<think>The user wants me to generate a structured AI Open Source Trends Daily Report based on GitHub data from 2026-10-18. Let me analyze the data carefully.\n\nFirst, let me filter AI-related projects from the Trending list (13 repos):\n\n1. **anthropics/claude-plugins-official** - Claude Code Plugins directory - ✅ AI related\n2. **MadsLorentzen/ai-job-search** - AI job application framework on Cla...",
     "created_at": "2026-10-18T04:00:43Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-10-18",
-    "url": "https://github.com/845421145-lang/agents-radar/issues/512",
-    "repo": "845421145-lang/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-10-18\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-18 00:13 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-10-18**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing a surge in agent-centric tooling, with *Claude Code*, *Agent Skills libraries*, and *local-first AI workflows* dominating today’s trending list. Notably, **VoiceStudio** (130+ new stars) and **CLI-Anything** have emerged as top performers, signaling ...",
-    "created_at": "2026-10-18T00:16:31Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-10-18",
-    "url": "https://github.com/845421145-lang/agents-radar/issues/511",
-    "repo": "845421145-lang/agents-radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-10-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-18 00:13 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-10-18**\n\n---\n\n## **1. 今日亮点**\n\n当前，以智能体为中心的工具生态正在迅速发展，*Claude Code*、*Agent Skills 库*以及*本地优先的 AI 工作流*成为今日热门趋势的核心。值得注意的是，**VoiceStudio**（新增 130+ 星标）和 **CLI-Anything** 成为表现最突出的项目，反映出市场对完全本地化、注重隐私保护的 AI 应用的强烈需求。*Agent 框架*如 **ECC** 和 **Ruflo** 的兴起，结合聚焦 RAG 的向量数据库与记忆系统普及，表明自主型 AI 智能体的基础设施层正在逐步成熟。与此同时，**K-Dense-AI 的科学智能体技能库**也凸显了领域特定 AI 自动化日益增长的专业化趋势。\n\n---\n\n## **2. 各类别顶级项目**\n\n### 🔧...",
-    "created_at": "2026-10-18T00:16:30Z",
     "author": "github-actions[bot]",
     "amount": null
   },
