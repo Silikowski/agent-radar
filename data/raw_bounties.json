@@ -1,5 +1,18 @@
 [
   {
+    "title": "📈 AI 开源趋势日报 2026-09-21",
+    "url": "https://github.com/96loveslife/big_model_radar/issues/525",
+    "repo": "96loveslife/big_model_radar",
+    "labels": [
+      "trending",
+      "archived"
+    ],
+    "body": "# AI 开源趋势日报 2026-09-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-21 04:19 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on the provided GitHub data. Let me analyze the data step by step.\n\n## Step 1: Filtering\n\nFirst, I need to identify which projects are AI/ML related from both the Trending list and the Topic Search results.\n\n### Trending List Analysis:\n1. **affaan-m/ECC** - Agent harness performance optimization for Clau...",
+    "created_at": "2026-09-21T04:23:35Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-09-20",
     "url": "https://github.com/96loveslife/big_model_radar/issues/520",
     "repo": "96loveslife/big_model_radar",
@@ -9,18 +22,6 @@
     ],
     "body": "# AI 开源趋势日报 2026-09-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-20 04:22 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending AI repositories from 2026-09-20 and produce a structured daily report. Let me go through the data carefully.\n\n**Step 1: Filter AI-related projects from Trending list (15 repos)**\n\n1. cloudflare/security-audit-skill [JavaScript] +3155 today - \"A coding-agent skill for multi-phase security audits\" - AI-related (coding agent skill) ✅\n2. trycua/cu...",
     "created_at": "2026-09-20T04:25:21Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI Open Source Trends 2026-10-20",
-    "url": "https://github.com/kouweizhu/agents-radar/issues/568",
-    "repo": "kouweizhu/agents-radar",
-    "labels": [
-      "trending-en"
-    ],
-    "body": "# AI Open Source Trends 2026-10-20\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-20 01:12 UTC\n\n---\n\n<think>Let me analyze the data and create a structured AI Open Source Trends Report.\n\nFirst, I need to filter for AI-related projects from the trending list and topic search results, then categorize them appropriately.\n\nFrom the \"Today's Trending\" list (12 repos):\n1. MadsLorentzen/ai-job-search - AI job application framework - AI Application\n2. anomalyco/opencode - open sour...",
-    "created_at": "2026-10-20T01:30:27Z",
     "author": "github-actions[bot]",
     "amount": null
   },
@@ -92,18 +93,6 @@
     "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent`, created in the last ~7 days, sorted by stars) for new/trending AI dev-tooling repos, deduped against `CATALOG.md` by slug and display name.\n\n## Added (6, within the 10/run cap)\n\n| Repo | One-liner | Disposition |\n|------|-----------|--------------|\n| [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Subagent/work...",
     "created_at": "2026-10-06T13:32:13Z",
     "author": "mattbutlerengineering",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-09-21",
-    "url": "https://github.com/96loveslife/big_model_radar/issues/525",
-    "repo": "96loveslife/big_model_radar",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-09-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-21 04:19 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on the provided GitHub data. Let me analyze the data step by step.\n\n## Step 1: Filtering\n\nFirst, I need to identify which projects are AI/ML related from both the Trending list and the Topic Search results.\n\n### Trending List Analysis:\n1. **affaan-m/ECC** - Agent harness performance optimization for Clau...",
-    "created_at": "2026-09-21T04:23:35Z",
-    "author": "github-actions[bot]",
     "amount": null
   },
   {
