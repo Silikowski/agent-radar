@@ -1,5 +1,27 @@
 [
   {
+    "title": "[GitHub Trending] 2026-10-26",
+    "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/50",
+    "repo": "farijarifriyanto-debug/switchboard",
+    "labels": [],
+    "body": "# GitHub repository watch — week of 2026-10-26\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+    "created_at": "2026-10-26T05:38:29Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "BF-935: a Scout run lists the same repository more than once when it matches several topic searches: within-run results are never deduplicated",
+    "url": "https://github.com/seangalliher/ProbOS/issues/1674",
+    "repo": "seangalliher/ProbOS",
+    "labels": [
+      "bug"
+    ],
+    "body": "## Summary\n\nA single Scout run lists the same repository more than once when the repo matches several of its topic searches. Crew noticed a repo \"listed twice\" (thread `2d729304`, 2026-10-25). Wesley guessed this was the cause, and Atlas withdrew the claim only because he couldn't ground it.\n\n**Source:** found by `claude-architect` while drafting AD-1354 (#1672), and confirmed by the main session on `origin/main` `5e3cc991`.\n**BF number:** this is BF-935 (BF-934 filed alongside).\n\n## Cause\n\n`cog...",
+    "created_at": "2026-10-26T02:32:06Z",
+    "author": "seangalliher",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-09-21",
     "url": "https://github.com/96loveslife/big_model_radar/issues/525",
     "repo": "96loveslife/big_model_radar",
