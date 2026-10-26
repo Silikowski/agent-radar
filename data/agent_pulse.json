@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:00:46.678Z",
+  "generated_at": "2026-10-26T14:55:34.095Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,28 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "[GitHub Trending] 2026-10-26",
+      "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/50",
+      "repo": "farijarifriyanto-debug/switchboard",
+      "labels": [],
+      "body": "# GitHub repository watch — week of 2026-10-26\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+      "created_at": "2026-10-26T05:38:29Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "BF-935: a Scout run lists the same repository more than once when it matches several topic searches: within-run results are never deduplicated",
+      "url": "https://github.com/seangalliher/ProbOS/issues/1674",
+      "repo": "seangalliher/ProbOS",
+      "labels": [
+        "bug"
+      ],
+      "body": "## Summary\n\nA single Scout run lists the same repository more than once when the repo matches several of its topic searches. Crew noticed a repo \"listed twice\" (thread `2d729304`, 2026-10-25). Wesley guessed this was the cause, and Atlas withdrew the claim only because he couldn't ground it.\n\n**Source:** found by `claude-architect` while drafting AD-1354 (#1672), and confirmed by the main session on `origin/main` `5e3cc991`.\n**BF number:** this is BF-935 (BF-934 filed alongside).\n\n## Cause\n\n`cog...",
+      "created_at": "2026-10-26T02:32:06Z",
+      "author": "seangalliher",
+      "amount": null
+    },
     {
       "title": "📈 AI 开源趋势日报 2026-09-21",
       "url": "https://github.com/96loveslife/big_model_radar/issues/525",
@@ -109,29 +131,6 @@
       "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent`, created in the last ~7 days, sorted by stars) for new/trending AI dev-tooling repos, deduped against `CATALOG.md` by slug and display name.\n\n## Added (6, within the 10/run cap)\n\n| Repo | One-liner | Disposition |\n|------|-----------|--------------|\n| [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Subagent/work...",
       "created_at": "2026-10-06T13:32:13Z",
       "author": "mattbutlerengineering",
-      "amount": null
-    },
-    {
-      "title": "Open Source Radar — 2026-09-16",
-      "url": "https://github.com/sourav-ojha/open-source-radar/issues/24",
-      "repo": "sourav-ojha/open-source-radar",
-      "labels": [],
-      "body": "# Open Source Radar — 2026-09-16\n_Rotation slot 1 — AI agents, MCP, coding productivity_\n\n## Executive Summary\nToday's discovery pass surfaced a small number of genuinely differentiated finds inside\na very noisy AI-agent-tooling landscape (dozens of near-identical memory/gateway/agent\norchestration repos again dominated raw search results — the same saturated waves flagged\non prior runs). The standouts split into two useful clusters: agent-native project state\n(Beads' dependency-graph task track...",
-      "created_at": "2026-09-16T06:40:24Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-08-15",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/330",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-08-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-08-15 01:34 UTC\n\n---\n\n<think>Let me analyze the data and create a comprehensive AI open-source trends report.\n\n**Step 1: Filter AI-related projects from Trending list (17 repos)**\n\nLet me go through each:\n\n1. **cathrynlavery/diagram-design** - HTML diagram design for Claude Code → 🤖 AI-related (Claude Code tool)\n2. **cactus-compute/needle** - 14MB foundation model for tiny devices → 🧠 AI model (on-device AI)\n3. **...",
-      "created_at": "2026-08-15T01:37:26Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
