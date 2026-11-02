@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:48:35.255Z",
+  "generated_at": "2026-11-02T17:57:13.166Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,26 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "[GitHub Trending] 2026-11-02",
+      "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/57",
+      "repo": "farijarifriyanto-debug/switchboard",
+      "labels": [],
+      "body": "# GitHub repository watch — week of 2026-11-02\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+      "created_at": "2026-11-02T06:59:52Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "related-projects: GitHub scan 2026-11-01",
+      "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/32",
+      "repo": "pengqianhan/AI-Human-Research-OS",
+      "labels": [],
+      "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-09-02, at least 50 stars (100 and a research topic for skill repos, at most 3 of them per run; a research topic also for repos matched only by agent-OS queries), not archived or a fork, not already listed; ranked ...",
+      "created_at": "2026-11-01T22:54:06Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "[GitHub Trending] 2026-10-26",
       "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/50",
@@ -106,31 +126,6 @@
       "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
       "created_at": "2026-09-14T04:23:24Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-13",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
-      "created_at": "2026-09-13T04:15:22Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "scan: 2026-10-06 daily discovery",
-      "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/664",
-      "repo": "mattbutlerengineering/ai-tooling",
-      "labels": [
-        "scan"
-      ],
-      "body": "Daily discovery pass. Searched GitHub (`topic:claude-code`, `topic:claude-skills`, `topic:agent-skills`, `topic:mcp-server`, `topic:ai-agents`, `topic:coding-agent`, created in the last ~7 days, sorted by stars) for new/trending AI dev-tooling repos, deduped against `CATALOG.md` by slug and display name.\n\n## Added (6, within the 10/run cap)\n\n| Repo | One-liner | Disposition |\n|------|-----------|--------------|\n| [uzairansaruzi/p3-stack](https://github.com/uzairansaruzi/p3-stack) | Subagent/work...",
-      "created_at": "2026-10-06T13:32:13Z",
-      "author": "mattbutlerengineering",
       "amount": null
     }
   ]
