@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:58:04.870Z",
+  "generated_at": "2026-11-14T14:51:10.258Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,16 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "候选项目 2026-11-14",
+      "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills/issues/6",
+      "repo": "UnderleveledBuilder/awesome-seo-geo-skills",
+      "labels": [],
+      "body": "# 候选项目（2026-11-14）\n\n2026-11-01 以后有推送、至少 3 星，已排除收录和忽略的仓库，共 485 个。\n收录：先跑 `python3 scripts/security.py 仓库名` 做安全检查，再把条目加进 `data/skills.toml`；不收：加进 `data/ignore.toml` 并写明原因。\n\n| 仓库 | ★ | 最近推送 | 创建 | SKILL.md | 简介 | 命中 |\n|---|--:|---|---|--:|---|---|\n| [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 10255 | 2026-11-03 | 2026-09-03 | 0 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \\| Paid services: AI test | ai visibility |\n| [ti...",
+      "created_at": "2026-11-14T06:34:17Z",
+      "author": "UnderleveledBuilder",
+      "amount": null
+    },
     {
       "title": "[GitHub Trending] 2026-11-09",
       "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/59",
@@ -113,19 +123,6 @@
       ],
       "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
       "created_at": "2026-09-14T04:23:24Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-13",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/484",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-13\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-13 04:12 UTC\n\n---\n\n<think>Let me analyze the data carefully and generate a structured AI open source trend report.\n\nFirst, let me filter and identify AI-related projects from the Trending list:\n\n**Trending 榜单 AI 相关项目：**\n1. bilawalsidhu/gods-eye-view - 间谍卫星模拟器，实时空间智能数据 - 与 AI 有关吗？描述说是\"spatial intelligence\"，但更像是3D可视化/地理空间数据，不是核心AI项目。可能是GIS/3D可视化。我会排除它。\n2. melgarafael/DeskcommCRM - AI销售OS，self-hosted CRM with native...",
-      "created_at": "2026-09-13T04:15:22Z",
       "author": "github-actions[bot]",
       "amount": null
     }
