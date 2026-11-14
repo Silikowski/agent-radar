@@ -1,5 +1,15 @@
 [
   {
+    "title": "候选项目 2026-11-14",
+    "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills/issues/6",
+    "repo": "UnderleveledBuilder/awesome-seo-geo-skills",
+    "labels": [],
+    "body": "# 候选项目（2026-11-14）\n\n2026-11-01 以后有推送、至少 3 星，已排除收录和忽略的仓库，共 485 个。\n收录：先跑 `python3 scripts/security.py 仓库名` 做安全检查，再把条目加进 `data/skills.toml`；不收：加进 `data/ignore.toml` 并写明原因。\n\n| 仓库 | ★ | 最近推送 | 创建 | SKILL.md | 简介 | 命中 |\n|---|--:|---|---|--:|---|---|\n| [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 10255 | 2026-11-03 | 2026-09-03 | 0 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \\| Paid services: AI test | ai visibility |\n| [ti...",
+    "created_at": "2026-11-14T06:34:17Z",
+    "author": "UnderleveledBuilder",
+    "amount": null
+  },
+  {
     "title": "[GitHub Trending] 2026-11-09",
     "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/59",
     "repo": "farijarifriyanto-debug/switchboard",
