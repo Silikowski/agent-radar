@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:51:10.258Z",
+  "generated_at": "2026-11-15T15:27:19.019Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -15,6 +15,18 @@
     "commentary": "⚠️ The AI oracle is currently offline. Showing cached reality. 🌰"
   },
   "bounties": [
+    {
+      "title": "📈 AI 开源趋势日报 2026-11-14",
+      "url": "https://github.com/boom7sss/agents-radar-personal/issues/137",
+      "repo": "boom7sss/agents-radar-personal",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-11-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-14 16:37 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-14）\n\n## 1. 今日速览\n\n今日 AI 开源生态的核心信号是\"**Agent 配套基础设施**\"全面爆发：从 Chrome DevTools 官方出品的 MCP 工具、阿里开源的企业级代码审查 Agent、腾讯的编码 Agent 工作流编排器，到 GoogleChrome 维护的\"给编码 Agent 投喂最新 Web 最佳实践\"仓库，编码场景的 Agent 周边工具占据了 Trending 的半壁江山。同时，**Token 经济学**成为显性话题——caveman（削减 65% token）与 headroom（压缩工具输出）共同指向上下文成本优化正从\"技巧\"变为\"刚需\"。传统阵营（TensorFlow、Transformers、LangChain、Ollama）依然稳居主题搜索榜首，说明社区基本盘稳固；而应用侧的垂直化特征明显，金融交易...",
+      "created_at": "2026-11-14T16:39:55Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
     {
       "title": "候选项目 2026-11-14",
       "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills/issues/6",
@@ -111,19 +123,6 @@
       "body": "# GitHub repository watch — week of 2026-10-12\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**First run / baseline:** weekly star changes are not available yet.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---: | ---: | --- |\n| 1 | [NousR...",
       "created_at": "2026-10-14T10:00:45Z",
       "author": "farijarifriyanto-debug",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-14",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/489",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-14 04:19 UTC\n\n---\n\n<think>Let me analyze the data carefully to filter, categorize, and analyze AI-related GitHub repositories.\n\nFirst, let me filter the Trending list for AI-related projects:\n\n**Trending 榜单 AI 相关项目筛选：**\n\n1. **JustVugg/colibri** [C] +868 today - \"Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk\" — ✅ AI 相关 (MoE 模型推理引擎)\n\n2. **ever-co/ever-gauzy** [T...",
-      "created_at": "2026-09-14T04:23:24Z",
-      "author": "github-actions[bot]",
       "amount": null
     }
   ]
