@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:27:19.019Z",
+  "generated_at": "2026-11-16T18:03:08.869Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -16,6 +16,38 @@
   },
   "bounties": [
     {
+      "title": "related-projects: GitHub scan 2026-11-15",
+      "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/35",
+      "repo": "pengqianhan/AI-Human-Research-OS",
+      "labels": [],
+      "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-09-16, at least 50 stars (100 and a research topic for skill repos, at most 3 of them per run; a research topic also for repos matched only by agent-OS queries), not archived or a fork, not already listed; ranked ...",
+      "created_at": "2026-11-15T23:26:01Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "[GitHub Trending] 2026-11-16",
+      "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/62",
+      "repo": "farijarifriyanto-debug/switchboard",
+      "labels": [],
+      "body": "# GitHub repository watch — week of 2026-11-16\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+      "created_at": "2026-11-16T07:29:32Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-11-15",
+      "url": "https://github.com/boom7sss/agents-radar-personal/issues/144",
+      "repo": "boom7sss/agents-radar-personal",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-11-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-15 17:13 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-11-15\n\n## 1. 今日速览\n\n今日热榜的核心叙事是「**Agent 技能化（Skills）**」：Google、NVIDIA、腾讯、阿里巴巴同日有多款与 Agent Skills、Agent 编排、Agent 评测相关的项目登榜，说明社区关注点正从「造 Agent」转向「驯 Agent」。趋势侧，Claude Code / Codex / Cursor 已成为事实上的技能运行宿主，围绕它们的上下文压缩、持久记忆、代码图谱类项目集中出现。同时，Agent 与前端、浏览器、办公套件的协议层和工具层正在打通（AG-UI、Chrome DevTools MCP、Univer）。传统的模型框架（TensorFlow、PyTorch、scikit-learn）依然庞大但缺乏新增热度，流量明显向 Agent 工程侧倾斜。\n\n> 说明：Trending ...",
+      "created_at": "2026-11-15T17:15:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
       "title": "📈 AI 开源趋势日报 2026-11-14",
       "url": "https://github.com/boom7sss/agents-radar-personal/issues/137",
       "repo": "boom7sss/agents-radar-personal",
@@ -25,16 +57,6 @@
       "body": "# AI 开源趋势日报 2026-11-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-14 16:37 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-14）\n\n## 1. 今日速览\n\n今日 AI 开源生态的核心信号是\"**Agent 配套基础设施**\"全面爆发：从 Chrome DevTools 官方出品的 MCP 工具、阿里开源的企业级代码审查 Agent、腾讯的编码 Agent 工作流编排器，到 GoogleChrome 维护的\"给编码 Agent 投喂最新 Web 最佳实践\"仓库，编码场景的 Agent 周边工具占据了 Trending 的半壁江山。同时，**Token 经济学**成为显性话题——caveman（削减 65% token）与 headroom（压缩工具输出）共同指向上下文成本优化正从\"技巧\"变为\"刚需\"。传统阵营（TensorFlow、Transformers、LangChain、Ollama）依然稳居主题搜索榜首，说明社区基本盘稳固；而应用侧的垂直化特征明显，金融交易...",
       "created_at": "2026-11-14T16:39:55Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "候选项目 2026-11-14",
-      "url": "https://github.com/UnderleveledBuilder/awesome-seo-geo-skills/issues/6",
-      "repo": "UnderleveledBuilder/awesome-seo-geo-skills",
-      "labels": [],
-      "body": "# 候选项目（2026-11-14）\n\n2026-11-01 以后有推送、至少 3 星，已排除收录和忽略的仓库，共 485 个。\n收录：先跑 `python3 scripts/security.py 仓库名` 做安全检查，再把条目加进 `data/skills.toml`；不收：加进 `data/ignore.toml` 并写明原因。\n\n| 仓库 | ★ | 最近推送 | 创建 | SKILL.md | 简介 | 命中 |\n|---|--:|---|---|--:|---|---|\n| [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 10255 | 2026-11-03 | 2026-09-03 | 0 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \\| Paid services: AI test | ai visibility |\n| [ti...",
-      "created_at": "2026-11-14T06:34:17Z",
-      "author": "UnderleveledBuilder",
       "amount": null
     },
     {
@@ -101,28 +123,6 @@
       "body": "# GitHub repository watch — week of 2026-10-19\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
       "created_at": "2026-10-19T05:31:57Z",
       "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-10-18",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/660",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-10-18\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-18 03:56 UTC\n\n---\n\n<think>The user wants me to generate a structured AI Open Source Trends Daily Report based on GitHub data from 2026-10-18. Let me analyze the data carefully.\n\nFirst, let me filter AI-related projects from the Trending list (13 repos):\n\n1. **anthropics/claude-plugins-official** - Claude Code Plugins directory - ✅ AI related\n2. **MadsLorentzen/ai-job-search** - AI job application framework on Cla...",
-      "created_at": "2026-10-18T04:00:43Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "[GitHub Trending] 2026-10-12",
-      "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/26",
-      "repo": "farijarifriyanto-debug/switchboard",
-      "labels": [],
-      "body": "# GitHub repository watch — week of 2026-10-12\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**First run / baseline:** weekly star changes are not available yet.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---: | ---: | --- |\n| 1 | [NousR...",
-      "created_at": "2026-10-14T10:00:45Z",
-      "author": "farijarifriyanto-debug",
       "amount": null
     }
   ]
