@@ -1,5 +1,53 @@
 [
   {
+    "title": "📈 AI Open Source Trends 2026-11-19",
+    "url": "https://github.com/BuhDuy256/agents-radar/issues/350",
+    "repo": "BuhDuy256/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-11-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-11-19 07:12 UTC\n\n---\n\n| Project | Lang | Stars (total / today) | What it does / when to use it |\n| :--- | :--- | ---: | :--- |\n| [cursor/plugins](https://github​.com/cursor/plugins) | TypeScript | 0 (+314) | Ships the Cursor plugin specification plus official plugins. Useful when you need to package or extend Cursor with official plugin definitions. |\n| [HKUDS/CLI-Anything](https://github​.com/HK...",
+    "created_at": "2026-11-19T07:13:10Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 Xu hướng mã nguồn mở AI 2026-11-19",
+    "url": "https://github.com/BuhDuy256/agents-radar/issues/349",
+    "repo": "BuhDuy256/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# Xu hướng mã nguồn mở AI 2026-11-19\n\n> Nguồn dữ liệu: GitHub Trending + GitHub Search API | Tạo lúc: 2026-11-19 07:12 UTC\n\n---\n\n| Dự án | Ngôn ngữ | Sao (tổng / hôm nay) | Chức năng / khi nào dùng |\n| :--- | :--- | ---: | :--- |\n| [cursor/plugins](https://github​.com/cursor/plugins) | TypeScript | 0 (+314) | Cung cấp đặc tả plugin của Cursor cùng các plugin chính thức. Hữu ích khi bạn cần đóng gói hoặc mở rộng Cursor bằng các định nghĩa plugin chính thức. |\n| [HKUDS/CLI-Anything](https://github...",
+    "created_at": "2026-11-19T07:13:09Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI Open Source Trends 2026-11-19",
+    "url": "https://github.com/duanyytop/agents-radar/issues/4365",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending-en"
+    ],
+    "body": "# AI Open Source Trends 2026-11-19\n\n> Sources: GitHub Trending + GitHub Search API | Generated: 2026-11-19 03:48 UTC\n\n---\n\n# **AI Open Source Trends Report – 2026-11-19**\n\n---\n\n## **1. Today's Highlights**\n\nThe AI open-source ecosystem is witnessing explosive momentum in **agent-native tooling and infrastructure**, with projects enabling autonomous workflows, skill-based agent execution, and local-first AI experiences gaining massive traction. Notably, *affaan-m/ECC* and *NVIDIA/SkillEvaluator* ...",
+    "created_at": "2026-11-19T03:51:52Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-11-19",
+    "url": "https://github.com/duanyytop/agents-radar/issues/4364",
+    "repo": "duanyytop/agents-radar",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-11-19\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-19 03:48 UTC\n\n---\n\n# **AI 开源趋势报告 – 2026-11-19**\n\n---\n\n## **1. 今日亮点**\n\n当前的 AI 开源生态正迎来**原生代理工具与基础设施**的爆发式增长，支持自主工作流、基于技能的代理执行以及本地优先的 AI 体验的项目迅速走红。值得注意的是，*affaan-m/ECC* 和 *NVIDIA/SkillEvaluator* 正在引领优化代理性能和大规模评估 AI 技能的新潮流。与此同时，*google-research/paper-orchestra* 展示了多代理系统如今已能自主撰写科研论文——这是由 AI 驱动科学产出的一个里程碑。**MCP（模型控制协议）服务器**和代理技能标准的兴起，预示着生态系统日趋成熟，互操作性与可组合性正成为核心设计原则。\n\n---\n\n## **2. 按类别划分的顶级项目**\n\n### 🔧 AI 基础设施\n\n| 项目 | 语言 |...",
+    "created_at": "2026-11-19T03:51:51Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-10-18",
     "url": "https://github.com/96loveslife/big_model_radar/issues/660",
     "repo": "96loveslife/big_model_radar",
@@ -545,23 +593,6 @@
     ],
     "body": "# Xu hướng AI Mã nguồn mở 2026-03-19\n\n> Nguồn: GitHub Trending + GitHub Search API | Thời gian tạo: 2026-03-19 02:05 UTC\n\n---\n\nBáo cáo Xu hướng Mã nguồn mở AI — 2026-03-19\n\nBước 1 — Lọc nhanh\nTừ dữ liệu cung cấp, loại trừ repo không liên quan (ví dụ trình giả lập PS4). Các repo rõ ràng liên quan AI/ML được giữ lại (xuất hiện trong báo cáo dưới đây).\n\nBước 2 — Phân loại (mỗi dự án kèm link + sao)\nLưu ý: chỉ ghi số sao tổng như trong nguồn; với repo Trending có thêm số sao \"mới hôm nay\" khi có.\n\n\ud83d...",
     "created_at": "2026-03-19T02:11:03Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot",
-    "url": "https://github.com/DevExpGbb/vscode-ghcp-starter-kit/issues/3",
-    "repo": "DevExpGbb/vscode-ghcp-starter-kit",
-    "labels": [
-      "research",
-      "weekly-report",
-      "ai-development",
-      "github-copilot",
-      "mcp",
-      "agentic-workflows"
-    ],
-    "body": "# Weekly Research: AI-Powered Development Ecosystems - The Rise of Agentic Workflows, MCP Integration, and the Evolution of Copilot\n\n**Research Date:** October 7, 2025  \n**Repository:** DevExpGbb/vscode-ghcp-starter-kit\n\n---\n\n## Executive Summary\n\nThe vscode-ghcp-starter-kit repository sits at the intersection of three converging trends: the maturation of GitHub Copilot into an autonomous agent, the explosive growth of the Model Context Protocol (MCP) ecosystem, and the industry-wide shift towar...",
-    "created_at": "2025-10-07T14:52:35Z",
     "author": "github-actions[bot]",
     "amount": null
   }
