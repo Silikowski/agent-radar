@@ -1,5 +1,29 @@
 [
   {
+    "title": "scan: 2026-11-21 daily discovery",
+    "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/801",
+    "repo": "mattbutlerengineering/ai-tooling",
+    "labels": [
+      "scan"
+    ],
+    "body": "Daily discovery pass. Searched `gh api search/repositories` for topics `claude-code`, `claude-skills`, `agent-skills`, `mcp-server`, `ai-agents` (created/pushed in the last ~7 days, sorted by stars) plus a `claude-code mcp server` / `claude-code-plugin` sweep and a skills.sh web search.\n\nMost candidates surfaced by these searches were already catalogued by prior routine runs (e.g. `rust-anything`, `turbo-browser-mcp`, `poo`, `pulsar`, `agent-crop`, `Hill-Climb`, `backendskills`, `mobile-agent-te...",
+    "created_at": "2026-11-21T14:19:02Z",
+    "author": "mattbutlerengineering",
+    "amount": null
+  },
+  {
+    "title": "📈 AI 开源趋势日报 2026-11-20",
+    "url": "https://github.com/boom7sss/agents-radar-personal/issues/184",
+    "repo": "boom7sss/agents-radar-personal",
+    "labels": [
+      "trending"
+    ],
+    "body": "# AI 开源趋势日报 2026-11-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-20 18:37 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-11-20\n\n## 1. 今日速览\n\n今日最显著的特征是**“Agent Skills”生态的集中爆发**：Trending 前 16 名中有超过半数与 Claude Code、Codex、Cursor 等编码智能体的技能扩展直接相关，且出现了针对 bug 猎捕、图表设计、应用商店合规、话题研究等细分场景的“技能包”。同时，**降低 token 成本与上下文管理**（caveman、headroom、claude-mem、graphify）成为独立的工具品类，说明社区关注点正从“能否跑通 Agent”转向“如何让 Agent 更省、更持久、更可靠”。大模型训练侧则呈现“轻量化 + 教学化”双线并进（minimind 两小时训 64M 模型、LLMs-from-scratch）。此外，**CLI/MCP 作为智能体与软件交互的统一接口**成为新方向...",
+    "created_at": "2026-11-20T18:39:47Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "📈 AI 开源趋势日报 2026-10-18",
     "url": "https://github.com/96loveslife/big_model_radar/issues/660",
     "repo": "96loveslife/big_model_radar",
