@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:57:07.021Z",
+  "generated_at": "2026-11-22T16:00:14.585Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -75,18 +75,6 @@
       "amount": null
     },
     {
-      "title": "📈 AI 开源趋势日报 2026-11-14",
-      "url": "https://github.com/boom7sss/agents-radar-personal/issues/137",
-      "repo": "boom7sss/agents-radar-personal",
-      "labels": [
-        "trending"
-      ],
-      "body": "# AI 开源趋势日报 2026-11-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-14 16:37 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-14）\n\n## 1. 今日速览\n\n今日 AI 开源生态的核心信号是\"**Agent 配套基础设施**\"全面爆发：从 Chrome DevTools 官方出品的 MCP 工具、阿里开源的企业级代码审查 Agent、腾讯的编码 Agent 工作流编排器，到 GoogleChrome 维护的\"给编码 Agent 投喂最新 Web 最佳实践\"仓库，编码场景的 Agent 周边工具占据了 Trending 的半壁江山。同时，**Token 经济学**成为显性话题——caveman（削减 65% token）与 headroom（压缩工具输出）共同指向上下文成本优化正从\"技巧\"变为\"刚需\"。传统阵营（TensorFlow、Transformers、LangChain、Ollama）依然稳居主题搜索榜首，说明社区基本盘稳固；而应用侧的垂直化特征明显，金融交易...",
-      "created_at": "2026-11-14T16:39:55Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
       "title": "[GitHub Trending] 2026-11-09",
       "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/59",
       "repo": "farijarifriyanto-debug/switchboard",
@@ -126,6 +114,19 @@
       ],
       "body": "# AI 开源趋势日报 2026-09-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-21 04:19 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on the provided GitHub data. Let me analyze the data step by step.\n\n## Step 1: Filtering\n\nFirst, I need to identify which projects are AI/ML related from both the Trending list and the Topic Search results.\n\n### Trending List Analysis:\n1. **affaan-m/ECC** - Agent harness performance optimization for Clau...",
       "created_at": "2026-09-21T04:23:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-09-20",
+      "url": "https://github.com/96loveslife/big_model_radar/issues/520",
+      "repo": "96loveslife/big_model_radar",
+      "labels": [
+        "trending",
+        "archived"
+      ],
+      "body": "# AI 开源趋势日报 2026-09-20\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-20 04:22 UTC\n\n---\n\n<think>The user wants me to analyze GitHub trending AI repositories from 2026-09-20 and produce a structured daily report. Let me go through the data carefully.\n\n**Step 1: Filter AI-related projects from Trending list (15 repos)**\n\n1. cloudflare/security-audit-skill [JavaScript] +3155 today - \"A coding-agent skill for multi-phase security audits\" - AI-related (coding agent skill) ✅\n2. trycua/cu...",
+      "created_at": "2026-09-20T04:25:21Z",
       "author": "github-actions[bot]",
       "amount": null
     }

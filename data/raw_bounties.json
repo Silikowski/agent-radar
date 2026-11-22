@@ -59,18 +59,6 @@
     "amount": null
   },
   {
-    "title": "📈 AI 开源趋势日报 2026-11-14",
-    "url": "https://github.com/boom7sss/agents-radar-personal/issues/137",
-    "repo": "boom7sss/agents-radar-personal",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-11-14\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-14 16:37 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-14）\n\n## 1. 今日速览\n\n今日 AI 开源生态的核心信号是\"**Agent 配套基础设施**\"全面爆发：从 Chrome DevTools 官方出品的 MCP 工具、阿里开源的企业级代码审查 Agent、腾讯的编码 Agent 工作流编排器，到 GoogleChrome 维护的\"给编码 Agent 投喂最新 Web 最佳实践\"仓库，编码场景的 Agent 周边工具占据了 Trending 的半壁江山。同时，**Token 经济学**成为显性话题——caveman（削减 65% token）与 headroom（压缩工具输出）共同指向上下文成本优化正从\"技巧\"变为\"刚需\"。传统阵营（TensorFlow、Transformers、LangChain、Ollama）依然稳居主题搜索榜首，说明社区基本盘稳固；而应用侧的垂直化特征明显，金融交易...",
-    "created_at": "2026-11-14T16:39:55Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
     "title": "[GitHub Trending] 2026-11-09",
     "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/59",
     "repo": "farijarifriyanto-debug/switchboard",
