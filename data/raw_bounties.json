@@ -1,5 +1,25 @@
 [
   {
+    "title": "[GitHub Trending] 2026-11-23",
+    "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/63",
+    "repo": "farijarifriyanto-debug/switchboard",
+    "labels": [],
+    "body": "# GitHub repository watch — week of 2026-11-23\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
+    "created_at": "2026-11-23T08:27:37Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
+    "title": "related-projects: GitHub scan 2026-11-23",
+    "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/46",
+    "repo": "pengqianhan/AI-Human-Research-OS",
+    "labels": [],
+    "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-09-24, at least 50 stars (100 and a research topic for skill repos, at most 3 of them per run; a research topic also for repos matched only by agent-OS queries), not archived or a fork, not already listed; ranked ...",
+    "created_at": "2026-11-23T00:22:12Z",
+    "author": "github-actions[bot]",
+    "amount": null
+  },
+  {
     "title": "scan: 2026-11-21 daily discovery",
     "url": "https://github.com/mattbutlerengineering/ai-tooling/issues/801",
     "repo": "mattbutlerengineering/ai-tooling",
@@ -43,18 +63,6 @@
     "labels": [],
     "body": "# GitHub repository watch — week of 2026-11-16\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
     "created_at": "2026-11-16T07:29:32Z",
-    "author": "github-actions[bot]",
-    "amount": null
-  },
-  {
-    "title": "📈 AI 开源趋势日报 2026-11-15",
-    "url": "https://github.com/boom7sss/agents-radar-personal/issues/144",
-    "repo": "boom7sss/agents-radar-personal",
-    "labels": [
-      "trending"
-    ],
-    "body": "# AI 开源趋势日报 2026-11-15\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-15 17:13 UTC\n\n---\n\n# AI 开源趋势日报 · 2026-11-15\n\n## 1. 今日速览\n\n今日热榜的核心叙事是「**Agent 技能化（Skills）**」：Google、NVIDIA、腾讯、阿里巴巴同日有多款与 Agent Skills、Agent 编排、Agent 评测相关的项目登榜，说明社区关注点正从「造 Agent」转向「驯 Agent」。趋势侧，Claude Code / Codex / Cursor 已成为事实上的技能运行宿主，围绕它们的上下文压缩、持久记忆、代码图谱类项目集中出现。同时，Agent 与前端、浏览器、办公套件的协议层和工具层正在打通（AG-UI、Chrome DevTools MCP、Univer）。传统的模型框架（TensorFlow、PyTorch、scikit-learn）依然庞大但缺乏新增热度，流量明显向 Agent 工程侧倾斜。\n\n> 说明：Trending ...",
-    "created_at": "2026-11-15T17:15:35Z",
     "author": "github-actions[bot]",
     "amount": null
   },
