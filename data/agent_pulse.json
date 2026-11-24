@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:56:03.248Z",
+  "generated_at": "2026-11-24T19:24:03.941Z",
   "analysis": {
     "market_sentiment": "Data Stream Interrupted",
     "top_skills": [
@@ -16,22 +16,36 @@
   },
   "bounties": [
     {
+      "title": "📈 AI 开源趋势日报 2026-11-24",
+      "url": "https://github.com/boom7sss/agents-radar-personal/issues/216",
+      "repo": "boom7sss/agents-radar-personal",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-11-24\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-24 09:55 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-24）\n\n## 1. 今日速览\n\n今日热榜最鲜明的信号是“Agent 基础设施层”的集体爆发：Claude Code / Codex / Gemini CLI 等编码智能体的 **Skills、记忆、上下文压缩、网页感知** 插件大量登榜，说明生态正从“模型能力”转向“Agent 外围工程”。其次，**Token 成本优化**成为独立赛道（caveman、headroom 同日出现），反映 Agent 长会话的实用化压力。第三，**垂直场景 Agent 应用**（求职、股票分析、视频剪辑、App 上架合规）密集出现，`autoclip` 与 `MoneyPrinterTurbo` 同日上榜，AI 内容再生成已是成熟需求。传统 ML 框架（TensorFlow、PyTorch、scikit-learn）仍占据 star 总量高地但今日无新增，热度...",
+      "created_at": "2026-11-24T09:57:35Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
+      "title": "📈 AI 开源趋势日报 2026-11-23",
+      "url": "https://github.com/boom7sss/agents-radar-personal/issues/208",
+      "repo": "boom7sss/agents-radar-personal",
+      "labels": [
+        "trending"
+      ],
+      "body": "# AI 开源趋势日报 2026-11-23\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-11-23 22:04 UTC\n\n---\n\n# AI 开源趋势日报（2026-11-23）\n\n## 1. 今日速览\n\n今日热榜最大的信号是“Agent 原生”正在从概念变为工程实践：CLI-Anything 提出让所有软件变成 Agent 可调用的接口，而 Claude-BugHunter、superpowers、stitch-skills 等“技能包（Skills）”集中登榜，说明社区正在围绕 Claude Code / Codex / Gemini CLI 等编码 Agent 构建可复用的能力层。与此同时，面向 Agent 的“上下文经济”成为新战场——firecrawl（知识获取）、headroomlabs（Token 压缩）、claude-mem（跨会话记忆）、caveman（精简输出）从不同角度解决同一问题。基础层方面，minimind 用“2 小时训练 64M 小模型”持续吸引关注，openvino 代表端侧推理优...",
+      "created_at": "2026-11-23T22:06:06Z",
+      "author": "github-actions[bot]",
+      "amount": null
+    },
+    {
       "title": "[GitHub Trending] 2026-11-23",
       "url": "https://github.com/farijarifriyanto-debug/switchboard/issues/63",
       "repo": "farijarifriyanto-debug/switchboard",
       "labels": [],
       "body": "# GitHub repository watch — week of 2026-11-23\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
       "created_at": "2026-11-23T08:27:37Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "related-projects: GitHub scan 2026-11-23",
-      "url": "https://github.com/pengqianhan/AI-Human-Research-OS/pull/46",
-      "repo": "pengqianhan/AI-Human-Research-OS",
-      "labels": [],
-      "body": "Automated weekly keyword scan of GitHub. Review the entries in `os-build/references/related-projects.md`: edit, move, or delete them on this branch, then merge. Entries you delete, and every entry of a PR you close without merging, will not be proposed again.\n\nFilter: pushed since 2026-09-24, at least 50 stars (100 and a research topic for skill repos, at most 3 of them per run; a research topic also for repos matched only by agent-OS queries), not archived or a fork, not already listed; ranked ...",
-      "created_at": "2026-11-23T00:22:12Z",
       "author": "github-actions[bot]",
       "amount": null
     },
@@ -109,19 +123,6 @@
       "labels": [],
       "body": "# GitHub repository watch — week of 2026-10-26\n\n**Source:** GitHub Search API. **Stars = total stars; change = difference from the prior weekly snapshot, not the official GitHub Trending ranking.**\n**Comparison:** versus last available report snapshot. Negative differences are clamped to zero.\n**Scope:** source repositories only; no dependency installation, code execution, or cloning. Public metadata is untrusted.\n\n| # | Repository | Total stars | Change | Search categories |\n| ---: | --- | ---:...",
       "created_at": "2026-10-26T05:38:29Z",
-      "author": "github-actions[bot]",
-      "amount": null
-    },
-    {
-      "title": "📈 AI 开源趋势日报 2026-09-21",
-      "url": "https://github.com/96loveslife/big_model_radar/issues/525",
-      "repo": "96loveslife/big_model_radar",
-      "labels": [
-        "trending",
-        "archived"
-      ],
-      "body": "# AI 开源趋势日报 2026-09-21\n\n> 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-09-21 04:19 UTC\n\n---\n\n<think>The user wants me to generate a structured \"AI Open Source Trend Daily Report\" based on the provided GitHub data. Let me analyze the data step by step.\n\n## Step 1: Filtering\n\nFirst, I need to identify which projects are AI/ML related from both the Trending list and the Topic Search results.\n\n### Trending List Analysis:\n1. **affaan-m/ECC** - Agent harness performance optimization for Clau...",
-      "created_at": "2026-09-21T04:23:35Z",
       "author": "github-actions[bot]",
       "amount": null
     }
